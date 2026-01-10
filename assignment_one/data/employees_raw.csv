@@ -1,0 +1,1201 @@
+employee_id,first_name,last_name,email,hire_date,job_title,department,salary,manager_id,address,city,state,zip_code,birth_date,status
+5000,isaac,bakshi,Isaac.Bakshi@COMPANY.COM,2020-09-13,Machine Learning Engineer,Platform,2821979,5024,"18/196, Balan Nagar Bellary-890838",Muzaffarnagar,KA,940265,1981-09-09,active
+5001,ARUNIMA,DUGAL,Arunima.Dugal@COMPANY.COM,2019-09-08,Technical Lead,Analytics,331177,,"15, Lalla Path Jaunpur 618495",Coimbatore,AP,341316,1987-12-07,Active
+5002,ARUNIMA,setty,Arunima.Setty@company.com,2026-11-03,Data Engineer,HR,"₹1,944,815",,H.No. 34 Garg Zila Ujjain-648350,Patna,DL,641395,1989-11-07,Active
+5003,SIMON,TATA,Simon.Tata@company.com,2022-10-03,Engineering Manager,Analytics,687127,,388 Sangha Road Mirzapur-287101,Kozhikode,TN,916697,1996-04-01,Active
+5004,zayan,APTE,Zayan.Apte@company.com,2027-08-07,Data Analyst,Data,2310457,,"H.No. 462 Aggarwal Chowk, Orai 814893",Dindigul,KA,880957,1972-10-27,active
+5005,ANIRUDH,choudhury,Anirudh.Choudhury@COMPANY.COM,2022-03-14,Software Engineer,IT,"₹1,698,959",,"911, Biswas Chowk Warangal-824896",Panvel,DL,465787,1985-12-14,Active
+5006,jai,kota,Jai@company,2019-11-06,HR Executive,HR,"₹2,244,325",,"83/93, Bobal Nagar, Berhampur 051834",Kakinada,KA,997376,1969-05-20,INACTIVE
+5007,ranveer,CHANDRA,Ranveer.Chandra@COMPANY.COM,2017-09-03,Data Analyst,Finance,2333582,,"70 Bhat Zila, Sonipat 333872",South Dumdum,TG,731781,1994-05-11,
+5008,CHANDRESH,zachariah,Chandresh.Zachariah@company.com,2016-04-10,Software Engineer,Platform,320412,,"77, Rattan Ganj Dehradun-064746",Bhatpara,UP,430980,1971-05-17,
+5009,DIPTA,BHANDARI,Dipta.Bhandari@COMPANY.COM,2016-11-16,Data Engineer,Finance,"₹2,761,936",,"H.No. 812, Bir Zila, Sambhal-939909",Gurgaon,TN,435346,2004-10-11,active
+5010,KARAN,MITAL,Karan.Mital@company.com,2023-10-21,HR Executive,Finance,1523011,,"99, Borah Zila Guna 251354",Bahraich,DL,980841,1986-07-17,INACTIVE
+5011,krish,LALLA,Krish.Lalla@company.com,2017-12-27,HR Executive,Platform,1617539,5158,H.No. 93 Jani Path Dibrugarh-401640,Thoothukudi,TN,427868,1972-04-23,
+5012,ADITYA,CHOUDHURY,Aditya.Choudhury@company.com,2017-04-21,Engineering Manager,Analytics,2335930,5079,82/62 Morar Nagar Thane 331586,Patiala,MH,260256,1975-03-03,INACTIVE
+5013,YUVRAJ,loke,Yuvraj.Loke@company.com,2018-09-25,Engineering Manager,IT,2122056,,"33, Palla Chowk, Ambattur-036541",Etawah,TG,850142,1972-05-19,active
+5014,ALKA,BARAD,Alka.Barad@COMPANY.COM,2017-11-13,Engineering Manager,Platform,793818,5044,"98 Rajan Zila, Rohtak 608835",Coimbatore,KA,951484,1994-08-07,active
+5015,nilima,NARAIN,Nilima.Narain@COMPANY.COM,2022-11-14,Technical Lead,Finance,587231,,"62, Mitra Motihari-443699",Kirari Suleman Nagar,TN,738721,1985-02-22,Active
+5016,bhanumati,VARMA,Bhanumati.Varma@COMPANY.COM,2027-04-27,Data Engineer,IT,"₹2,571,467",5000,"43/320, Konda Nagar Phagwara 769367",Latur,WB,016328,1987-11-02,active
+5017,UCCHAL,BEDI,Ucchal.Bedi@COMPANY.COM,2025-07-04,Data Engineer,HR,2930097,,788 Nadig Pudukkottai 872774,Bally,DL,347143,1981-12-25,Active
+5018,ANITA,NAYAK,Anita.Nayak@company.com,2021-06-18,Senior Software Engineer,Finance,"₹2,295,508",5195,"362, Bhatt Ganj Vellore 876036",Bhimavaram,DL,967054,2001-10-13,
+5019,madhavi,saini,Madhavi.Saini@company.com,2025-03-07,Data Analyst,IT,2666185,5071,467 Ramachandran Nagar Machilipatnam-729806,Gwalior,GJ,272046,2002-03-11,Active
+5020,FALAK,kakar,Falak.Kakar@company.com,2023-10-05,Data Engineer,IT,1337915,,"H.No. 64 Singhal Zila, Panvel 531003",Jaipur,MH,327193,1987-04-08,active
+5021,udyati,kunda,Udyati.Kunda@company.com,2022-04-20,Technical Lead,Platform,2574252,5112,"H.No. 19, Muni Nagar Sikar 193149",Buxar,TN,586518,1976-06-11,
+5022,HARITA,ARORA,Harita.Arora@COMPANY.COM,2023-03-04,HR Executive,IT,"₹1,390,933",,H.No. 72 Goda Marg Tadepalligudem 769453,Alwar,TG,379965,1998-05-21,active
+5023,AYUSH,talwar,Ayush.Talwar@company.com,2021-07-21,Senior Software Engineer,IT,2488615,5093,"H.No. 45, Majumdar Road, Hazaribagh-136783",Pallavaram,TG,014363,1977-05-26,INACTIVE
+5024,damini,pillay,Damini.Pillay@COMPANY.COM,2024-01-28,Machine Learning Engineer,Platform,2703328,5073,"85/574 Krishnamurthy Road, Jamshedpur 518233",Bally,UP,134352,2002-09-09,INACTIVE
+5025,chasmum,atwal,Chasmum@company,2025-02-09,Machine Learning Engineer,Platform,323684,,"H.No. 842, Chauhan Chowk, Chapra 777520",Morena,GJ,167190,1973-08-22,active
+5026,max,dixit,Max.Dixit@company.com,2025-08-07,Data Engineer,HR,2757888,,"H.No. 869, Kara Hospet 496499",Phagwara,RJ,334123,1985-09-13,Active
+5027,oscar,borde,Oscar.Borde@company.com,2018-09-08,Technical Lead,Finance,"₹1,648,267",5113,"97/403 Mandal Road, Madurai-493618",Jalgaon,RJ,210249,1965-03-17,active
+5028,BHAVYA,sarna,Bhavya.Sarna@COMPANY.COM,2018-02-20,Senior Software Engineer,HR,2305098,,"H.No. 88 Sarma Chowk, Khora  659401",Ramgarh,DL,490278,1996-12-02,Active
+5029,RIYA,mall,Riya@company,2019-02-10,Machine Learning Engineer,Data,"₹2,682,238",5109,"H.No. 756 Nagi Path, Nanded-674680",Hubli–Dharwad,KA,451680,2004-11-09,INACTIVE
+5030,TURVI,SACHDEV,Turvi@company,2016-12-11,Software Engineer,IT,925172,,"70/348 Mani Street, Shivpuri 093248",Suryapet,MH,131712,1977-10-16,INACTIVE
+5031,wishi,manne,Wishi.Manne@company.com,2024-09-06,Data Analyst,Finance,"₹2,954,499",5152,"37 Dhillon Circle, Jhansi-146584",Ichalkaranji,RJ,997278,1983-08-20,
+5032,VEDA,PAI,Veda@company,2021-09-05,Machine Learning Engineer,Data,"₹2,754,739",5192,"H.No. 33 Rajagopal, Bulandshahr-576627",Cuttack,RJ,171870,2002-08-01,active
+5033,MAANAS,ROUT,Maanas@company,2027-03-01,Technical Lead,HR,2548439,,H.No. 59 Buch Marg Deoghar 578091,Tumkur,DL,161172,1975-07-13,active
+5034,chandani,balakrishnan,Chandani.Balakrishnan@company.com,2016-10-21,Software Engineer,Finance,2041556,5193,H.No. 56 Konda Street Buxar 221969,Mehsana,WB,374740,1987-02-06,
+5035,udyati,MANI,Udyati@company,2027-07-21,Senior Software Engineer,Analytics,635402,,"59, Samra Road Sirsa-367136",Ramgarh,RJ,406409,2002-03-22,active
+5036,chandran,taneja,Chandran.Taneja@company.com,2020-11-22,Engineering Manager,Analytics,"₹1,199,641",5167,"39/421, More Nagar, Visakhapatnam 214562",Mira-Bhayandar,TG,884247,1980-09-07,Active
+5037,CHAKRIKA,NIGAM,Chakrika.Nigam@COMPANY.COM,2017-12-25,Technical Lead,Platform,"₹1,384,965",5169,"685, Rana Zila Bilaspur 754965",Muzaffarpur,DL,098593,1996-11-23,active
+5038,dev,shetty,Dev.Shetty@company.com,2027-12-14,Data Analyst,Analytics,2882478,5104,"004, D’Alia Chowk, Noida-675869",Vijayanagaram,RJ,796405,1985-08-03,
+5039,TEERTH,SAWHNEY,Teerth.Sawhney@company.com,2023-08-04,HR Executive,Finance,1072673,,"58/506, Gupta Road, Malda 390053",Buxar,TN,183933,1981-02-03,active
+5040,falguni,divan,Falguni@company,2026-03-01,Senior Software Engineer,IT,1898972,,"842, Bal Zila, Kanpur 395024",Cuttack,TN,811775,1965-03-21,Active
+5041,yochana,chopra,Yochana.Chopra@company.com,2023-09-18,Data Engineer,IT,"₹731,008",,"84/700, Ratti Chowk Moradabad-711592",Cuttack,TG,998569,1999-04-24,Active
+5042,CHAITALY,setty,Chaitaly.Setty@company.com,2024-08-16,Senior Software Engineer,IT,"₹2,307,606",,"83/673, Nori Marg Silchar 156545",Bhalswa Jahangir Pur,TG,111615,1994-04-20,INACTIVE
+1018,kalpit,bhasin,Kalpit.Bhasin@COMPANY.COM,2026-01-01,Technical Lead,Platform,"₹1,706,209",,"56, Mani Nagar, Nagercoil 983273",Etawah,MH,149368,2003-03-30,
+5044,ATHARV,loke,Atharv@company,2016-07-07,Machine Learning Engineer,Data,2080385,,"H.No. 50 Dhar Street, Coimbatore 018366",Mau,KA,545991,1977-04-21,INACTIVE
+5045,CHARLES,DUGAL,Charles.Dugal@company.com,2018-09-14,Software Engineer,Finance,1718024,5077,67 Sathe Darbhanga 815614,Hajipur,MH,036900,1968-05-30,INACTIVE
+5046,samarth,mitra,Samarth.Mitra@company.com,2019-08-14,HR Executive,IT,"₹2,685,787",,"H.No. 10 Sani Chowk, Bikaner 838851",Kalyan-Dombivli,GJ,071596,1974-05-13,active
+5047,NIDHI,sahni,Nidhi.Sahni@COMPANY.COM,2020-12-12,Data Engineer,Analytics,2020948,5195,"H.No. 29, Pathak Chowk, Junagadh-369681",Tirupati,TN,352181,1972-11-11,INACTIVE
+5048,YASHVI,hari,Yashvi.Hari@company.com,2021-12-19,Machine Learning Engineer,Analytics,857310,,"H.No. 243, Dua Street Belgaum-799799",Satna,KA,717744,1988-12-01,Active
+1022,daksh,pandey,Daksh.Pandey@COMPANY.COM,2024-08-27,Software Engineer,Data,2128019,,"00 Mangat Path, Mysore 798079",Pondicherry,DL,820715,1970-01-28,INACTIVE
+1032,frado,thaman,Frado.Thaman@company.com,2027-01-06,HR Executive,Data,"₹2,888,870",5097,"77/889, Patla Street Ichalkaranji 659051",Bareilly,GJ,449251,1976-10-07,INACTIVE
+5051,LOHIT,PALLA,Lohit.Palla@COMPANY.COM,2021-04-20,Machine Learning Engineer,Data,"₹1,482,186",,"H.No. 86, Datta Path Bhusawal-054235",Nellore,UP,221418,1991-09-13,active
+5052,BALJIWAN,NAYAR,Baljiwan.Nayar@COMPANY.COM,2026-07-16,Software Engineer,IT,"₹2,763,050",,"292, Bassi Chowk, Bharatpur-794738",Tirupati,DL,359774,1973-12-11,active
+5053,lavanya,THAKKAR,Lavanya.Thakkar@company.com,2024-12-30,Software Engineer,Platform,"₹2,144,592",5002,"24/07, Chauhan Path Anantapuram-247826",Korba,TG,506068,1993-07-07,
+5054,kashvi,keer,Kashvi.Keer@company.com,2022-08-05,Data Engineer,IT,410374,5012,"H.No. 515, Devan Street, Baranagar 277901",Bardhaman,TG,289861,1970-07-31,
+5055,BHAVYA,khanna,Bhavya.Khanna@company.com,2021-02-23,Data Engineer,Data,460151,5048,"97, Choudhry Zila Kavali 893246",Srikakulam,DL,396218,1973-04-26,Active
+5056,JALSA,bir,Jalsa@company,2024-12-21,HR Executive,Data,"₹2,075,640",5034,06 Kulkarni Path Raurkela Industrial Township 531952,Nagercoil,TN,277221,2002-01-19,Active
+5057,TANVI,bansal,Tanvi.Bansal@COMPANY.COM,2021-01-06,Technical Lead,Data,1052149,5030,"H.No. 548, Solanki Marg Vadodara 450541",Junagadh,GJ,765277,1978-09-29,
+5058,jhalak,VENKATARAMAN,Jhalak.Venkataraman@COMPANY.COM,2020-07-24,Engineering Manager,Platform,1418315,,"92, Memon Circle, Kota-544796",Raiganj,GJ,705964,1970-08-25,INACTIVE
+5059,dakshesh,borde,Dakshesh.Borde@COMPANY.COM,2027-06-11,Senior Software Engineer,Finance,794934,5089,"H.No. 297, Date Nagar, Noida 569092",Uluberia,KA,719285,1992-09-01,INACTIVE
+1058,MITALI,MURTHY,Mitali@company,2027-01-28,Technical Lead,Platform,602374,,"H.No. 278, Dalal Marg Bhilwara-394731",Srinagar,WB,271551,1983-12-28,INACTIVE
+5061,BINA,mital,Bina.Mital@COMPANY.COM,2018-09-14,Senior Software Engineer,HR,"₹1,903,878",5028,"H.No. 323, Bal Chowk, Begusarai 782911",Sikar,WB,866912,1976-11-15,active
+5062,edhitha,BORAH,Edhitha@company,2023-09-06,Technical Lead,Data,"₹2,553,777",5102,"92/26, Bhakta Circle, Kadapa 422535",Vijayawada,DL,384249,1996-09-22,INACTIVE
+5063,girik,THAKKAR,Girik@company,2026-12-05,Senior Software Engineer,Finance,832169,,"99/590, Bumb Nagar Gangtok-396907",Barasat,KA,364710,1976-07-02,Active
+5064,NAKUL,sarraf,Nakul@company,2023-02-04,Senior Software Engineer,Data,1426338,5018,"H.No. 92, Nagar Path, Silchar-588153",Bhilai,GJ,732104,1997-12-24,active
+5065,LEENA,SAHOTA,Leena.Sahota@company.com,2020-03-31,HR Executive,IT,1833743,5186,"278 Tara Chowk, Mehsana 168733",Nashik,TN,479748,1975-11-23,
+5066,ABHIRAM,chokshi,Abhiram.Chokshi@COMPANY.COM,2023-05-10,Software Engineer,Analytics,788389,,"50 Behl Marg, Mirzapur 168784",Warangal,RJ,655852,1974-02-20,INACTIVE
+5067,rushil,upadhyay,Rushil.Upadhyay@COMPANY.COM,2022-11-08,HR Executive,Analytics,2135592,,"H.No. 257, Shan Circle Medininagar 595269",Guntakal,MH,888794,1999-01-21,Active
+5068,VAISHNAVI,BADAL,Vaishnavi.Badal@COMPANY.COM,2022-04-16,Engineering Manager,IT,487011,5124,40/97 Kari Road Ballia 289623,Chapra,UP,307562,1987-07-27,Active
+1017,NITARA,JANI,Nitara@company,2023-01-02,HR Executive,Finance,"₹2,276,265",,"28/385, Vora Chowk, Satara-785854",Nellore,DL,484344,1999-03-05,Active
+5070,SARTHAK,SURESH,Sarthak.Suresh@company.com,2021-06-02,Senior Software Engineer,Analytics,"₹2,326,874",5186,"H.No. 19 Raghavan Circle, Hapur 404157",Nangloi Jat,TG,384842,1997-09-04,active
+5071,IKBAL,khatri,Ikbal.Khatri@COMPANY.COM,2020-02-24,Data Engineer,HR,774824,,"H.No. 165, Chaudhry Chowk Kolkata-677345",Allahabad,WB,938026,1968-06-24,
+5072,PATRICK,bansal,Patrick@company,2022-10-11,Technical Lead,HR,2250527,5022,H.No. 049 Chhabra Anantapuram-887287,Nellore,MH,527420,1998-09-26,
+5073,GEETIKA,merchant,Geetika@company,2025-09-07,HR Executive,Analytics,2343876,,85 Rattan Zila Udaipur-753046,Amroha,KA,549904,1978-03-04,
+5074,jagvi,keer,Jagvi.Keer@company.com,2017-01-30,Software Engineer,Finance,2949813,,"684 Merchant Zila, Srikakulam-327279",Vijayanagaram,RJ,833918,1973-01-26,INACTIVE
+5075,sanya,wable,Sanya@company,2027-12-31,Software Engineer,Analytics,1404061,,"H.No. 883, Yadav Dehradun 871397",Sasaram,DL,072867,1989-08-24,active
+5076,DALBIR,SHERE,Dalbir.Shere@company.com,2027-06-21,Engineering Manager,HR,2015087,,H.No. 03 Bora Bhusawal 180170,Alappuzha,GJ,265676,1985-12-30,Active
+5077,KEYA,BUCH,Keya.Buch@company.com,2027-08-22,Technical Lead,Analytics,1771903,5071,H.No. 286 Datta Circle Delhi-478686,Shahjahanpur,TG,524310,2001-09-22,Active
+5078,ONI,BABU,Oni.Babu@company.com,2020-02-13,Technical Lead,Finance,2665946,,"07/90, Basu Ganj Bahraich 830284",Ramgarh,RJ,995342,1979-01-19,Active
+5079,timothy,SACHDEV,Timothy.Sachdev@company.com,2021-02-19,Machine Learning Engineer,IT,2363731,,"68/705, Vohra Marg Erode 246287",Kamarhati,DL,270866,1983-10-01,active
+5080,KRISH,RAMA,Krish.Rama@company.com,2020-02-27,Technical Lead,Analytics,"₹500,045",5115,17/518 Behl Ganj Burhanpur-139837,Thoothukudi,AP,033173,1982-05-18,INACTIVE
+1065,SAMARTH,ranganathan,Samarth.Ranganathan@company.com,2020-02-05,Data Analyst,Analytics,2086659,5043,"78 Morar Path, Karimnagar 717535",Haridwar,UP,932048,2002-08-06,INACTIVE
+5082,OMISHA,merchant,Omisha.Merchant@COMPANY.COM,2018-08-14,Senior Software Engineer,Data,675952,,"93, Nazareth Chowk, Unnao 725228",Udaipur,AP,801006,1978-05-18,INACTIVE
+5083,laksh,KASHYAP,Laksh.Kashyap@COMPANY.COM,2017-03-07,Machine Learning Engineer,Finance,1732159,5015,"75/09, Subramanian Pune 886008",Jorhat,MH,086211,1975-04-21,
+5084,manthan,KHOSLA,Manthan.Khosla@COMPANY.COM,2019-04-16,Technical Lead,Finance,2652181,5018,"H.No. 61 Ravi Path, Buxar 341016",Burhanpur,KA,002176,2000-11-07,Active
+5085,GARIMA,chandran,Garima.Chandran@COMPANY.COM,2025-01-03,Senior Software Engineer,Data,"₹2,145,934",5037,"97/401, Bali Road Satna-392614",Phusro,KA,968562,1967-12-03,
+5086,farhan,TELLA,Farhan@company,2021-11-28,Software Engineer,Data,1667318,,159 Ranganathan Ludhiana 773586,Gaya,DL,194311,1968-09-05,Active
+5087,amrita,DUBE,Amrita@company,2022-06-28,HR Executive,HR,888960,5042,"H.No. 11 Morar Nagar, Karimnagar-121267",Kota,TN,158199,1975-07-11,active
+5088,EKTA,RAJAN,Ekta@company,2016-03-26,Technical Lead,IT,"₹1,442,321",5153,"H.No. 839 Gara Circle, Gulbarga-444721",Raebareli,GJ,647154,1984-11-19,Active
+5089,YATIN,tandon,Yatin.Tandon@company.com,2026-02-15,Data Analyst,Platform,"₹2,335,356",5132,"406, Rai Path, Gandhidham-692459",Nangloi Jat,RJ,265479,1978-05-02,Active
+5090,xavier,NANDA,Xavier.Nanda@COMPANY.COM,2022-06-03,Senior Software Engineer,HR,"₹2,530,025",,"H.No. 939 Gole Circle, Surendranagar Dudhrej-741672",New Delhi,RJ,266179,1984-02-06,active
+5091,varenya,RATTAN,Varenya.Rattan@COMPANY.COM,2025-02-11,Technical Lead,Data,941757,5016,"H.No. 89, Chopra Zila, Raichur-909656",Hyderabad,AP,438889,1999-07-02,Active
+5092,TIMOTHY,sehgal,Timothy.Sehgal@company.com,2022-05-22,Software Engineer,Data,1048204,,"H.No. 07, Merchant Zila, Guwahati-254573",Karnal,TG,177514,1991-08-23,
+5093,CHAITANYA,contractor,Chaitanya.Contractor@company.com,2016-05-29,Technical Lead,Data,2232154,,"38/282, Sandhu Path Ahmednagar 226609",Hospet,TG,603341,1988-05-16,Active
+5094,harsh,YADAV,Harsh.Yadav@company.com,2019-03-16,Data Engineer,Analytics,580001,,"14, Wable Chowk, Kavali 969155",Tadipatri,DL,499125,1989-12-01,
+5095,JACOB,KHARE,Jacob.Khare@company.com,2021-03-21,Software Engineer,Data,"₹2,222,931",,28/669 Rajagopal Street Gaya-828274,Gaya,DL,790507,1972-12-25,INACTIVE
+5096,laban,HAYER,Laban.Hayer@company.com,2022-07-22,Technical Lead,HR,1316134,,"76/772 Balasubramanian Zila, Jalna-438427",Jamalpur,TN,914858,2003-03-30,Active
+5097,benjamin,sastry,Benjamin.Sastry@COMPANY.COM,2025-04-26,Machine Learning Engineer,Finance,1440688,5075,"34/074, Chahal Path, Kochi-395962",Tiruppur,RJ,095849,1979-11-24,INACTIVE
+5098,om,naik,Om@company,2028-01-01,Data Analyst,Finance,2833201,5176,"12/60 Date Road, Kulti 536729",Vijayanagaram,UP,711684,1984-12-09,INACTIVE
+5099,jyoti,sha,Jyoti@company,2024-04-29,Data Engineer,Analytics,"₹503,402",5133,"75/186, Sanghvi Ganj Shimla 545892",Tiruvottiyur,AP,017012,1987-04-19,Active
+5100,RIDHI,SHAN,Ridhi.Shan@COMPANY.COM,2016-01-14,Machine Learning Engineer,Data,"₹1,887,614",5156,"42/415, Butala Road Dehradun-643611",Kakinada,UP,129387,1994-02-20,
+5101,aditya,anand,Aditya.Anand@COMPANY.COM,2027-11-10,Data Analyst,Analytics,"₹2,705,387",5183,27/136 Chaudry Zila Satara 426221,Phagwara,TG,753269,1988-05-28,active
+5102,saanvi,KALLA,Saanvi.Kalla@company.com,2017-07-01,Technical Lead,IT,1533284,,"65/65, Kota Street Guwahati-899940",Tiruppur,WB,640376,1971-11-12,
+5103,ISAIAH,khosla,Isaiah.Khosla@COMPANY.COM,2024-07-10,Data Engineer,Analytics,2518277,,H.No. 26 Salvi Bongaigaon 710910,Thrissur,DL,068486,1969-11-10,INACTIVE
+5104,PALLAVI,RATTI,Pallavi.Ratti@COMPANY.COM,2017-06-05,Data Engineer,HR,2656379,,H.No. 418 Dugal Ganj Katni-463031,Bhiwandi,MH,990421,2001-07-16,INACTIVE
+5105,advik,DEVAN,Advik.Devan@company.com,2027-12-16,Engineering Manager,Platform,1192342,5061,H.No. 88 Ganesan Road Cuttack-105648,Firozabad,UP,778507,1965-10-19,active
+1035,ojas,pillai,Ojas.Pillai@COMPANY.COM,2018-09-13,Technical Lead,Data,"₹2,260,097",5198,"800, Konda Nagar Chittoor 622086",Pondicherry,TN,654195,1982-05-21,active
+5107,jagdish,thakkar,Jagdish.Thakkar@COMPANY.COM,2027-06-24,Senior Software Engineer,HR,"₹1,375,777",,"06/17, Mukhopadhyay Road Chandigarh-053494",Madhyamgram,TN,973832,1968-08-11,active
+5108,abeer,rout,Abeer.Rout@COMPANY.COM,2016-06-06,Data Analyst,Data,2205932,,"H.No. 06, Chawla Road, Bettiah 670241",Ahmednagar,TN,571918,1980-11-18,INACTIVE
+5109,kiaan,ramesh,Kiaan.Ramesh@company.com,2017-04-18,HR Executive,HR,2303690,5139,23/445 Narain Marg Bidhannagar 313291,Aligarh,GJ,775618,2003-09-01,Active
+5110,ISHITA,johal,Ishita.Johal@COMPANY.COM,2023-09-18,Engineering Manager,HR,2746202,,"H.No. 124 Baria, Khammam-135680",Bhilwara,WB,067883,1986-01-03,active
+5111,girindra,shere,Girindra.Shere@COMPANY.COM,2017-10-04,Senior Software Engineer,IT,"₹976,832",,"H.No. 323, Pradhan Marg Ballia 101372",Bathinda,AP,070296,1974-07-16,Active
+5112,megha,TANEJA,Megha.Taneja@company.com,2016-07-11,Senior Software Engineer,IT,2548228,5164,"H.No. 32, Mammen Road, Jalgaon-999347",Jamalpur,WB,014626,1991-01-26,
+1010,ryan,vora,Ryan.Vora@company.com,2020-04-06,Machine Learning Engineer,Analytics,2686971,5182,57/875 Thakkar Munger 205930,Howrah,MH,859321,2002-01-08,Active
+5114,yug,KHOSLA,Yug.Khosla@COMPANY.COM,2020-07-23,Software Engineer,Finance,"₹904,951",,"65/22, Nadkarni Ganj Gudivada 599293",Hosur,TG,270103,2001-05-05,active
+5115,theodore,bahri,Theodore@company,2024-12-24,Senior Software Engineer,HR,2873310,,32/52 Bhargava Path Siliguri 185156,Naihati,KA,522675,1997-07-21,INACTIVE
+5116,owen,parikh,Owen.Parikh@company.com,2019-10-28,Data Analyst,IT,"₹1,864,668",5082,"42/209 Bali Marg, Madanapalle-939172",Solapur,GJ,552157,1976-12-16,active
+1074,ADVAY,lanka,Advay.Lanka@company.com,2019-08-04,Machine Learning Engineer,Finance,808322,5189,H.No. 10 Raju Nagar Gurgaon 676586,Nangloi Jat,UP,271040,1982-01-03,INACTIVE
+5118,EIRAVATI,lal,Eiravati@company,2017-10-21,Data Engineer,IT,337280,5177,"21, Chander Circle, Hindupur 062962",Salem,UP,336884,1970-01-28,active
+5119,baghyawati,mishra,Baghyawati.Mishra@company.com,2020-01-25,HR Executive,HR,2436631,5101,87/20 Aggarwal Path Chandigarh 973103,Jalna,TG,714677,1971-07-22,
+5120,ALKA,chand,Alka.Chand@COMPANY.COM,2026-12-11,Software Engineer,Analytics,1431216,5194,"H.No. 65, Sehgal Street, Firozabad-743490",Jalandhar,WB,586938,2002-01-20,Active
+5121,DARSH,ram,Darsh@company,2024-11-30,Technical Lead,IT,"₹1,501,967",5044,"41, Banerjee Marg, Jamshedpur-223320",Vijayawada,GJ,329451,1993-07-07,Active
+1083,GAGAN,RAMA,Gagan.Rama@COMPANY.COM,2025-06-28,Engineering Manager,IT,"₹1,820,428",5053,"70/99 Saini Circle, Vijayanagaram 299911",Baranagar,WB,646799,1992-01-25,Active
+5123,URVASHI,BARAD,Urvashi@company,2018-12-15,Senior Software Engineer,IT,1054520,5043,"96/06, Khanna Path, Fatehpur-505444",Navi Mumbai,KA,247546,1983-10-08,Active
+5124,gaurav,guha,Gaurav.Guha@company.com,2023-07-16,Machine Learning Engineer,IT,"₹1,174,531",,"50/82 Mukhopadhyay Zila, Bhavnagar-233030",Dhanbad,GJ,345786,1979-05-31,INACTIVE
+5125,JATIN,BALASUBRAMANIAN,Jatin.Balasubramanian@COMPANY.COM,2020-02-21,Technical Lead,Data,"₹2,736,779",5024,"798 Padmanabhan Path, Rampur-406029",Korba,MH,346800,1990-05-16,
+5126,URVI,deo,Urvi.Deo@company.com,2027-01-14,Engineering Manager,HR,"₹2,401,915",5005,"H.No. 94, Sampath Road Karnal 437489",Bhimavaram,KA,085899,1976-10-23,active
+5127,barkha,misra,Barkha.Misra@company.com,2027-09-01,Software Engineer,Finance,1204961,,"H.No. 45, Lal Road, Maheshtala-830965",Indore,DL,446660,1972-05-19,INACTIVE
+5128,ranveer,OZA,Ranveer@company,2019-10-22,Machine Learning Engineer,Data,"₹1,440,747",5015,"42/82 Chatterjee Road, Warangal-825135",Aizawl,GJ,554947,2001-05-29,Active
+5129,JACOB,SINGHAL,Jacob.Singhal@COMPANY.COM,2016-12-08,Senior Software Engineer,IT,"₹1,834,780",5062,816 Misra Circle Meerut 235697,Satna,MH,175250,2004-09-26,
+5130,AAYUSH,seth,Aayush.Seth@company.com,2020-09-04,Software Engineer,Platform,1458227,,"12, Saraf Sambhal-760083",Kanpur,GJ,830033,1979-04-11,active
+5131,hemangini,muni,Hemangini.Muni@company.com,2018-03-21,HR Executive,Finance,"₹2,482,619",,"104 Shah Road, Raebareli-575326",Ambattur,UP,230982,1972-01-06,active
+5132,JATIN,PERI,Jatin.Peri@COMPANY.COM,2027-02-03,Data Analyst,Platform,854320,,"90/90 Bahri Zila, Bhiwandi-761847",Tiruppur,GJ,461849,1967-07-27,INACTIVE
+5133,LAKSH,sahota,Laksh.Sahota@company.com,2017-10-22,Machine Learning Engineer,Analytics,2414533,,H.No. 173 Iyengar Nagaon 564208,Dhule,AP,530011,1999-11-03,active
+5134,wakeeta,dixit,Wakeeta.Dixit@COMPANY.COM,2017-07-22,Data Analyst,Finance,2304651,,"H.No. 37, Lalla Road Dhanbad 204556",Bareilly,KA,022557,1999-11-06,active
+5135,AMRITA,CHANDER,Amrita.Chander@COMPANY.COM,2022-05-13,Technical Lead,Platform,892399,,"67, Rajan Road Bidar-120216",Jehanabad,RJ,296590,1988-05-07,INACTIVE
+5136,KALPIT,SUBRAMANIAN,Kalpit.Subramanian@COMPANY.COM,2024-04-30,HR Executive,Data,"₹1,195,876",5152,"H.No. 145 Vohra Nagar, Sonipat-637562",Hyderabad,MH,877217,1972-09-17,Active
+1051,ekani,khosla,Ekani.Khosla@COMPANY.COM,2021-08-27,HR Executive,Analytics,"₹899,352",5028,"66/31, Sawhney Chowk Hubli–Dharwad 751701",Haridwar,MH,880199,1983-12-15,Active
+5138,DAKSHA,trivedi,Daksha.Trivedi@company.com,2025-08-04,Senior Software Engineer,Finance,2711162,5158,"H.No. 03 Narula Chowk, Bharatpur-113055",Motihari,DL,102726,1979-02-07,active
+5139,hredhaan,KUMAR,Hredhaan.Kumar@COMPANY.COM,2026-06-01,Technical Lead,Analytics,"₹2,683,149",,"37, Nigam Ganj Vijayanagaram-917798",Panchkula,TN,808697,1978-05-11,Active
+5140,yashoda,goel,Yashoda.Goel@COMPANY.COM,2027-10-17,Engineering Manager,IT,"₹1,143,234",5030,"H.No. 699, Thaman Path Gurgaon-465472",Haridwar,UP,858333,2004-05-25,Active
+5141,bina,pai,Bina.Pai@COMPANY.COM,2027-06-18,Software Engineer,Data,1985171,5039,15/879 Sahni Bhusawal-810620,Kollam,UP,244204,1974-01-20,active
+5142,SAMAR,BALI,Samar.Bali@company.com,2022-02-15,Senior Software Engineer,Finance,2735226,5051,"86/384, Raj Nagar Erode 800439",Kamarhati,UP,989334,1995-10-29,Active
+1001,SAUMYA,goel,Saumya.Goel@COMPANY.COM,2027-08-21,Data Analyst,Data,"₹788,237",5136,"81/606, Lalla Road Nanded-057202",Kavali,MH,947985,1970-02-03,
+5144,ELIJAH,NADKARNI,Elijah.Nadkarni@company.com,2024-12-17,Data Engineer,Analytics,521173,,"26/88, Chanda Marg Korba-555439",Kishanganj,MH,157399,1979-12-30,INACTIVE
+5145,YAGNESH,BARAL,Yagnesh.Baral@company.com,2027-08-21,Data Engineer,Finance,2368236,5185,"48, Bakshi Road, Kottayam-704358",Jalandhar,TG,880133,1986-11-12,
+5146,panini,chawla,Panini.Chawla@company.com,2019-07-10,Engineering Manager,Analytics,489198,5143,"20/750, Borah Zila, Mangalore-819346",Hospet,MH,650618,2001-08-14,
+1091,ABEER,bhatnagar,Abeer.Bhatnagar@COMPANY.COM,2025-12-26,Data Analyst,Platform,"₹423,552",,14/49 Manda Zila Eluru 072832,Bongaigaon,RJ,245088,1968-02-15,Active
+5148,LOHIT,dasgupta,Lohit@company,2016-09-25,Senior Software Engineer,Finance,1564514,5139,"H.No. 35, Sachar Ganj, Nanded-394312",Jamalpur,GJ,814141,1965-05-15,active
+5149,rudra,SUR,Rudra.Sur@company.com,2021-08-26,Machine Learning Engineer,Data,2455265,5184,"H.No. 491, Nadkarni Ganj Hospet-949299",Satna,WB,205336,1989-04-30,INACTIVE
+5150,ARADHANA,parsa,Aradhana.Parsa@company.com,2018-04-23,Software Engineer,HR,941623,5046,"54 Chopra Chowk, Medininagar-428341",Surat,TN,996930,1987-08-04,INACTIVE
+5151,abha,zacharia,Abha.Zacharia@COMPANY.COM,2024-01-21,Data Analyst,HR,"₹502,231",,"942 Thaker Chowk, Sikar 803928",Amroha,RJ,299275,1975-02-21,INACTIVE
+1040,BANJEET,kanda,Banjeet.Kanda@COMPANY.COM,2024-04-27,Senior Software Engineer,Data,"₹1,755,252",5056,H.No. 30 Vasa Ganj Munger 700518,Firozabad,RJ,665918,1980-10-18,active
+5153,zayan,puri,Zayan.Puri@COMPANY.COM,2019-10-26,Data Engineer,Data,2119727,,"H.No. 77 Ahuja, Gandhidham-318432",Sangli-Miraj & Kupwad,UP,913651,2000-03-01,active
+5154,VASATIKA,SRINIVAS,Vasatika.Srinivas@company.com,2024-03-04,Senior Software Engineer,Platform,2452711,,H.No. 302 Dyal Anand-920242,Khora ,KA,413797,1979-05-14,INACTIVE
+5155,VASATIKA,GARDE,Vasatika.Garde@company.com,2019-10-04,HR Executive,Analytics,1058359,,"84/25, Biswas Chowk Burhanpur-210388",Jalgaon,KA,279908,1992-12-23,
+5156,YAHVI,DALAL,Yahvi.Dalal@company.com,2017-08-11,Senior Software Engineer,Platform,"₹801,932",5066,"68/650, Sanghvi Circle Ongole-599162",Morena,KA,149864,1997-11-04,
+5157,ranbir,ahluwalia,Ranbir.Ahluwalia@company.com,2016-02-23,Data Engineer,HR,1673002,,"35, Pathak Marg Bhatpara 944869",Pudukkottai,MH,636887,2004-05-10,Active
+5158,PRANEEL,PRABHAKAR,Praneel@company,2025-07-15,HR Executive,Data,"₹703,463",,"H.No. 95 Devi Marg, Berhampur-213865",Nanded,UP,012796,2002-10-15,active
+5159,GAURANG,BHATT,Gaurang.Bhatt@COMPANY.COM,2020-07-01,Machine Learning Engineer,Finance,"₹360,381",5001,"06/69, Mangat Circle, Akola 703843",Khora ,AP,920530,1980-02-13,INACTIVE
+5160,nakul,CHADHA,Nakul.Chadha@COMPANY.COM,2020-09-19,Senior Software Engineer,Platform,684524,5143,"93 Aurora Circle, Mysore 895543",Malda,AP,904268,1992-03-16,Active
+5161,hredhaan,bora,Hredhaan.Bora@company.com,2024-08-01,Engineering Manager,Analytics,1469919,5125,"48/94, Purohit Chowk, Latur 779071",Jabalpur,WB,335658,1985-01-18,
+5162,ADITYA,lall,Aditya.Lall@company.com,2020-03-31,Engineering Manager,Platform,1741691,5067,51/827 Pandya Path Chapra 237333,Tiruppur,TG,339521,1984-07-29,active
+5163,JAGDISH,BRAR,Jagdish.Brar@company.com,2027-07-10,Senior Software Engineer,Data,386251,,"59, Tailor Path Pallavaram 846392",Hajipur,KA,780856,1998-07-21,Active
+5164,owen,shankar,Owen.Shankar@COMPANY.COM,2018-01-26,Data Engineer,Analytics,"₹2,343,757",5151,"00/369 Nanda Zila, Pudukkottai-284347",Ambarnath,RJ,763655,2000-04-16,active
+5165,nandini,mammen,Nandini.Mammen@company.com,2023-09-10,Data Analyst,Data,2369496,5192,"H.No. 438, Raj Marg Ulhasnagar-702672",Morbi,AP,489061,1977-04-08,
+5166,nihal,bhasin,Nihal.Bhasin@COMPANY.COM,2019-09-09,Data Analyst,Finance,"₹1,478,393",5022,"54, Parsa Path, Hapur-615939",Anantapuram,DL,587716,1982-05-01,active
+5167,bhavini,SHETH,Bhavini.Sheth@COMPANY.COM,2026-10-09,Technical Lead,Analytics,2536631,5139,99 Bora Marg Nanded-355449,Gopalpur,TG,598762,1974-11-19,active
+5168,QARIN,bajaj,Qarin@company,2018-02-24,Data Analyst,Analytics,1009775,5101,"261, Bhatt Zila, Motihari 068114",Guwahati,DL,433472,1980-12-28,Active
+5169,KARAN,vyas,Karan.Vyas@company.com,2018-12-05,HR Executive,IT,873486,,H.No. 77 Magar Circle Bhavnagar 997968,Sri Ganganagar,UP,831745,1966-12-21,Active
+5170,NITARA,LAD,Nitara.Lad@company.com,2018-09-03,HR Executive,HR,"₹822,515",,"25/47, Anand Circle Morena 064930",Maheshtala,RJ,866326,1985-09-07,Active
+5171,kritika,kannan,Kritika@company,2020-07-01,HR Executive,Data,"₹2,166,278",,"94/48, Sachar Road, Coimbatore-241797",Pallavaram,RJ,502080,1970-06-01,active
+5172,QUINCY,chaudry,Quincy.Chaudry@COMPANY.COM,2020-10-27,Machine Learning Engineer,IT,"₹917,462",,03/120 Kalla Chowk Bidar-757051,Pimpri-Chinchwad,TG,618723,1983-05-06,INACTIVE
+5173,zashil,raj,Zashil.Raj@company.com,2016-03-28,Software Engineer,Data,"₹904,712",,30 Sharma Ganj Saharsa-764520,Nizamabad,UP,435031,1973-04-29,INACTIVE
+5174,warinder,saraf,Warinder.Saraf@company.com,2021-07-18,Senior Software Engineer,Platform,"₹1,812,534",,16/30 Soman Nagar Serampore-327195,Allahabad,DL,281273,1966-01-19,
+1014,edhitha,PALAN,Edhitha.Palan@company.com,2023-06-28,Technical Lead,Platform,"₹2,670,073",5171,H.No. 24 Sundaram Nagar Karaikudi 873928,North Dumdum,TN,498218,1978-02-27,INACTIVE
+5176,MOHAMMED,sengupta,Mohammed@company,2021-01-20,Senior Software Engineer,IT,"₹487,990",5138,"H.No. 862 Patla Nagar, Pondicherry 863878",Pudukkottai,AP,565118,1982-12-12,
+5177,EKALINGA,BASSI,Ekalinga.Bassi@COMPANY.COM,2018-03-26,Technical Lead,Platform,"₹2,112,901",5065,"H.No. 731, Rama Nagar Hajipur 053910",Pallavaram,TG,705865,1977-03-08,INACTIVE
+5178,dalbir,LATA,Dalbir.Lata@company.com,2025-01-09,Data Engineer,Finance,"₹1,118,506",,H.No. 381 Kashyap Zila Jhansi 839288,Aligarh,TN,761228,1967-10-17,Active
+5179,NEELIMA,thaman,Neelima.Thaman@COMPANY.COM,2021-10-07,Data Engineer,HR,555637,,"H.No. 85 Sachar Path, North Dumdum-983684",Bidhannagar,WB,600490,1975-10-16,Active
+5180,ZARNA,deshmukh,Zarna.Deshmukh@company.com,2021-02-27,Machine Learning Engineer,Platform,1113842,,"504, Vaidya Circle, Bareilly 752245",Muzaffarpur,DL,419693,1965-06-22,Active
+5181,faras,NAIR,Faras.Nair@COMPANY.COM,2024-03-26,Machine Learning Engineer,HR,2986070,,"40/96, Bhalla Zila, Karnal-613906",Farrukhabad,RJ,589258,1976-10-16,Active
+5182,TIMOTHY,DUA,Timothy.Dua@company.com,2016-11-18,Software Engineer,Analytics,1047413,5052,"646, Deo Street, Gwalior-908641",Orai,KA,227837,1991-10-06,active
+5183,MEGHA,HAYRE,Megha.Hayre@COMPANY.COM,2025-07-27,Data Engineer,IT,776774,,"H.No. 465, Chakraborty Haridwar-553559",Farrukhabad,AP,597927,2000-09-13,INACTIVE
+5184,CHAITANYA,KAUR,Chaitanya.Kaur@COMPANY.COM,2019-06-03,HR Executive,Finance,764456,,"H.No. 039, Mani Street Tiruvottiyur-477053",Kurnool,AP,879206,1990-06-19,
+5185,CALEB,kumer,Caleb.Kumer@company.com,2018-12-03,Software Engineer,Platform,1804914,5151,"94/070, Rama Zila, Karimnagar 046368",Satna,UP,981238,1969-02-12,Active
+5186,TANVI,bains,Tanvi.Bains@COMPANY.COM,2016-09-13,Engineering Manager,Analytics,"₹2,914,884",,"62 Palan Nagar, Raichur 384046",Miryalaguda,MH,325621,1981-11-10,Active
+1035,lavanya,verma,Lavanya.Verma@company.com,2027-07-23,Technical Lead,Finance,402039,5064,"26/49, Sen Path, Tiruppur-983248",Chinsurah,RJ,925188,1980-07-02,INACTIVE
+5188,JAGAT,gour,Jagat.Gour@company.com,2021-06-05,Technical Lead,Analytics,"₹577,160",,64 Mahal Chowk Maheshtala 220994,Kavali,KA,305172,1974-12-05,Active
+5189,YADAVI,SINGH,Yadavi.Singh@company.com,2027-01-28,Data Analyst,Finance,557022,5150,72 Hans Street Patna-046333,Belgaum,UP,975736,1990-06-22,INACTIVE
+5190,nidhi,BARMAN,Nidhi.Barman@company.com,2026-05-14,HR Executive,IT,1399305,,"99/88 Verma Nagar, Bidhannagar 038860",Hazaribagh,KA,347644,1990-11-29,Active
+5191,TRIYA,GANESAN,Triya.Ganesan@company.com,2023-03-19,Data Engineer,Data,2082640,,"71, Chowdhury Circle Bhimavaram 665702",Gudivada,GJ,714521,1985-01-22,Active
+1097,GAVIN,comar,Gavin.Comar@company.com,2023-09-02,Software Engineer,Platform,312915,,89/268 Bassi Marg Thanjavur 222064,Amroha,KA,212309,1989-09-22,Active
+5193,zehaan,arora,Zehaan.Arora@COMPANY.COM,2023-10-29,HR Executive,HR,"₹2,133,061",,"73/39, Setty Chowk, Mango-990384",Dhanbad,AP,205020,1998-11-21,Active
+5194,chanchal,narula,Chanchal.Narula@COMPANY.COM,2017-07-07,Technical Lead,IT,894966,,249 Goel Adoni 014556,Purnia,WB,472145,1968-05-12,Active
+5195,ODIKA,VOHRA,Odika@company,2019-08-05,Machine Learning Engineer,HR,968869,5024,"81/79, Sane Road Rampur 299787",Bokaro,TN,430107,1979-04-02,active
+5196,JACOB,JOHAL,Jacob.Johal@company.com,2026-06-29,Data Analyst,HR,"₹2,097,821",5051,"H.No. 58, Apte Ganj, Ichalkaranji-144885",Raipur,UP,569902,1993-03-29,Active
+5197,RISHI,NARAYANAN,Rishi.Narayanan@COMPANY.COM,2021-10-09,Engineering Manager,IT,2197091,,"27/278, Shere Path, Pimpri-Chinchwad-958803",Raichur,WB,240568,1997-08-18,INACTIVE
+5198,NOAH,RAMACHANDRAN,Noah.Ramachandran@company.com,2019-03-19,Data Engineer,Finance,2565971,,"04/617 Prabhu Ganj, Barasat 842150",Tiruchirappalli,AP,807823,1972-12-23,Active
+5199,HARINI,sule,Harini.Sule@company.com,2024-12-06,Data Engineer,HR,904010,,"H.No. 823, Sharaf Nagar, Nagaon 040915",Ranchi,DL,840943,1986-02-23,Active
+5200,EKANI,IYER,Ekani.Iyer@COMPANY.COM,2019-04-20,Engineering Manager,HR,1286179,5023,"14 Dugar Street, Raipur 988138",Jamalpur,GJ,424932,1984-07-11,active
+5201,EKAVIR,MUKHOPADHYAY,Ekavir.Mukhopadhyay@COMPANY.COM,2026-06-16,Senior Software Engineer,IT,1203540,,"070, Rajagopal Zila, Chandigarh-629979",Bijapur,TN,381792,1988-01-29,
+5202,GIRIK,SIDHU,Girik.Sidhu@COMPANY.COM,2017-09-05,HR Executive,HR,459047,,"33 Kuruvilla Street, Katni 557701",Gorakhpur,KA,772459,1996-01-11,active
+5203,joshua,trivedi,Joshua@company,2017-10-10,Engineering Manager,Data,"₹1,753,930",,14/87 Sachdev Marg Udupi 827615,Gudivada,WB,695832,1992-08-19,Active
+5204,FARAS,SUR,Faras.Sur@COMPANY.COM,2017-12-20,Machine Learning Engineer,HR,1650479,,"24, Boase Marg, Kavali 570132",Siliguri,KA,784699,1996-07-11,
+5205,SANYA,hayre,Sanya.Hayre@COMPANY.COM,2019-07-10,Data Analyst,Finance,"₹1,710,779",,"51 Anand, Warangal 058008",Bhubaneswar,WB,036965,1986-07-28,active
+5206,lavanya,RAVI,Lavanya.Ravi@company.com,2022-07-07,HR Executive,Analytics,1906025,,"23, Rajagopalan Circle Erode-422010",Morbi,WB,212679,1994-08-22,
+5207,pavani,GOLE,Pavani.Gole@company.com,2023-10-03,Senior Software Engineer,Platform,2679258,5161,"53 Samra Street, Gangtok-384689",Visakhapatnam,UP,975197,1999-09-10,Active
+5208,FARIQ,dhar,Fariq.Dhar@COMPANY.COM,2024-12-23,Technical Lead,IT,2260375,,"91/37, Zacharia Zila, Pudukkottai-580778",Chapra,RJ,654420,1984-01-16,
+1086,DAKSHA,LAD,Daksha.Lad@COMPANY.COM,2017-01-25,Machine Learning Engineer,Data,2097949,,"49/047, Date Zila Alwar-294440",Mahbubnagar,TG,927524,1997-03-23,Active
+5210,warinder,SUNDARAM,Warinder.Sundaram@company.com,2019-02-06,Data Analyst,Finance,"₹1,466,804",5070,H.No. 292 Sachar Chowk Patiala 239504,Faridabad,TG,767478,2000-11-30,Active
+5211,VIVAAN,raghavan,Vivaan.Raghavan@COMPANY.COM,2027-08-27,Machine Learning Engineer,Platform,646049,,"860 Sen Road, Satna-185694",Gopalpur,MH,149673,1991-07-28,Active
+5212,ROBERT,venkatesh,Robert.Venkatesh@COMPANY.COM,2021-10-06,Data Analyst,IT,2009332,5071,"01/061, Chawla Circle, Etawah 443009",Howrah,AP,911192,1977-04-08,Active
+5213,KEYA,goyal,Keya.Goyal@COMPANY.COM,2017-11-28,Software Engineer,Finance,1720018,,"17 Sane Road, Bardhaman 140665",Rampur,RJ,271739,1977-07-25,
+5214,maya,GOKHALE,Maya.Gokhale@COMPANY.COM,2027-01-02,HR Executive,IT,"₹1,292,912",5134,"63/91, Lad Chowk Visakhapatnam 194707",Mumbai,GJ,642569,1998-07-06,active
+5215,AARUSH,varma,Aarush.Varma@COMPANY.COM,2024-05-15,Engineering Manager,Data,"₹772,895",,"18/306 Dara Chowk, Thoothukudi-601585",Jaunpur,UP,328063,1997-07-25,
+5216,chandani,ramakrishnan,Chandani.Ramakrishnan@COMPANY.COM,2017-11-03,Machine Learning Engineer,HR,"₹1,123,067",5188,"73/203, Khare Nagar, Pali-847870",Sonipat,WB,506138,1989-06-22,active
+5217,TARA,yadav,Tara.Yadav@company.com,2018-07-23,Data Engineer,Analytics,"₹1,008,150",5176,"H.No. 270, Bath Chowk Bikaner-204179",Gudivada,KA,117993,2004-06-13,INACTIVE
+5218,dev,jain,Dev.Jain@company.com,2023-04-11,Technical Lead,Data,1617600,,"H.No. 982 Kala Path, Guntakal-511426",Uluberia,TN,739021,1987-12-25,
+1011,KRISHA,dugar,Krisha.Dugar@COMPANY.COM,2016-04-16,Senior Software Engineer,Analytics,1386051,,"H.No. 219, Saha Road Cuttack 248763",Phagwara,RJ,927914,1998-03-01,Active
+1019,IJAYA,SAHOTA,Ijaya.Sahota@company.com,2016-02-07,Technical Lead,Analytics,2512546,,"H.No. 819, Zacharia Path Madhyamgram-403127",Belgaum,UP,005436,2002-12-23,INACTIVE
+1040,ZAYAN,NATT,Zayan.Natt@company.com,2026-07-08,HR Executive,Data,"₹1,529,909",,"08/220, Varma Chowk Madurai 799563",Berhampur,WB,531363,1995-11-12,INACTIVE
+5222,KEYA,kannan,Keya.Kannan@company.com,2017-04-10,Technical Lead,HR,"₹367,546",5007,"23, Sha, Munger-273543",Warangal,AP,904217,1997-01-28,Active
+5223,TARA,sahota,Tara.Sahota@company.com,2018-12-08,Engineering Manager,Platform,2901262,,29/29 Karpe Circle Bulandshahr-397740,Shahjahanpur,TG,569392,1988-05-28,
+5224,abdul,sahni,Abdul.Sahni@COMPANY.COM,2016-10-10,Technical Lead,IT,"₹1,903,886",5033,"86, Chaudhari Chowk, Shimla-180632",Sagar,TG,107427,1967-10-02,active
+1037,ARJUN,SHA,Arjun.Sha@company.com,2023-11-30,Data Analyst,HR,2939663,5005,"H.No. 70, Rajan Zila, Bettiah-464989",Jodhpur,AP,085016,1974-06-17,Active
+5226,jasmit,shroff,Jasmit.Shroff@company.com,2026-07-23,HR Executive,Analytics,"₹324,597",5090,"818 Devi Ganj, Mathura 793355",Ambala,KA,401557,1967-10-22,INACTIVE
+1066,vedika,THAKER,Vedika.Thaker@COMPANY.COM,2024-12-25,Technical Lead,Finance,417384,5053,"95 Guha Zila, Chandigarh-624112",Gorakhpur,DL,723804,1973-05-17,INACTIVE
+5228,OMAJA,deo,Omaja.Deo@COMPANY.COM,2024-02-01,Software Engineer,HR,768558,5188,"04/310 Venkatesh Ganj, Bulandshahr-579887",Avadi,DL,424375,1988-08-14,active
+1039,BHAVYA,BATTA,Bhavya.Batta@company.com,2018-07-19,Software Engineer,Analytics,1212882,,"928 Gopal Road, Jamnagar 310592",Bhilwara,TN,238055,1989-01-20,
+5230,manbir,PRADHAN,Manbir.Pradhan@COMPANY.COM,2023-08-27,HR Executive,IT,"₹433,264",5176,H.No. 067 Shanker Street Bhatpara-885474,Buxar,TG,517028,2001-10-06,INACTIVE
+5231,JACKSON,MORAR,Jackson.Morar@COMPANY.COM,2016-06-12,Machine Learning Engineer,Finance,"₹926,472",5175,H.No. 15 Hayer Nagar Alwar-018718,Jammu,KA,599805,1992-05-10,Active
+5232,mitali,DIVAN,Mitali.Divan@COMPANY.COM,2023-04-20,Data Analyst,HR,2734579,,"H.No. 455 Sehgal Road, Thrissur-674266",Dharmavaram,AP,234785,1990-03-07,Active
+5233,DOMINIC,PRASHAD,Dominic@company,2017-07-12,Data Engineer,HR,2576113,5045,"28 Devan Chowk, Gaya-487049",Kumbakonam,TG,300244,1965-06-23,active
+5234,urmi,DASH,Urmi.Dash@COMPANY.COM,2027-02-23,Engineering Manager,IT,"₹2,952,485",,"30, Malhotra Zila, Jabalpur-979647",Dindigul,DL,429025,1984-08-08,
+5235,triya,deshmukh,Triya.Deshmukh@COMPANY.COM,2022-02-07,Senior Software Engineer,IT,2310495,5143,H.No. 65 Mann Nagar Bettiah 832192,Satna,UP,451895,1976-02-21,
+1099,MAANAS,arya,Maanas.Arya@company.com,2018-05-09,Technical Lead,Data,1392035,5140,"65 Chaudry Street, Bhatpara 389888",Erode,GJ,112075,2000-04-15,
+5237,devika,patil,Devika.Patil@COMPANY.COM,2018-05-22,HR Executive,Data,"₹1,039,960",,"40/132, Karan Street, Cuttack 216110",Chinsurah,TG,310890,1995-02-06,
+1060,upasna,dani,Upasna.Dani@company.com,2020-04-30,Data Engineer,Data,"₹1,455,931",,01/193 Iyengar Etawah 124955,Orai,TN,891190,1967-12-21,
+5239,TEERTH,handa,Teerth.Handa@company.com,2020-10-26,Data Engineer,Data,"₹1,441,270",,"875, Goyal Aligarh 566383",Gorakhpur,UP,171827,1976-09-18,Active
+5240,JALSA,MANI,Jalsa.Mani@company.com,2025-07-02,Senior Software Engineer,Platform,2858473,,16 Shan Road Raiganj 864631,Arrah,RJ,071678,1967-10-16,active
+1019,FREDERICK,dar,Frederick.Dar@company.com,2018-06-18,Data Engineer,Finance,757104,5159,"21/535, Raval Ganj, Muzaffarpur-749946",Fatehpur,GJ,784271,1991-11-23,
+5242,JASON,KRISHNA,Jason.Krishna@company.com,2024-05-07,HR Executive,Data,1114718,,"H.No. 101, Bala Chowk Eluru-249911",Kirari Suleman Nagar,WB,477848,1998-11-12,active
+5243,HEMAL,zachariah,Hemal.Zachariah@COMPANY.COM,2025-04-28,Data Analyst,IT,"₹579,526",,H.No. 675 Savant Marg Vadodara 284276,Bijapur,AP,719788,1966-03-25,Active
+5244,upma,soni,Upma.Soni@COMPANY.COM,2025-08-03,Machine Learning Engineer,HR,1237759,,H.No. 79 Pandit Marg Pondicherry 090255,Mau,MH,165565,1975-08-31,
+5245,DAKSH,KONDA,Daksh.Konda@COMPANY.COM,2020-03-27,Software Engineer,HR,2270406,,"14/152, Yohannan Nagar, Agra 698640",Giridih,DL,569659,1980-12-28,
+5246,GUNEET,suresh,Guneet@company,2017-09-22,Data Analyst,Analytics,771239,5001,"52/94 Sarin Path, Mehsana 834404",Kamarhati,DL,919541,1979-01-14,active
+1075,vaishnavi,SANE,Vaishnavi.Sane@company.com,2019-08-05,Senior Software Engineer,Finance,1798876,5055,46/85 Sachdeva Ganj Chandrapur 820829,Kakinada,GJ,489690,1988-08-29,
+5248,sai,patla,Sai.Patla@COMPANY.COM,2023-11-22,Engineering Manager,Finance,"₹1,211,718",,"46/651, Sachar Ganj Baranagar-493631",Nellore,UP,347786,1975-01-30,INACTIVE
+5249,pahal,BANSAL,Pahal.Bansal@company.com,2019-06-18,Data Engineer,Analytics,1161483,,"H.No. 448, Basak Street, Jaipur 159416",Mysore,AP,231981,1975-11-14,Active
+5250,ZAYAN,TANEJA,Zayan@company,2017-07-23,Engineering Manager,Finance,"₹1,167,795",,H.No. 96 Sampath Ganj Asansol 234764,Pallavaram,KA,158673,1981-03-24,active
+5251,ARUNIMA,DHILLON,Arunima.Dhillon@COMPANY.COM,2022-03-14,Software Engineer,Data,1152212,5013,"H.No. 900 Kulkarni Ganj, Tirupati 183760",Rohtak,TN,134327,1997-05-13,
+5252,EDHITHA,ray,Edhitha.Ray@company.com,2016-08-07,Data Analyst,HR,"₹879,518",,65 Chaudhry Marg Bhilwara 569857,Faridabad,RJ,720634,1983-09-04,Active
+5253,dipta,BUTALA,Dipta.Butala@COMPANY.COM,2017-11-28,Software Engineer,Platform,"₹1,657,279",5016,"65/77, Lad Street Guntakal-431652",Burhanpur,DL,008931,1975-10-07,INACTIVE
+1097,TURVI,issac,Turvi@company,2020-06-23,HR Executive,HR,2228029,,69/42 Pillai Zila Tezpur 086771,Kurnool,KA,447626,1976-07-05,active
+5255,SAMUEL,kale,Samuel.Kale@company.com,2020-11-02,Software Engineer,IT,"₹825,398",5114,"20, Lala Road, Tadipatri-359710",Guntur,TN,636694,1977-11-29,Active
+1086,ELIJAH,CHANDRAN,Elijah.Chandran@COMPANY.COM,2025-07-02,Senior Software Engineer,HR,1009644,5191,759 Bath Nizamabad 465280,Bhilwara,RJ,875721,1969-01-09,INACTIVE
+5257,edhitha,wali,Edhitha@company,2023-05-23,Data Engineer,Finance,2298179,5102,"H.No. 02, Mand Chowk, Chinsurah 494856",Satna,KA,287032,1974-09-04,
+5258,chatura,karpe,Chatura.Karpe@COMPANY.COM,2019-02-21,Data Engineer,HR,"₹868,998",5053,"761 Baria Chowk, Raurkela Industrial Township-771215",Kurnool,TG,228499,1967-06-20,Active
+5259,simon,agrawal,Simon.Agrawal@COMPANY.COM,2024-12-21,Data Engineer,Finance,1612347,,H.No. 371 Bal Path Bhilai-591520,Jaunpur,WB,749050,2003-11-14,active
+5260,SNEHA,NAIR,Sneha.Nair@company.com,2025-09-15,Software Engineer,Platform,"₹2,332,083",,"45/018, Raj Silchar-236103",Munger,WB,421476,1973-10-29,INACTIVE
+5261,dayita,DEEP,Dayita.Deep@company.com,2022-02-18,Machine Learning Engineer,HR,2439679,5105,"76, Loyal Chowk, Mysore 592661",Anand,TG,732788,1971-07-26,INACTIVE
+5262,FIYAZ,MANNAN,Fiyaz.Mannan@COMPANY.COM,2023-12-28,Data Analyst,Platform,"₹2,945,488",,H.No. 22 Kothari Road Sagar 810818,Haridwar,AP,794549,1994-10-15,Active
+5263,FINN,THAKUR,Finn.Thakur@company.com,2016-04-20,Senior Software Engineer,Data,608021,,"601, Mishra Marg, Dharmavaram-794523",Vijayawada,WB,168006,1972-10-11,active
+5264,JACKSON,ARYA,Jackson.Arya@company.com,2018-12-12,Technical Lead,HR,2976233,,"97/499 Rana Path, Chandigarh-203103",Bhagalpur,GJ,236831,1997-06-29,Active
+5265,charvi,SHETH,Charvi.Sheth@COMPANY.COM,2018-07-18,Technical Lead,Data,887464,,"H.No. 227, Sinha Chowk, Hospet-349605",Kota,UP,679984,1997-04-13,INACTIVE
+5266,BALHAAR,sura,Balhaar.Sura@COMPANY.COM,2022-10-28,Data Analyst,Analytics,"₹940,593",5085,"08/069, Bhatt Path, Erode-179576",Nanded,GJ,375738,1998-02-08,
+5267,THEODORE,nori,Theodore.Nori@company.com,2026-04-08,Software Engineer,IT,852543,,66/572 Johal Chandigarh-223297,Vijayanagaram,TG,433800,1996-11-26,
+5268,jagrati,lal,Jagrati.Lal@company.com,2022-02-05,Senior Software Engineer,IT,822477,,"H.No. 561, Karan Kishanganj-745508",Saharanpur,WB,077119,1975-10-27,INACTIVE
+5269,harsh,barman,Harsh.Barman@COMPANY.COM,2024-08-27,Software Engineer,Finance,724649,5159,"524, Toor Chowk Navi Mumbai-552137",Chennai,KA,754821,1972-03-14,Active
+5270,amaira,PRADHAN,Amaira.Pradhan@COMPANY.COM,2023-01-31,Engineering Manager,IT,"₹2,715,607",5184,"63/26, Rout Marg Hazaribagh-072081",Sonipat,MH,626060,1989-07-26,active
+5271,matthew,BHARDWAJ,Matthew.Bhardwaj@company.com,2026-10-08,Senior Software Engineer,Data,1268534,5008,"84 Padmanabhan Path, Parbhani 673899",Hapur,RJ,341085,2000-05-25,active
+5272,madhavi,DATE,Madhavi.Date@COMPANY.COM,2024-11-17,Data Analyst,HR,1678973,,"H.No. 884, Oak Circle, Lucknow 894346",Allahabad,TN,485101,2001-10-29,active
+5273,SAUMYA,misra,Saumya.Misra@COMPANY.COM,2025-10-05,Machine Learning Engineer,IT,"₹1,627,719",5093,"998 Kaur, Dewas-926831",Hazaribagh,TN,571266,1965-05-19,Active
+5274,FINN,chanda,Finn.Chanda@company.com,2017-01-30,Software Engineer,Platform,1972419,5024,715 Rau Circle Bilaspur-677622,Shivpuri,TG,288137,1993-12-09,
+5275,urvashi,BALI,Urvashi.Bali@company.com,2018-09-10,Technical Lead,Analytics,"₹2,938,574",5033,"61/15, Mann, Nagaon 154544",Bhopal,TG,296044,2003-01-25,
+1056,TANVEER,goswami,Tanveer.Goswami@COMPANY.COM,2024-05-04,Machine Learning Engineer,Platform,2075469,,H.No. 067 Mukherjee Naihati 792287,Sultan Pur Majra,KA,519966,1965-03-02,Active
+5277,viraj,RANA,Viraj.Rana@company.com,2021-10-16,Machine Learning Engineer,Platform,"₹2,980,940",5039,41/209 Dasgupta Road Nellore 983780,Katihar,MH,043397,2001-11-03,Active
+5278,frado,walla,Frado.Walla@company.com,2026-05-07,Senior Software Engineer,HR,726805,5030,"05, Gole Marg, Nagpur-641118",Baranagar,TG,241246,1986-10-31,INACTIVE
+5279,omkaar,BHARGAVA,Omkaar.Bhargava@COMPANY.COM,2026-06-24,Data Engineer,Finance,626534,,"04/615, Sachar Street Rampur-103399",Kumbakonam,TG,140578,1987-03-01,INACTIVE
+1079,niharika,BHATTI,Niharika.Bhatti@company.com,2024-04-05,Machine Learning Engineer,Platform,"₹2,698,242",,"H.No. 489, Koshy Zila, Avadi-718325",Sambalpur,UP,870079,1966-12-29,INACTIVE
+5281,bimala,ganesh,Bimala.Ganesh@company.com,2016-01-13,Data Engineer,IT,771075,,"46/53 Uppal, Ranchi-891416",Kolhapur,RJ,639855,1969-02-13,INACTIVE
+1098,ADVIKA,SETHI,Advika.Sethi@company.com,2020-09-01,Software Engineer,HR,"₹764,588",5178,"795 Deol Nagar, Narasaraopet 002687",Siwan,MH,180715,1981-10-05,active
+5283,KRISHA,parmar,Krisha.Parmar@COMPANY.COM,2022-08-09,Senior Software Engineer,IT,1173803,5159,"53, Andra Chowk Jaipur 531943",Kumbakonam,TG,047930,1977-01-30,active
+5284,rohan,RANDHAWA,Rohan.Randhawa@company.com,2017-11-29,Senior Software Engineer,Finance,1695746,5187,"39/99, Bhattacharyya Street, Amritsar-493843",Katihar,DL,870605,1983-11-25,
+5285,rachana,ray,Rachana.Ray@COMPANY.COM,2020-09-07,Machine Learning Engineer,Platform,1718679,,"H.No. 80 Batta Ganj, Bidar-506351",Kamarhati,AP,133254,1973-04-23,INACTIVE
+5286,DEV,chatterjee,Dev@company,2016-07-01,Technical Lead,HR,"₹780,583",,"54/31, Khare Chowk, Meerut-831997",Amroha,MH,100651,1997-09-08,INACTIVE
+5287,JOSHUA,BHATIA,Joshua.Bhatia@COMPANY.COM,2023-07-17,Machine Learning Engineer,HR,"₹626,437",,"H.No. 108 Menon Nagar, Rewa 963990",Yamunanagar,KA,699150,1968-10-02,INACTIVE
+5288,SUDIKSHA,varughese,Sudiksha.Varughese@COMPANY.COM,2021-08-10,HR Executive,Analytics,2417447,,"H.No. 919, Date Ganj Raichur 797232",Allahabad,TG,496854,1978-02-15,Active
+5289,madhav,DIN,Madhav.Din@company.com,2024-01-05,Software Engineer,HR,2755689,5110,"H.No. 08 Dhillon, Patiala 653331",Maheshtala,KA,795995,1986-01-12,Active
+5290,CHANDANI,sahota,Chandani@company,2021-08-12,Engineering Manager,Finance,"₹2,475,515",5033,H.No. 730 Karpe Ganj Kakinada 756362,Mirzapur,TN,150812,1976-01-26,active
+5291,BINA,SARRAF,Bina.Sarraf@COMPANY.COM,2019-05-01,Data Analyst,Finance,"₹966,708",5140,"H.No. 334, Kanda Street, Akola 832302",Salem,KA,261534,2004-11-18,Active
+5292,TANMAYI,KHATRI,Tanmayi.Khatri@COMPANY.COM,2022-04-24,Data Engineer,Analytics,1867265,5054,11/223 Walia Ganj Dindigul-963099,Jorhat,MH,253042,1990-05-13,Active
+1042,yashoda,suresh,Yashoda.Suresh@company.com,2019-08-02,Software Engineer,Finance,"₹2,565,453",5117,"868, Tara Path, Mangalore-587774",Ballia,TN,333736,1970-07-26,active
+5294,TEJAS,mohan,Tejas.Mohan@company.com,2023-04-04,Data Engineer,Analytics,2660009,5032,H.No. 81 Chad Street Raiganj-390789,Purnia,TG,766575,1990-09-08,INACTIVE
+5295,anjali,raja,Anjali.Raja@COMPANY.COM,2016-06-11,Engineering Manager,Platform,1612889,5065,"H.No. 15, Menon Zila, Bally-111508",Thoothukudi,RJ,544439,1977-03-31,INACTIVE
+5296,lakshit,lal,Lakshit.Lal@COMPANY.COM,2016-03-03,Engineering Manager,Finance,"₹687,231",5115,"69 Sodhi Nagar, Sikar 337389",Surendranagar Dudhrej,TG,153663,1985-05-28,INACTIVE
+1037,reva,sengupta,Reva.Sengupta@COMPANY.COM,2025-07-11,Engineering Manager,HR,"₹2,866,611",,"24/07, Nori Path, Gurgaon 684590",Kolhapur,AP,599996,1967-01-28,INACTIVE
+5298,lakshmi,jayaraman,Lakshmi.Jayaraman@COMPANY.COM,2022-09-02,Data Analyst,IT,"₹518,400",,"15, Seth, Tiruchirappalli-182097",Gaya,DL,164334,1969-05-12,INACTIVE
+5299,EKARAJ,SHA,Ekaraj.Sha@company.com,2017-01-01,Machine Learning Engineer,Analytics,1524086,,"H.No. 66, Choudhry Street Jorhat 716323",Bhiwani,TN,299493,1990-02-10,INACTIVE
+5300,YADAVI,SHANKER,Yadavi.Shanker@company.com,2020-09-16,Machine Learning Engineer,IT,"₹974,484",5141,"16, Koshy Jehanabad 779014",Sri Ganganagar,AP,692632,1978-10-02,INACTIVE
+5301,RACHANA,shankar,Rachana.Shankar@COMPANY.COM,2022-07-27,Technical Lead,Data,"₹997,522",5007,03/248 Bhavsar Road Kumbakonam 815118,Alappuzha,MH,243807,1977-07-05,active
+5302,AVI,BORA,Avi.Bora@COMPANY.COM,2026-11-22,HR Executive,IT,"₹2,637,522",,"63/600 Contractor Road, Khammam-771183",Kolhapur,GJ,422091,1996-06-16,active
+5303,PETER,MENON,Peter.Menon@company.com,2018-02-19,Senior Software Engineer,Platform,"₹2,095,178",5114,"H.No. 042, Parmar Chowk, Thrissur-837081",Aizawl,KA,090063,2001-05-29,Active
+5304,zaid,PRASAD,Zaid.Prasad@COMPANY.COM,2020-01-31,Senior Software Engineer,Analytics,2480226,5172,"00, Handa Path Muzaffarnagar 220681",North Dumdum,AP,938661,1978-08-20,
+5305,vincent,kala,Vincent.Kala@company.com,2017-10-28,HR Executive,IT,"₹627,031",5200,"H.No. 650, Kala Marg, Muzaffarnagar 495013",Barasat,MH,189241,1989-04-16,INACTIVE
+5306,EKTA,RAMA,Ekta.Rama@COMPANY.COM,2027-07-23,Engineering Manager,Finance,2490361,,"57/150, Sen, Sasaram 890309",Tirupati,UP,639102,1974-01-27,Active
+5307,kavya,tara,Kavya.Tara@company.com,2021-01-26,HR Executive,Analytics,2482106,,039 Narasimhan Chowk Alwar-086403,Tiruvottiyur,TN,380339,1978-10-10,
+5308,lakshmi,VERMA,Lakshmi.Verma@company.com,2021-06-30,Machine Learning Engineer,HR,"₹940,137",5036,"H.No. 713, Dhaliwal Nagar, Cuttack-298338",Purnia,WB,423362,1977-07-08,
+5309,YUVRAJ,MITTER,Yuvraj.Mitter@COMPANY.COM,2020-11-17,Data Analyst,Finance,2604890,5008,"H.No. 71, Rao Path, Rourkela-768962",Jaipur,AP,614982,2004-04-02,INACTIVE
+5310,parth,KURIAN,Parth.Kurian@company.com,2022-07-01,Data Engineer,Analytics,"₹1,090,406",,"H.No. 68 Srivastava, Thoothukudi 732300",Pallavaram,TG,665674,1996-07-30,INACTIVE
+5311,ekavir,REGE,Ekavir.Rege@company.com,2016-09-07,Software Engineer,Data,"₹577,754",,"645, Suresh Circle, Howrah-633705",Siliguri,TN,972439,1973-06-30,active
+5312,neel,arora,Neel.Arora@COMPANY.COM,2018-01-04,Engineering Manager,IT,2718270,,"91/836 Sane Street, Barasat-946119",Asansol,KA,364027,1971-04-23,
+1013,AARAV,CHATTERJEE,Aarav@company,2017-03-18,Data Analyst,IT,"₹2,483,740",5022,"62/252 Hora Street, South Dumdum-793230",Nellore,UP,679121,1993-06-17,active
+5314,CHAAYA,chada,Chaaya.Chada@COMPANY.COM,2022-06-14,Data Engineer,IT,1197506,5076,"H.No. 09, Sridhar Ganj, Salem 040901",Nagaon,AP,698477,1973-07-05,
+5315,GEETIKA,sanghvi,Geetika@company,2021-10-01,Machine Learning Engineer,Finance,511667,5194,"566 Bhandari, Bathinda 076209",Bettiah,KA,357978,1990-04-04,active
+5316,ODIKA,GUHA,Odika.Guha@COMPANY.COM,2016-01-29,Technical Lead,Analytics,737953,,H.No. 573 Sundaram Pudukkottai 567164,Asansol,DL,271487,1986-12-13,active
+5317,om,sehgal,Om@company,2017-12-28,Data Analyst,Platform,809599,5128,"211, Balakrishnan Marg Khammam-434712",Mysore,GJ,399156,1997-11-02,Active
+5318,LAKSHMI,SARKAR,Lakshmi.Sarkar@COMPANY.COM,2019-12-30,Machine Learning Engineer,IT,"₹1,031,218",5018,"H.No. 11, Oak Zila, Bhiwandi 256904",Gudivada,DL,665528,1980-03-28,
+5319,TRISTAN,chhabra,Tristan.Chhabra@company.com,2022-10-01,HR Executive,Finance,1610443,,"437 Din Chowk, Ulhasnagar-954814",Thrissur,GJ,460523,1965-08-26,active
+5320,umang,BEN,Umang.Ben@COMPANY.COM,2019-01-26,Machine Learning Engineer,Finance,"₹2,524,641",,"20/865 Solanki Marg, Katni-184438",Jalandhar,GJ,590472,1998-03-14,
+5321,laksh,sathe,Laksh.Sathe@company.com,2027-11-12,Senior Software Engineer,Analytics,"₹2,765,719",,"330, Chaudry Path, Gandhinagar 201572",Kochi,RJ,962630,1997-11-09,INACTIVE
+5322,JAGAT,khosla,Jagat.Khosla@COMPANY.COM,2022-10-09,Machine Learning Engineer,Data,"₹720,636",5148,"61/764, Pillai Chowk, Jamshedpur 117830",Panipat,TG,926764,1998-04-11,
+5323,JEREMIAH,CHAUDHARY,Jeremiah.Chaudhary@company.com,2021-07-22,HR Executive,Finance,2791758,5091,06/888 Bhatt Chowk Dhule-292087,Bhilai,TN,293218,1969-05-07,Active
+5324,AAHANA,BANERJEE,Aahana.Banerjee@COMPANY.COM,2017-06-18,Technical Lead,IT,1124509,,"26/03 Batra Road, Deoghar 297585",Navi Mumbai,TG,303243,1973-07-06,INACTIVE
+5325,krish,KALITA,Krish.Kalita@company.com,2026-02-03,Engineering Manager,Platform,338290,,"96/184, Raj Road, Silchar 146283",Agartala,AP,598926,1989-06-17,Active
+5326,mitesh,mutti,Mitesh.Mutti@company.com,2023-05-27,Machine Learning Engineer,HR,422242,5094,"H.No. 418, Ray Zila Ozhukarai 554234",Navi Mumbai,AP,361128,1990-10-24,
+5327,DAMINI,suri,Damini.Suri@company.com,2017-08-25,Engineering Manager,Finance,1287325,5198,"49/10 Nadkarni Street, Bokaro 889679",Rampur,TG,822269,2001-01-08,active
+5328,AMARA,bera,Amara.Bera@COMPANY.COM,2026-11-24,Engineering Manager,Platform,2981889,5039,72/757 Mangat Circle Haldia-414651,Solapur,AP,129014,1990-03-20,active
+5329,WAIDA,ANNE,Waida.Anne@company.com,2023-03-28,Senior Software Engineer,Analytics,2201183,5171,88 Ravi Zila Tadepalligudem-068538,Medininagar,AP,283215,1999-08-23,Active
+5330,kiaan,VARKEY,Kiaan@company,2022-01-13,Technical Lead,Data,1461703,5031,"25 Nigam Zila, Panvel-447443",Jehanabad,WB,348079,1968-06-28,active
+5331,vinaya,BHANDARI,Vinaya.Bhandari@company.com,2022-01-28,Data Engineer,Platform,2126353,,"H.No. 51 Palla Nagar, Rewa-016731",Bulandshahr,DL,702437,1965-06-05,
+5332,megha,prasad,Megha.Prasad@COMPANY.COM,2021-02-11,Data Analyst,Finance,1074616,5004,"41/77, Dey Street, Raebareli-531340",Tenali,GJ,502374,1989-10-30,Active
+5333,JAGAT,SAMA,Jagat.Sama@company.com,2024-05-05,Senior Software Engineer,Data,2523590,5064,"H.No. 68, Deep Marg, Moradabad-225803",Tiruvottiyur,KA,906744,2002-06-18,Active
+5334,vedika,BUTALA,Vedika.Butala@company.com,2023-04-28,Machine Learning Engineer,Analytics,"₹1,171,979",,"414, Sanghvi Ganj Bhalswa Jahangir Pur-892392",Jamshedpur,TG,604326,1981-11-19,
+5335,ANDREW,IYENGAR,Andrew.Iyengar@COMPANY.COM,2017-07-28,Data Analyst,HR,"₹2,809,560",5119,"43/35 Srinivas Marg, Sasaram-041454",Gurgaon,UP,502000,1968-06-29,
+5336,ekanta,KALA,Ekanta.Kala@COMPANY.COM,2020-11-16,HR Executive,HR,"₹600,571",5024,"24, Patla Chowk, Avadi 108255",Giridih,DL,343961,1997-02-24,Active
+1054,hitesh,DE,Hitesh.De@COMPANY.COM,2026-09-25,Technical Lead,Data,2937318,,"711, Oza Circle Bhalswa Jahangir Pur 820236",Karaikudi,KA,571617,1973-03-20,INACTIVE
+5338,ONI,VISWANATHAN,Oni.Viswanathan@company.com,2024-08-05,Technical Lead,Analytics,"₹1,710,208",5145,24/090 Rao Ganj Katihar-278686,Medininagar,TG,320293,1966-07-07,
+5339,ADITYA,VARGHESE,Aditya.Varghese@COMPANY.COM,2023-10-10,Engineering Manager,Analytics,515715,,"448 Garg Zila, Ranchi 402424",Kulti,KA,810595,1999-04-24,Active
+5340,EKTA,chacko,Ekta@company,2025-05-15,Data Engineer,Data,1270621,,45/00 Kanda Path Belgaum-089164,Mango,DL,543962,1982-12-29,Active
+1053,SANAYA,KATA,Sanaya.Kata@company.com,2023-05-29,Technical Lead,HR,2817827,5141,H.No. 727 Goda Street Jehanabad-240422,Narasaraopet,KA,121637,1990-02-10,Active
+1092,neha,chaudhry,Neha@company,2024-12-26,Data Engineer,Finance,2940923,5007,"60, Arya Zila Mira-Bhayandar 142900",Hosur,TN,132797,1974-05-15,active
+5343,NIHAL,MOHANTY,Nihal.Mohanty@COMPANY.COM,2021-09-01,Data Analyst,Data,2272694,,"H.No. 848, Bail Zila Kota-186203",Ambattur,TN,625436,1997-08-13,INACTIVE
+5344,isaiah,swamy,Isaiah.Swamy@company.com,2018-11-28,Technical Lead,Finance,1415430,5130,"H.No. 51, Nath Karimnagar-092268",Ghaziabad,DL,624945,1972-07-09,active
+5345,hemang,MADAN,Hemang.Madan@COMPANY.COM,2024-07-08,Machine Learning Engineer,HR,"₹1,736,514",5157,"H.No. 225, Ramakrishnan Street, Morena 196421",Warangal,DL,655767,1990-02-22,
+5346,ODIKA,NATH,Odika.Nath@COMPANY.COM,2018-05-17,Machine Learning Engineer,Analytics,"₹2,742,415",5073,"78/87 Yadav Circle, Yamunanagar-968931",Mirzapur,KA,305872,1981-10-05,active
+5347,imaran,bhasin,Imaran@company,2021-12-19,Senior Software Engineer,HR,"₹2,076,604",5009,28 Kibe Marg Rajahmundry-212606,Meerut,DL,917920,1989-08-01,INACTIVE
+5348,MANAN,PAU,Manan.Pau@COMPANY.COM,2018-06-05,HR Executive,Analytics,"₹322,820",5170,"H.No. 962, Singhal Street Dehri-765704",Bhatpara,WB,092820,1970-05-27,INACTIVE
+5349,meghana,SAMPATH,Meghana.Sampath@company.com,2027-08-04,Machine Learning Engineer,HR,"₹824,978",5021,"36/241 Purohit Circle, Rajpur Sonarpur 903628",Bhind,KA,566205,1995-12-10,
+5350,panini,hayer,Panini.Hayer@company.com,2020-08-13,Engineering Manager,Data,2648865,,"H.No. 95, Khatri Nagar Ujjain 139043",Patna,AP,419909,1972-05-27,Active
+5351,veda,bath,Veda.Bath@company.com,2016-11-03,Data Engineer,HR,"₹2,782,321",,H.No. 546 Hayer Circle Katni 215681,Nagpur,WB,790422,1986-06-07,Active
+5352,ubika,brar,Ubika@company,2026-09-03,HR Executive,IT,2708770,5037,"22/889, Om Circle Mira-Bhayandar-459606",Dhule,TG,297102,1971-05-17,active
+5353,dayamai,CHAHAL,Dayamai.Chahal@company.com,2024-07-06,Software Engineer,Platform,1645354,5122,"421 Patla Road, Hubli–Dharwad-274747",Amravati,TN,054669,1971-06-07,active
+5354,KAI,SASTRY,Kai.Sastry@COMPANY.COM,2022-04-06,Technical Lead,Analytics,599974,5189,"H.No. 687 Basak Road, Sambalpur 214629",Srinagar,WB,671577,1999-11-25,Active
+5355,UDYATI,CHOPRA,Udyati.Chopra@company.com,2017-06-26,Data Engineer,IT,"₹343,688",,36 Bhattacharyya Path Tiruvottiyur 371470,Nandyal,WB,359096,1977-04-17,Active
+5356,DAVID,PATHAK,David.Pathak@COMPANY.COM,2023-05-05,Senior Software Engineer,IT,1707182,,"064, Goda Road Ajmer-461476",Rampur,TG,016542,1997-03-29,INACTIVE
+5357,rushil,palla,Rushil.Palla@company.com,2023-02-26,HR Executive,Data,"₹833,235",,"65/960, Issac Circle, Adoni-550272",Ratlam,TN,648072,1997-10-19,active
+5358,SHIVANI,CHATTERJEE,Shivani.Chatterjee@company.com,2016-08-23,Senior Software Engineer,Data,"₹2,096,189",5099,82/963 Kadakia Path Gangtok-550448,Panchkula,UP,665586,1979-11-26,Active
+5359,GAUTAMI,COMAR,Gautami.Comar@company.com,2019-01-06,Data Analyst,Finance,580620,,"892 Sarin Circle, Anantapuram-491111",Tadepalligudem,AP,179817,1996-04-01,active
+5360,yahvi,bali,Yahvi.Bali@COMPANY.COM,2027-05-21,Data Engineer,Data,1401458,,"786, Hayre Zila, Amravati-766053",Agartala,KA,463060,1984-10-02,
+5361,ALEXANDER,BAL,Alexander.Bal@COMPANY.COM,2018-08-20,Engineering Manager,Finance,1051154,5000,"963 Raman Circle, Tadepalligudem 096262",Ratlam,TN,631281,1990-07-03,active
+5362,manya,lad,Manya.Lad@company.com,2025-06-06,Senior Software Engineer,Platform,"₹828,413",5150,"H.No. 106, Dua Nagar, Tadipatri 960275",Mathura,TN,438364,1975-11-07,Active
+5363,charan,maharaj,Charan.Maharaj@COMPANY.COM,2017-06-08,Senior Software Engineer,Platform,1201643,5179,"H.No. 791, Dhar Zila Firozabad 117536",Pallavaram,RJ,617136,1974-10-23,INACTIVE
+1008,keya,murthy,Keya.Murthy@company.com,2026-10-20,Engineering Manager,Data,"₹521,935",5122,"H.No. 02, Balay Tiruvottiyur-799802",Bhilai,AP,908088,1995-09-16,INACTIVE
+5365,michael,kalita,Michael.Kalita@COMPANY.COM,2022-03-26,Software Engineer,IT,"₹2,619,122",,"H.No. 23, Date Zila Panipat-315847",Junagadh,MH,342346,1972-11-02,Active
+5366,HARSHIL,MUNI,Harshil.Muni@COMPANY.COM,2018-11-04,Machine Learning Engineer,IT,2241833,,"69 Nagar Road, Medininagar-639551",Rourkela,UP,849649,1979-01-12,INACTIVE
+5367,INDIRA,rao,Indira@company,2016-07-14,Engineering Manager,IT,2541535,5185,25 Bora Ganj Serampore-251050,Kakinada,WB,953816,1972-10-29,Active
+5368,BHANUMATI,kala,Bhanumati.Kala@COMPANY.COM,2024-12-29,HR Executive,Finance,"₹466,679",5180,91/966 Nagarajan Path Thiruvananthapuram 770461,Bidhannagar,TG,959639,1979-10-29,active
+5369,ansh,MANE,Ansh.Mane@COMPANY.COM,2016-04-29,Engineering Manager,HR,2710495,,H.No. 26 Walla Nagar Naihati 171644,Sri Ganganagar,UP,185790,2004-03-16,Active
+5370,maya,misra,Maya.Misra@company.com,2027-11-15,Senior Software Engineer,Platform,"₹2,113,567",,"H.No. 91, Kapur Nagar, Hyderabad-156321",Arrah,AP,040104,1995-12-17,Active
+5371,FALAN,lalla,Falan.Lalla@company.com,2021-08-17,Technical Lead,Finance,"₹1,328,807",5125,"971, Nagar Street, Bhimavaram 718839",Unnao,RJ,573144,1990-11-08,Active
+5372,FITAN,PANDIT,Fitan.Pandit@company.com,2025-07-11,Technical Lead,HR,2231390,5151,"H.No. 703, Kalita Nagar Kharagpur-715398",Bijapur,WB,281235,1981-07-09,INACTIVE
+5373,LEKHA,SETHI,Lekha.Sethi@COMPANY.COM,2026-07-31,Software Engineer,HR,1025363,5140,146 Mohanty Street Siliguri-113072,Bhopal,DL,875418,1999-12-20,Active
+5374,frado,pandya,Frado.Pandya@company.com,2023-05-14,Data Engineer,Platform,"₹804,313",,68/50 Mahajan Chowk Navi Mumbai-663436,Hindupur,UP,897861,1979-06-16,
+5375,chandresh,kothari,Chandresh.Kothari@COMPANY.COM,2017-11-30,Software Engineer,Finance,2673309,,"H.No. 943, Wali Zila Bally 966613",Shimla,UP,235494,1979-12-20,
+1018,aarush,chandra,Aarush.Chandra@COMPANY.COM,2019-03-05,Technical Lead,HR,2526246,5031,"32/512 Natarajan Street, Ajmer-765024",Tirunelveli,TG,957907,1999-04-10,Active
+5377,YUG,SODHI,Yug@company,2017-11-19,Data Analyst,Finance,1460859,,882 Chandra Street Avadi 775847,Bharatpur,UP,054589,1968-02-06,
+5378,veda,CHOWDHURY,Veda.Chowdhury@company.com,2020-08-13,Engineering Manager,Analytics,"₹534,862",,"32, Tank Path Sambalpur 531361",Tinsukia,WB,824556,2000-05-13,Active
+5379,OMISHA,majumdar,Omisha@company,2021-04-15,Senior Software Engineer,IT,"₹542,385",,16/79 Mani Path Bangalore 272849,Avadi,WB,414070,1977-12-29,INACTIVE
+5380,teerth,MANDAL,Teerth.Mandal@company.com,2026-02-11,Technical Lead,Analytics,1343815,,H.No. 06 Acharya Path Chandrapur 548821,Asansol,TG,691430,1973-06-05,INACTIVE
+5381,URVASHI,pant,Urvashi.Pant@COMPANY.COM,2020-04-03,Technical Lead,Platform,2133003,,"H.No. 449 Ghose Road, North Dumdum-342683",Farrukhabad,WB,497826,1991-04-24,
+1063,rajeshri,char,Rajeshri@company,2018-05-20,Data Analyst,Data,2060561,5114,"57/56 Salvi Chowk, Surendranagar Dudhrej-806129",Latur,RJ,298940,2000-11-10,INACTIVE
+5383,MAYA,DASS,Maya.Dass@company.com,2022-11-17,Software Engineer,Platform,2202569,5055,"H.No. 104 Nath Zila, Ramagundam-501980",Hazaribagh,KA,872324,1965-06-06,Active
+5384,DEEPA,AHUJA,Deepa.Ahuja@COMPANY.COM,2024-04-10,Engineering Manager,HR,501695,5084,"H.No. 291, Chatterjee Circle Kurnool 708760",Dewas,GJ,723849,1978-09-07,Active
+5385,reva,DASGUPTA,Reva.Dasgupta@COMPANY.COM,2023-05-19,Data Engineer,Finance,622902,5097,"328, Iyer Circle Nangloi Jat 419754",Kharagpur,TG,766204,1974-12-23,active
+1030,TANVI,DARA,Tanvi@company,2025-08-15,HR Executive,Data,"₹2,660,347",5006,H.No. 970 Dewan Path Berhampore 025883,Loni,AP,812259,1991-07-12,
+5387,HARINAKSHI,sharaf,Harinakshi.Sharaf@COMPANY.COM,2018-05-29,Software Engineer,HR,490343,,"H.No. 767 Gole, Bikaner 995996",Ranchi,TG,231177,1983-12-20,Active
+5388,ekiya,kata,Ekiya.Kata@company.com,2020-01-19,Engineering Manager,Platform,"₹1,282,727",5109,10 Krishna Agra-759025,Hospet,GJ,298334,1972-03-14,
+5389,vritti,sarma,Vritti@company,2027-07-29,Machine Learning Engineer,Finance,2470563,5191,"26/831, Bajwa Kurnool-205698",Mau,RJ,873397,1984-06-29,Active
+5390,XITI,PANDEY,Xiti.Pandey@company.com,2022-02-02,Software Engineer,Finance,"₹1,790,800",5098,"66, Brar Zila Hazaribagh-117309",Lucknow,DL,446512,2003-01-17,active
+5391,BHAVNA,BORDE,Bhavna.Borde@company.com,2025-02-11,Machine Learning Engineer,Platform,2544433,5162,90 Choudhry Circle Firozabad-056435,Kolhapur,WB,850371,2004-03-06,INACTIVE
+1041,balendra,PAL,Balendra.Pal@company.com,2017-03-24,Engineering Manager,HR,397495,5150,401 Taneja Nagar Etawah 743000,Deoghar,RJ,087066,1993-05-08,
+5393,JEREMIAH,sani,Jeremiah.Sani@company.com,2027-12-15,HR Executive,Platform,457950,,"19, Pandey Path Tiruvottiyur-033190",Haridwar,UP,030102,1994-01-27,Active
+5394,REVA,GOLE,Reva.Gole@COMPANY.COM,2020-10-30,Engineering Manager,IT,939041,,"34/29 Srinivas Marg, Solapur 483753",Barasat,MH,843845,1968-01-01,active
+5395,YAHVI,chawla,Yahvi.Chawla@COMPANY.COM,2016-12-10,Machine Learning Engineer,IT,"₹2,299,168",5145,"H.No. 13 Verma Street, Farrukhabad-152037",Raipur,TN,704496,1988-08-12,active
+5396,CHARITA,chad,Charita.Chad@COMPANY.COM,2017-01-15,Engineering Manager,Analytics,"₹489,327",,"H.No. 667 Kapur Nagar, Nadiad-680408",Indore,WB,493059,1984-01-07,Active
+5397,RADHA,sane,Radha.Sane@COMPANY.COM,2016-12-29,Data Engineer,IT,"₹947,398",,"76/99 Lad Circle, Eluru-320441",Hosur,RJ,596094,1972-06-16,
+5398,JANAKI,luthra,Janaki.Luthra@COMPANY.COM,2027-03-29,Data Engineer,Data,2303844,,"H.No. 95, Gola Road Surendranagar Dudhrej 707057",Alappuzha,WB,914985,1982-01-27,
+5399,devansh,SASTRY,Devansh.Sastry@company.com,2019-01-31,Engineering Manager,Platform,"₹506,934",5116,"23 Din Street, Muzaffarpur 028795",Begusarai,DL,044058,1982-08-01,INACTIVE
+5400,chaitanya,KEER,Chaitanya.Keer@COMPANY.COM,2021-12-22,Technical Lead,Data,"₹1,237,465",5000,H.No. 813 Nanda Ganj Vijayanagaram 642059,Thanjavur,KA,574902,1972-06-15,active
+5401,JYOTI,BASU,Jyoti.Basu@COMPANY.COM,2020-12-21,Senior Software Engineer,Finance,2486898,,"35/88, Padmanabhan Burhanpur 261139",Siwan,AP,809788,1975-03-28,Active
+5402,ridhi,NADIG,Ridhi@company,2020-08-08,Machine Learning Engineer,Data,705217,5199,"H.No. 35, Shah Ganj, Bhiwandi 765158",Mirzapur,KA,937639,1978-04-19,Active
+5403,JEREMIAH,yogi,Jeremiah.Yogi@COMPANY.COM,2020-03-11,Data Engineer,IT,"₹2,749,929",,H.No. 55 Bumb Zila Bidar-973270,Jamshedpur,AP,487120,1992-10-06,
+5404,raagini,BAJWA,Raagini.Bajwa@COMPANY.COM,2027-10-06,Technical Lead,Platform,1089951,,"86/65, Ratti Street Durg 559991",Srinagar,RJ,767647,1976-05-21,active
+5405,krish,goswami,Krish.Goswami@company.com,2026-01-20,Data Engineer,HR,1109919,,"H.No. 995, Raghavan Chowk Bahraich 894134",Mau,TN,988986,1999-09-09,active
+5406,BHAVIKA,NAIDU,Bhavika.Naidu@COMPANY.COM,2022-07-23,Data Analyst,Data,"₹1,767,063",5163,"H.No. 368, Murthy Road Sri Ganganagar-214477",Gulbarga,TN,491342,1986-09-15,INACTIVE
+5407,GOPAL,jhaveri,Gopal.Jhaveri@COMPANY.COM,2025-06-02,Data Engineer,HR,"₹2,287,421",5013,"08/83, Suresh Nagar Uluberia-496782",Sagar,MH,176741,1999-08-23,
+5408,LAKSH,MALLICK,Laksh.Mallick@COMPANY.COM,2027-05-27,Engineering Manager,Analytics,"₹725,093",5127,"31/528, Majumdar Path, Anand 506185",Proddatur,MH,032963,1972-12-13,Active
+1036,rohan,LANKA,Rohan@company,2024-01-09,HR Executive,IT,"₹2,913,870",5066,"74/231, Kala Circle, Raebareli-789320",Firozabad,DL,935782,1975-05-01,
+5410,charita,kata,Charita.Kata@COMPANY.COM,2020-12-29,Technical Lead,Analytics,785065,5077,"58/74 Kanda Zila, Tumkur-753612",Imphal,TG,562779,1998-01-13,INACTIVE
+5411,nisha,keer,Nisha@company,2016-07-07,Data Analyst,Analytics,"₹2,932,512",,"08, Lal Path, Bulandshahr 766404",Muzaffarnagar,RJ,047639,1984-10-28,
+5412,OJAS,WASON,Ojas.Wason@company.com,2019-07-14,Engineering Manager,Data,629446,,"80/06, Nath Zila, Begusarai 083583",Jorhat,GJ,342556,1972-07-13,active
+5413,tanveer,kothari,Tanveer.Kothari@COMPANY.COM,2016-04-03,Data Analyst,Analytics,1231368,5029,"67/02, Mitra Road Berhampur 041662",Guwahati,TN,186008,1967-06-25,INACTIVE
+5414,MAX,CHANDRAN,Max.Chandran@COMPANY.COM,2026-01-11,Data Engineer,Analytics,375031,5200,H.No. 68 Mittal Nagar Berhampore-149764,Tiruchirappalli,RJ,684748,1991-08-23,INACTIVE
+5415,yashawini,KONDA,Yashawini.Konda@COMPANY.COM,2022-07-13,Data Engineer,Finance,"₹1,805,161",,"H.No. 81 Kapur Chowk, Sikar-757914",Asansol,TN,182379,1966-03-13,
+5416,zaid,chacko,Zaid.Chacko@company.com,2018-06-06,Data Analyst,Analytics,"₹775,022",,"H.No. 746, Nazareth Road, Vadodara-996043",Bongaigaon,TN,535778,1992-06-18,Active
+5417,finn,CHEEMA,Finn.Cheema@COMPANY.COM,2023-04-08,Data Analyst,HR,309920,,"H.No. 281, Hora Street, Raipur-672872",Silchar,MH,416448,1970-04-20,Active
+5418,ekantika,prabhu,Ekantika.Prabhu@company.com,2025-08-13,Data Analyst,HR,1975293,5149,39/58 Krishnamurthy Surendranagar Dudhrej-522870,Erode,AP,271043,1976-04-26,Active
+5419,RYAN,chandra,Ryan.Chandra@company.com,2025-03-04,Machine Learning Engineer,Platform,"₹668,367",5021,"H.No. 979, Bhavsar Street, Karaikudi 503446",Arrah,AP,488319,1996-03-26,
+5420,michael,chauhan,Michael.Chauhan@COMPANY.COM,2019-09-15,Engineering Manager,HR,1519382,5139,12/89 Narayanan Marg Tadepalligudem-320331,Asansol,KA,705102,1984-01-30,
+1037,yasti,sarraf,Yasti.Sarraf@company.com,2023-04-06,Technical Lead,IT,"₹427,400",,"13/86 Rajan Marg, Raichur 858193",Alwar,MH,687741,1997-02-14,Active
+5422,radhika,PALL,Radhika.Pall@company.com,2019-01-20,Machine Learning Engineer,Finance,2516941,5078,"56/398 Raja Ganj, Mangalore 375830",Ozhukarai,MH,548094,1966-09-30,active
+5423,bahadurjit,MAHARAJ,Bahadurjit.Maharaj@company.com,2026-12-10,Data Engineer,HR,1127805,,"44/090, Sha Chowk, Malegaon-810509",Belgaum,DL,161070,1997-08-09,
+5424,DIPTA,chatterjee,Dipta@company,2025-04-12,Technical Lead,Analytics,1219711,,"H.No. 52, Peri Sambhal-013824",Malegaon,MH,049386,1983-11-28,
+5425,OSCAR,aggarwal,Oscar@company,2021-04-26,Senior Software Engineer,Analytics,747039,5091,"H.No. 79, Sheth Zila, Bhiwandi 212590",Hyderabad,RJ,571343,1983-08-28,Active
+5426,kevin,mukherjee,Kevin.Mukherjee@COMPANY.COM,2016-12-06,Technical Lead,IT,1173133,,"H.No. 29, Sachdev Path, Maheshtala 324474",Unnao,UP,955872,1990-11-02,INACTIVE
+5427,balhaar,RAJAN,Balhaar@company,2018-09-03,Software Engineer,IT,843978,5038,H.No. 43 Thakur Path Mysore-437401,Fatehpur,MH,795596,2001-08-19,
+5428,BAHADURJIT,naidu,Bahadurjit.Naidu@company.com,2027-12-15,Machine Learning Engineer,Data,469722,,"675, Chaudhry Path, Secunderabad 278207",Guntakal,RJ,673459,1972-02-23,active
+5429,GEETIKA,SUBRAMANIAN,Geetika@company,2027-07-27,Data Analyst,Platform,1365077,5033,"816, Luthra Marg, Guntakal 282498",Tezpur,TN,250142,1992-04-28,INACTIVE
+1082,HIRAL,shanker,Hiral@company,2022-10-05,Engineering Manager,Platform,"₹2,830,050",5169,"23/244, Goyal Zila, Kurnool-132850",Kozhikode,GJ,178637,1976-04-11,active
+5431,krisha,sheth,Krisha.Sheth@company.com,2020-02-26,Data Engineer,IT,"₹2,381,107",5199,"H.No. 26, Mandal Path, Kavali-815790",Narasaraopet,GJ,355580,1971-07-19,Active
+5432,MITALI,BRAHMBHATT,Mitali.Brahmbhatt@COMPANY.COM,2027-01-03,Engineering Manager,IT,2691523,5167,034 Chander Marg Yamunanagar-624467,Bhilwara,KA,226817,1980-09-06,
+5433,FITAN,PAL,Fitan.Pal@COMPANY.COM,2027-09-12,Data Engineer,Finance,1421383,,"529, Rajagopalan Circle, Hyderabad-660464",Mahbubnagar,AP,857585,1971-12-05,active
+5434,ISAAC,gola,Isaac.Gola@company.com,2023-03-29,Technical Lead,Data,"₹1,277,404",5180,"059, Hora Road, Raebareli-740177",Dhanbad,KA,465408,2001-03-17,
+5435,amara,gola,Amara.Gola@company.com,2021-01-05,Data Analyst,HR,312315,5126,"54, Choudhury Nagar, Vadodara-321812",Kumbakonam,UP,457938,1989-04-24,Active
+5436,tara,baria,Tara.Baria@company.com,2017-04-29,Technical Lead,Analytics,356087,,"916, Brar Circle, Barasat 602416",Nellore,RJ,498830,1987-04-02,
+5437,KAVYA,solanki,Kavya.Solanki@COMPANY.COM,2019-09-08,HR Executive,HR,2477808,,"H.No. 80, Rastogi, Anantapuram 063062",Shimoga,AP,951330,1994-10-05,INACTIVE
+5438,EKTA,kant,Ekta.Kant@COMPANY.COM,2017-02-08,Software Engineer,Analytics,1503090,,"95/867 Arora Circle, Mau-572773",Pali,TG,609178,1984-08-12,INACTIVE
+5439,hemani,CHACKO,Hemani.Chacko@COMPANY.COM,2019-07-22,Engineering Manager,Data,666663,,"H.No. 57 Balan Chowk, Bhimavaram 959660",Miryalaguda,UP,368269,2001-01-24,INACTIVE
+5440,jatin,chatterjee,Jatin.Chatterjee@company.com,2022-10-04,Data Engineer,Finance,"₹1,690,178",5147,"42/26, Rege Circle Bellary-945515",Kamarhati,MH,774722,1979-11-19,INACTIVE
+5441,MUGDHA,mani,Mugdha.Mani@COMPANY.COM,2016-01-30,Data Engineer,Platform,"₹2,828,777",5083,"21/696 Roy Marg, Bhopal 299819",Lucknow,AP,932971,2001-04-10,INACTIVE
+1050,kamala,bajaj,Kamala@company,2026-04-03,Engineering Manager,HR,972077,5159,"53, Sodhi Street North Dumdum-410397",Sambalpur,AP,327819,1991-07-10,active
+5443,GARIMA,DUTTA,Garima.Dutta@COMPANY.COM,2020-03-10,Technical Lead,Analytics,"₹2,231,119",5081,"06/876, Sahni Zila Siwan 980770",Sikar,DL,568761,1996-06-24,active
+5444,hemang,DHINGRA,Hemang.Dhingra@COMPANY.COM,2020-06-28,Machine Learning Engineer,Platform,1231569,,"H.No. 65, Kibe Street Bhagalpur 151773",Tiruvottiyur,DL,757494,2004-06-25,
+5445,BALENDRA,DEY,Balendra.Dey@COMPANY.COM,2018-07-17,Machine Learning Engineer,HR,2970976,,"595, Mohanty Road, Tezpur 774222",Yamunanagar,TG,303942,2000-07-13,INACTIVE
+5446,advik,lad,Advik.Lad@COMPANY.COM,2022-03-21,Data Engineer,Platform,"₹1,219,381",5004,"25/29 Murthy Circle, Burhanpur-287276",Amritsar,WB,343324,1999-08-21,INACTIVE
+5447,JAGDISH,HEGDE,Jagdish.Hegde@COMPANY.COM,2022-02-02,HR Executive,Finance,1171049,,"83/350, Chaudhary Marg, Guna-488810",Tezpur,AP,342337,1998-12-20,active
+1057,peter,baria,Peter@company,2026-05-22,Engineering Manager,Finance,2160411,5084,"31/284, Johal Nagar, Latur 718051",Morena,DL,717318,1983-02-10,Active
+5449,TANVEER,sur,Tanveer.Sur@COMPANY.COM,2021-02-15,Data Engineer,Data,1046196,5013,H.No. 739 Shan Chandrapur 947258,Kottayam,GJ,448354,2003-10-08,active
+5450,YAHVI,more,Yahvi.More@company.com,2026-09-03,HR Executive,IT,"₹1,929,895",,"05, Singhal Circle Ujjain 164175",Jammu,TG,334845,1994-12-21,active
+5451,urmi,CHAUHAN,Urmi@company,2027-09-03,Machine Learning Engineer,Analytics,"₹377,111",5031,"H.No. 23, Garg Marg Phagwara-587964",Firozabad,WB,452455,1985-06-12,active
+5452,DIVYA,SENGUPTA,Divya.Sengupta@company.com,2021-04-06,Technical Lead,Data,"₹2,677,600",5017,"H.No. 606 Dey Path, Panipat-334450",Purnia,AP,588339,1993-12-19,active
+5453,yahvi,SARRAF,Yahvi.Sarraf@company.com,2020-09-07,Data Analyst,Finance,713159,,"579, Batra Chowk Morbi 499601",Tiruvottiyur,AP,857417,1972-04-18,
+1100,krish,borah,Krish.Borah@company.com,2021-07-18,Engineering Manager,Finance,"₹2,036,905",5177,"49/38, Sarma Zila Khammam-884021",Karimnagar,KA,325737,1993-03-08,active
+5455,JANAKI,nath,Janaki.Nath@COMPANY.COM,2019-05-30,Software Engineer,Data,699186,5176,"166, Sur Marg, Dehri 850960",Siwan,AP,495119,1982-08-27,INACTIVE
+1011,george,CHOWDHURY,George.Chowdhury@company.com,2025-01-26,Senior Software Engineer,Analytics,944492,5077,31/64 Seth Chowk Bathinda 295786,Rewa,TN,096003,1975-10-17,INACTIVE
+5457,EKANTIKA,SANE,Ekantika@company,2018-08-02,Data Analyst,Platform,1297702,5025,73/95 Dua Siliguri-421089,Warangal,TN,155333,1982-08-22,Active
+5458,CHAVVI,GADE,Chavvi@company,2023-03-30,Data Analyst,IT,"₹2,407,013",5010,"H.No. 02, Dasgupta Chowk Indore-360776",Tiruppur,UP,911289,1983-06-22,INACTIVE
+1043,ZAITRA,DARA,Zaitra.Dara@company.com,2018-10-18,Data Analyst,HR,2361870,5039,95/563 Chana Ganj Morena 817006,Silchar,RJ,554164,1979-04-17,INACTIVE
+5460,veer,CHAD,Veer.Chad@COMPANY.COM,2027-02-02,Software Engineer,Analytics,"₹2,605,040",,"H.No. 50, Kothari Street, Buxar-282270",Kavali,GJ,459626,1991-07-18,
+5461,ORINDER,GHOSH,Orinder@company,2024-11-05,Technical Lead,HR,"₹1,698,320",5010,H.No. 207 Mohan Ganj Dindigul-950050,Visakhapatnam,UP,608698,1975-04-30,
+5462,OMKAAR,DUGAR,Omkaar.Dugar@company.com,2017-09-23,Engineering Manager,Data,"₹1,535,718",5068,"H.No. 611, Shetty Chowk, Jorhat 290477",Warangal,WB,859177,1966-01-16,INACTIVE
+5463,ROHAN,DASS,Rohan.Dass@company.com,2019-10-03,Data Engineer,IT,1084833,5084,"116, Cheema Road Kamarhati-245798",Mira-Bhayandar,UP,652906,2000-01-20,
+5464,CHANAKYA,hora,Chanakya.Hora@company.com,2019-02-14,Data Engineer,Platform,2301878,5046,"265, Srivastava Nagar Hapur-967379",Bongaigaon,UP,148552,1965-12-31,INACTIVE
+5465,aadhya,OM,Aadhya.Om@company.com,2024-04-25,Engineering Manager,Data,1129308,,"58/415, Bal Marg, Bareilly-711842",Aizawl,TN,681826,2002-05-19,
+5466,yasti,HAYER,Yasti.Hayer@company.com,2018-06-08,Technical Lead,HR,870141,5096,"58/929, Vohra Circle Katihar 838252",Dehradun,AP,289634,1980-02-15,Active
+5467,chandran,RATTAN,Chandran.Rattan@company.com,2021-01-25,Senior Software Engineer,IT,"₹2,235,677",,"52 Acharya Road, Chandrapur-399106",Asansol,UP,236266,1991-07-20,Active
+5468,RISHI,kothari,Rishi.Kothari@company.com,2021-12-26,HR Executive,Analytics,2681550,5054,619 Jha Street Ajmer-501848,Khora ,MH,374189,1969-10-29,Active
+5469,SUHANI,DUBE,Suhani.Dube@company.com,2017-03-22,Data Engineer,Platform,"₹590,995",,"41, Sandhu Chowk, Morbi 381199",New Delhi,DL,660144,1988-04-03,active
+5470,ZAYAN,TRIVEDI,Zayan.Trivedi@COMPANY.COM,2021-08-14,Technical Lead,Platform,1024582,,"H.No. 017 Talwar Ganj, Gudivada 417899",Medininagar,DL,091919,1993-08-01,Active
+5471,girish,dalal,Girish.Dalal@COMPANY.COM,2020-01-31,Engineering Manager,IT,2062307,,"05/779 Barad Circle, Bhiwani-392051",Haridwar,TG,745553,1989-07-28,active
+5472,aradhana,sehgal,Aradhana.Sehgal@company.com,2016-11-02,Senior Software Engineer,IT,2528060,,"388 Rattan Path, Malegaon-155983",Farrukhabad,KA,165972,1987-02-09,Active
+5473,lavanya,jain,Lavanya.Jain@company.com,2020-07-11,Senior Software Engineer,Analytics,"₹303,770",,"52 Naidu Street, Gorakhpur 948848",Sikar,AP,311964,1998-01-22,active
+5474,madhav,OAK,Madhav@company,2025-02-01,Senior Software Engineer,IT,967263,,"14, Butala, Kamarhati-038240",Rajahmundry,RJ,337320,1989-02-06,active
+5475,chaman,KOHLI,Chaman.Kohli@company.com,2016-05-18,HR Executive,Data,"₹870,185",,"89/36 Venkataraman Street, Ramgarh-454655",Imphal,GJ,125389,1997-11-29,
+5476,kabir,char,Kabir.Char@COMPANY.COM,2024-08-28,Software Engineer,Platform,"₹2,036,074",5089,"35/83, Luthra Chowk, Jaunpur 796120",Karaikudi,TG,572151,1997-05-26,INACTIVE
+5477,ANYA,KRISHNAN,Anya.Krishnan@company.com,2016-06-29,Data Engineer,IT,"₹1,077,915",5043,"37, Yohannan Road, Bathinda-986289",Chennai,RJ,591191,1998-06-05,active
+5478,ODIKA,edwin,Odika.Edwin@company.com,2019-05-03,Senior Software Engineer,Data,"₹2,653,850",,"H.No. 715, Chandra Zila Chapra-667252",Bijapur,RJ,264712,1981-12-15,Active
+5479,ABHA,ratti,Abha.Ratti@COMPANY.COM,2019-06-09,Data Analyst,Finance,"₹2,543,034",,"H.No. 71, Kurian Circle, Medininagar 805120",Kolkata,TN,640995,1980-06-13,INACTIVE
+5480,ekaraj,GERA,Ekaraj.Gera@COMPANY.COM,2019-03-26,Data Engineer,IT,"₹1,388,368",5197,"H.No. 12, Prasad Gandhidham-827090",Bijapur,WB,152982,1998-12-05,Active
+5481,harish,tank,Harish@company,2019-04-24,Software Engineer,Platform,"₹432,663",,"86/718 Nigam Zila, Ambarnath 373605",Nangloi Jat,TN,815899,1975-08-04,active
+5482,meera,iyer,Meera.Iyer@COMPANY.COM,2020-10-30,HR Executive,Finance,2807778,,466 Purohit Marg Pallavaram-715879,Farrukhabad,TG,408031,1986-10-28,
+5483,DAMYANTI,ghose,Damyanti.Ghose@COMPANY.COM,2026-12-05,Engineering Manager,IT,670662,5008,"H.No. 463, Yogi Path Raebareli 850317",Korba,WB,137399,1986-05-15,INACTIVE
+5484,ALEXANDER,BATH,Alexander.Bath@COMPANY.COM,2022-07-07,Technical Lead,Finance,"₹1,240,362",,H.No. 352 Kari Marg Rewa 229394,Aurangabad,TG,346066,1979-01-17,Active
+5485,krishna,mall,Krishna.Mall@COMPANY.COM,2019-04-01,Software Engineer,HR,572836,,"60/723, Contractor Zila, Kozhikode 128524",Anantapuram,GJ,494116,1998-04-01,Active
+5486,saksham,chadha,Saksham.Chadha@COMPANY.COM,2025-06-18,Engineering Manager,Platform,"₹2,878,133",5157,"07/71, Karnik Zila Munger-113695",Asansol,DL,908335,1998-11-30,Active
+5487,CALEB,atwal,Caleb@company,2018-08-15,Software Engineer,Data,1438172,,"H.No. 73, Raman Nagar, Jamnagar 813235",Nagpur,WB,139848,1988-04-03,
+5488,NAVEEN,dhar,Naveen.Dhar@COMPANY.COM,2025-05-01,Machine Learning Engineer,HR,1054459,5192,"16/880, Gara Uluberia 213060",Munger,MH,309810,1986-08-20,active
+5489,vamakshi,raju,Vamakshi.Raju@COMPANY.COM,2020-10-30,HR Executive,HR,2821131,,"79/457, Dua Chowk, Jorhat-324264",Arrah,WB,642076,1991-05-07,active
+5490,utkarsh,ratti,Utkarsh.Ratti@company.com,2018-02-24,Technical Lead,Platform,1788695,5007,67 Sawhney Chowk Madhyamgram-556283,Bellary,AP,939578,1989-01-16,
+5491,NILIMA,PRASAD,Nilima.Prasad@company.com,2026-12-24,Machine Learning Engineer,IT,2837324,,718 Mital Chowk Faridabad-358268,Bokaro,TN,036924,1985-11-29,active
+5492,NACHIKET,RATTI,Nachiket.Ratti@COMPANY.COM,2025-10-22,Software Engineer,IT,386670,,H.No. 73 Sur Street Phagwara-111000,Mysore,KA,532341,1978-06-27,active
+5493,janani,mutti,Janani.Mutti@company.com,2025-12-13,Machine Learning Engineer,Platform,2683359,,"24/418 Doshi Street, Vijayanagaram-896288",Parbhani,MH,127102,1995-06-02,INACTIVE
+1091,LAKSHMI,SOLANKI,Lakshmi.Solanki@COMPANY.COM,2022-06-24,Engineering Manager,Analytics,773257,5009,"57/99, Sem Street Pallavaram-515122",Singrauli,GJ,135415,1997-06-23,Active
+5495,warda,BABU,Warda.Babu@company.com,2026-08-09,HR Executive,Platform,403034,,H.No. 38 Venkatesh Road Unnao-203447,Naihati,TN,471580,1993-06-14,INACTIVE
+5496,KALPIT,ANNE,Kalpit@company,2025-10-13,Technical Lead,Finance,"₹2,853,785",5021,"766 Madan Nagar, Thanjavur 866525",Suryapet,AP,744171,1966-05-02,
+5497,EIRAVATI,UPADHYAY,Eiravati.Upadhyay@company.com,2017-12-15,Data Analyst,Data,1446401,,"125, Dube Zila Chandigarh-005912",Bathinda,GJ,910231,1966-08-04,
+5498,QUINCY,chand,Quincy@company,2017-08-01,Data Analyst,IT,"₹2,018,599",,"016, Wagle Path, Fatehpur-792749",Mango,TG,801234,1965-04-15,
+5499,maanas,gulati,Maanas.Gulati@COMPANY.COM,2027-12-07,HR Executive,Finance,"₹1,481,339",5076,"532, Minhas Marg Guna 364538",Chandrapur,RJ,210175,1973-06-19,
+5500,darpan,sani,Darpan.Sani@COMPANY.COM,2017-05-20,HR Executive,Platform,1867376,,"H.No. 95, Bhatti Imphal 575747",Bongaigaon,UP,392056,1995-05-16,active
+5501,udyati,shenoy,Udyati@company,2021-07-17,Technical Lead,IT,885872,,"22 Saini Marg, Kolhapur-626506",Saharanpur,TN,310672,1992-06-19,active
+5502,ANIKA,nazareth,Anika@company,2019-05-22,Senior Software Engineer,Finance,2298071,,"484 Gupta Ganj, Medininagar-662705",Jabalpur,AP,794238,1966-07-02,Active
+5503,WARDA,kalita,Warda.Kalita@company.com,2023-02-09,Data Analyst,Platform,2700095,,25/496 Dara Bettiah 552597,Surat,GJ,563353,1998-05-28,active
+5504,DHRITI,SONI,Dhriti.Soni@company.com,2020-10-18,Data Engineer,IT,"₹466,855",5000,"32/593 Khalsa, Unnao 058162",Jodhpur,WB,794176,2002-10-17,
+5505,REYANSH,MAJUMDAR,Reyansh.Majumdar@COMPANY.COM,2018-06-17,Engineering Manager,Finance,656065,5008,305 Subramanian Path Darbhanga 759833,Sagar,AP,388436,1989-10-12,
+1061,pallavi,APTE,Pallavi.Apte@company.com,2021-02-04,Machine Learning Engineer,Finance,"₹2,032,859",5061,"H.No. 00, Brar Marg Kirari Suleman Nagar-768297",Moradabad,DL,743974,1982-10-14,Active
+5507,NICHOLAS,DAVE,Nicholas.Dave@company.com,2021-07-07,Technical Lead,Finance,2726507,,"H.No. 87, Dhar Path Gandhinagar 656259",Ichalkaranji,AP,990802,1966-03-07,INACTIVE
+5508,WATIKA,BHATT,Watika.Bhatt@COMPANY.COM,2017-03-06,Engineering Manager,Platform,"₹1,238,915",,"23/15, Nigam Path Haridwar-176808",Tenali,UP,813721,1974-07-19,active
+5509,ADVIKA,KARAN,Advika.Karan@COMPANY.COM,2020-02-04,Data Engineer,IT,"₹728,034",5098,"37/003, Dua Ganj Orai 566084",Nagpur,TN,810390,1968-11-14,INACTIVE
+5510,sathvik,karpe,Sathvik.Karpe@COMPANY.COM,2025-12-09,Software Engineer,Analytics,"₹1,739,487",,19/582 Kala Marg Jorhat 944858,Kozhikode,GJ,945354,1998-06-21,INACTIVE
+5511,maya,DAR,Maya.Dar@company.com,2027-02-02,Software Engineer,IT,1223687,5190,"98, Jayaraman Marg, Gorakhpur-613394",Guntakal,UP,570394,1984-06-12,INACTIVE
+5512,TEERTH,VAIDYA,Teerth@company,2016-06-05,Data Analyst,Platform,1555088,,"537, Narang Marg Katni 778943",Tadepalligudem,AP,009004,1986-02-11,active
+5513,AADI,mitter,Aadi.Mitter@COMPANY.COM,2023-08-06,Senior Software Engineer,HR,"₹1,656,295",,"H.No. 533, Pradhan Marg Parbhani-040142",Sirsa,KA,107201,1990-12-25,Active
+5514,GABRIEL,keer,Gabriel@company,2023-10-08,Machine Learning Engineer,Platform,"₹2,646,991",5143,"H.No. 971 Kale Street, Sikar 007676",Ahmedabad,DL,144734,2004-06-24,Active
+5515,arjun,MAGAR,Arjun.Magar@company.com,2019-03-23,Data Engineer,IT,"₹1,946,693",5142,"09/687, Batta Ganj, Bharatpur-957782",Serampore,RJ,556296,1981-01-02,INACTIVE
+5516,kashish,SIBAL,Kashish.Sibal@COMPANY.COM,2021-12-07,Data Analyst,Finance,"₹1,911,090",5175,86/561 Kulkarni Thoothukudi-778205,Khora ,MH,829236,1984-12-04,Active
+5517,FINN,SAINI,Finn.Saini@COMPANY.COM,2017-12-05,Technical Lead,Analytics,1955258,,"04/82, Natt Ganj Bhiwandi 586863",Vellore,GJ,372308,1999-02-22,active
+5518,hritik,tandon,Hritik.Tandon@company.com,2018-06-24,Technical Lead,IT,"₹2,879,504",5012,"43, Char Circle, Nagpur 041321",Nizamabad,MH,165609,1969-12-09,
+5519,CHARITA,OZA,Charita.Oza@COMPANY.COM,2022-08-15,HR Executive,IT,"₹1,244,657",5112,99 Barman Chowk Patna-550476,Bhusawal,TN,706071,1990-07-16,active
+5520,VAISHNAVI,krishnan,Vaishnavi.Krishnan@company.com,2025-04-10,Machine Learning Engineer,HR,2790873,5063,"17/653, Singh North Dumdum 873961",Warangal,AP,871827,1971-04-16,INACTIVE
+1046,ANVI,RAMA,Anvi.Rama@COMPANY.COM,2025-02-19,HR Executive,HR,466550,,"87/274, Baral Street, Ghaziabad 612137",Kulti,MH,626042,1968-05-04,active
+1001,udant,OAK,Udant.Oak@COMPANY.COM,2027-08-24,Technical Lead,IT,"₹821,192",5111,"71/122, Bajwa Street, Mehsana-608581",Bhalswa Jahangir Pur,RJ,468611,2004-09-26,
+5523,gagan,LALL,Gagan.Lall@COMPANY.COM,2027-05-02,Engineering Manager,IT,348967,5015,"32/10 Chadha Street, Thiruvananthapuram-858471",Ballia,MH,180332,1989-05-13,active
+5524,charita,deol,Charita.Deol@COMPANY.COM,2027-12-16,Technical Lead,Analytics,"₹982,553",,H.No. 801 Lata Circle Avadi 537337,Nangloi Jat,AP,126881,1991-08-13,INACTIVE
+5525,madhav,DATTA,Madhav.Datta@COMPANY.COM,2024-09-12,Data Engineer,Platform,2410134,5167,19/23 Pathak Marg Firozabad 060560,Dindigul,KA,793279,1974-12-03,INACTIVE
+1048,yashodhara,RAY,Yashodhara.Ray@COMPANY.COM,2027-01-06,Data Analyst,Finance,1659306,,16 Balasubramanian Amritsar-205464,Mau,GJ,895478,1975-09-24,Active
+5527,VINAYA,RAJU,Vinaya@company,2027-09-26,Technical Lead,Data,2405600,,H.No. 17 Walia Path Chandrapur-449835,Mathura,GJ,543586,2003-02-23,
+5528,arya,lalla,Arya.Lalla@COMPANY.COM,2026-03-12,Engineering Manager,Finance,626724,,"43/588, Jayaraman Path Amaravati-143395",Mehsana,TG,367497,1993-11-13,active
+5529,HARITA,dhingra,Harita@company,2020-05-10,Software Engineer,IT,"₹2,208,056",,"86, Bhavsar Nagar, Rohtak 789489",Davanagere,GJ,067917,1969-12-05,Active
+5530,rajeshri,RAM,Rajeshri.Ram@COMPANY.COM,2021-05-08,Software Engineer,Platform,2215609,5162,"H.No. 500, Mall Zila Motihari-216309",Hyderabad,MH,594463,1973-02-25,INACTIVE
+5531,VIHAAN,KANNAN,Vihaan.Kannan@COMPANY.COM,2026-07-18,Senior Software Engineer,IT,1179740,,"208 Nadig, Tirunelveli 389021",Shivpuri,TN,136337,2003-11-09,Active
+5532,NOAH,GHOSE,Noah.Ghose@company.com,2019-10-10,Data Analyst,Data,407197,,"469, Raju Kakinada 116772",Srikakulam,MH,084376,1984-01-17,INACTIVE
+5533,hema,nagy,Hema@company,2016-05-17,Data Analyst,Analytics,"₹586,145",5106,"35/21 Purohit, Sambhal-355643",Ahmednagar,KA,970931,1998-12-26,active
+5534,sneha,bains,Sneha.Bains@COMPANY.COM,2022-08-22,Senior Software Engineer,IT,989930,5200,"07 Sehgal Marg, Hubli–Dharwad 453454",Sangli-Miraj & Kupwad,MH,398983,2003-12-05,
+5535,BALHAAR,raj,Balhaar.Raj@company.com,2022-03-24,Technical Lead,Analytics,"₹2,108,371",5121,"21/980, Buch Road Bidhannagar-426423",Bijapur,KA,813190,1968-04-16,
+5536,PATRICK,mani,Patrick@company,2025-05-06,Engineering Manager,IT,"₹1,085,621",,"039, Bhavsar Zila, Agartala-817852",Deoghar,GJ,305248,1997-01-10,active
+5537,ANSH,tella,Ansh.Tella@COMPANY.COM,2024-08-09,Data Engineer,Finance,1224494,,"072, Khurana Street, Chapra-737213",Medininagar,GJ,162047,1968-11-23,INACTIVE
+5538,VRISHTI,rana,Vrishti.Rana@COMPANY.COM,2025-05-21,Software Engineer,Data,1544327,5094,"85/996 Viswanathan Road, Rourkela-203195",Bhiwandi,UP,664505,2001-11-15,active
+5539,vidhi,ISSAC,Vidhi@company,2016-04-18,Technical Lead,IT,"₹996,210",,"92, Randhawa Road, Ajmer-374767",Serampore,TG,726032,1979-09-12,
+5540,HARRISON,MERCHANT,Harrison@company,2022-05-22,Data Engineer,HR,964163,5170,"61 Menon, Anand 071553",Guna,GJ,012840,1968-08-22,active
+5541,aryan,upadhyay,Aryan.Upadhyay@COMPANY.COM,2019-09-29,HR Executive,Platform,622337,,"65, Sharma, Khammam 508917",Bhiwani,AP,898126,2000-06-26,INACTIVE
+5542,GANGA,SARRAF,Ganga.Sarraf@COMPANY.COM,2026-10-31,Machine Learning Engineer,Platform,555442,,"196, Ramesh Road Kalyan-Dombivli-402369",Erode,GJ,689430,1983-03-15,active
+5543,dominic,gade,Dominic.Gade@company.com,2016-08-29,Data Engineer,Data,"₹2,333,879",,"727, Buch Zila, Tiruvottiyur-749885",Hajipur,GJ,984933,1983-02-04,INACTIVE
+1052,anthony,SARAF,Anthony.Saraf@company.com,2024-03-31,Senior Software Engineer,IT,2263002,,"60 Mital, Aligarh 833372",Hosur,DL,666954,1983-07-20,
+5545,finn,kibe,Finn.Kibe@COMPANY.COM,2018-10-15,Software Engineer,Finance,2766695,,H.No. 666 Sachdeva Street Ludhiana 514377,Giridih,UP,663439,1997-10-08,INACTIVE
+5546,nitesh,NAYAR,Nitesh.Nayar@COMPANY.COM,2018-09-25,Technical Lead,Platform,2525296,,"H.No. 110, Zachariah Street, Kumbakonam-200720",Jalna,UP,591024,1987-04-16,INACTIVE
+1044,ganga,CHAUDHRY,Ganga.Chaudhry@company.com,2016-09-07,Technical Lead,Data,964875,,"03/26, Chokshi Chowk Guntakal 981942",Surendranagar Dudhrej,AP,281793,2004-09-09,active
+5548,bhanumati,BALAY,Bhanumati.Balay@company.com,2022-09-19,Data Engineer,Finance,"₹1,637,991",,58 Memon Road Gurgaon-453372,Vadodara,TG,091217,1988-01-27,Active
+5549,jonathan,dixit,Jonathan@company,2017-04-10,Technical Lead,HR,1410142,5111,"37/66 Mittal Zila, Bhalswa Jahangir Pur 526351",Patna,RJ,627765,1984-03-31,Active
+5550,SHIVANI,deol,Shivani.Deol@company.com,2021-08-02,HR Executive,HR,2380866,5029,"H.No. 246, Sur Zila, Siliguri 238974",Bokaro,KA,005595,1993-10-07,Active
+5551,geetika,AGATE,Geetika.Agate@company.com,2017-10-20,Software Engineer,Analytics,1552767,,"584, Raman Circle Raebareli-798487",Anantapuram,KA,069176,1997-11-18,
+5552,ubika,KASHYAP,Ubika.Kashyap@COMPANY.COM,2021-05-21,Data Engineer,Analytics,776721,,"H.No. 03 Kumar, Bilaspur-830373",Delhi,MH,014886,1980-03-12,INACTIVE
+5553,AMOL,thaker,Amol.Thaker@COMPANY.COM,2026-11-29,Technical Lead,Analytics,464944,5082,38/84 Keer Zila Kishanganj 283061,Sambalpur,MH,012424,1985-11-11,Active
+5554,aarini,sagar,Aarini.Sagar@company.com,2018-10-11,Senior Software Engineer,Analytics,519899,,"H.No. 14, Biswas Road Bhatpara-031421",Naihati,TN,887817,1994-01-17,active
+5555,arunima,chacko,Arunima.Chacko@company.com,2022-01-31,Data Analyst,Platform,2366666,5054,"38, Badami Road, Rajkot 252883",Etawah,RJ,566186,1971-04-16,Active
+5556,SIMON,ganesh,Simon.Ganesh@company.com,2019-04-05,Senior Software Engineer,Analytics,"₹1,476,050",5096,"78/765, Issac Path Vadodara 309505",Vijayanagaram,DL,571219,1997-12-03,
+1024,JACKSON,deshpande,Jackson.Deshpande@COMPANY.COM,2024-01-29,Software Engineer,Finance,"₹1,928,849",5192,"05/34, Sandal Circle, Agra 042462",Mau,AP,185174,1998-09-01,Active
+5558,charita,RAY,Charita.Ray@company.com,2016-05-30,Senior Software Engineer,Platform,635267,,"128 Chaudhry, Raipur 455129",Ballia,KA,304488,1966-10-21,INACTIVE
+5559,fariq,MISHRA,Fariq@company,2025-06-03,Machine Learning Engineer,Finance,"₹2,718,018",5176,H.No. 461 Luthra Path Durgapur 190170,Karimnagar,WB,814298,1985-04-10,INACTIVE
+5560,YUG,bumb,Yug.Bumb@company.com,2021-09-15,Data Engineer,Platform,"₹2,090,509",,"07/322, Khare Circle Kolkata-937830",Rajpur Sonarpur,DL,384526,1976-06-26,INACTIVE
+5561,NISHA,mani,Nisha.Mani@company.com,2020-08-09,Data Analyst,Finance,2959197,5046,H.No. 97 Contractor Nagar Gudivada 429291,Mira-Bhayandar,TN,330162,1981-12-21,INACTIVE
+1007,TEJAS,malhotra,Tejas.Malhotra@COMPANY.COM,2017-12-09,Software Engineer,Analytics,"₹2,209,516",,"10/615, Sekhon Ganj Siliguri 556684",Panihati,KA,365337,2004-02-16,active
+5563,VRINDA,mahal,Vrinda.Mahal@COMPANY.COM,2023-06-20,Technical Lead,Platform,550297,5109,"72, Bhasin Nagar, Loni 361424",Belgaum,TN,078197,1968-05-10,Active
+5564,ijaya,MITTER,Ijaya@company,2026-12-26,Machine Learning Engineer,HR,2243321,5146,"47/642, Kannan Chowk, Guntur-376388",Bhubaneswar,DL,584148,1980-04-16,Active
+5565,dayita,raval,Dayita.Raval@COMPANY.COM,2016-05-15,Machine Learning Engineer,Data,1111399,,"H.No. 43, Wagle Circle Mehsana 205869",Mumbai,GJ,321464,1969-04-24,Active
+5566,anita,iyengar,Anita.Iyengar@COMPANY.COM,2026-09-21,Data Engineer,Analytics,2180432,5012,"79, Konda Ganj, Ranchi 573857",Chinsurah,GJ,119236,1992-05-18,INACTIVE
+1009,caleb,jayaraman,Caleb.Jayaraman@COMPANY.COM,2023-12-21,Software Engineer,Analytics,701882,5037,"87/233, Prabhakar Ganj Vadodara 096149",Bhagalpur,DL,539114,1993-02-01,Active
+5568,WRIDESH,BASU,Wridesh.Basu@COMPANY.COM,2024-02-14,Engineering Manager,Finance,1976229,,"36, Chaudhry Path Ambala-940655",Miryalaguda,UP,019043,1983-11-18,
+1002,orinder,dugar,Orinder.Dugar@company.com,2020-01-04,Data Engineer,Data,2787970,5100,"324, Bhat Chowk Kamarhati-013546",Rajkot,TN,760250,1968-02-07,INACTIVE
+5570,parth,salvi,Parth.Salvi@company.com,2017-11-14,Machine Learning Engineer,Platform,"₹2,673,819",5053,"H.No. 261, Karnik Marg Shimoga-729893",Khandwa,AP,974549,1970-10-19,INACTIVE
+5571,TANISH,bahri,Tanish.Bahri@company.com,2019-05-13,Technical Lead,HR,2132252,,"71/91 Bhagat Street, Deoghar 876920",Siwan,RJ,230898,1992-08-22,Active
+1071,ETHAN,KHURANA,Ethan.Khurana@COMPANY.COM,2025-03-12,HR Executive,HR,"₹840,363",,81/44 Deshpande Path Varanasi 732318,Mango,DL,681572,2002-08-10,
+5573,anya,nazareth,Anya.Nazareth@COMPANY.COM,2016-07-14,Data Engineer,Analytics,"₹2,055,681",,"00/152, Bumb Jhansi 178509",Jalgaon,KA,561844,1967-04-12,Active
+5574,advika,DUTTA,Advika.Dutta@COMPANY.COM,2017-06-21,Data Engineer,Platform,"₹1,991,598",,H.No. 78 Dora Zila Tumkur-567086,Indore,UP,900436,2002-03-02,active
+5575,hemani,OM,Hemani.Om@COMPANY.COM,2017-07-14,Data Analyst,HR,"₹2,567,363",5000,"69, Keer Zila, Jalgaon 835505",Tirunelveli,TN,080706,1989-08-16,active
+5576,SARTHAK,KHOSLA,Sarthak.Khosla@COMPANY.COM,2023-01-01,Data Analyst,Finance,"₹2,377,985",5029,"H.No. 982 Bhattacharyya Street, Agartala-164818",Bhilwara,TG,287738,2003-01-06,
+5577,rishi,radhakrishnan,Rishi.Radhakrishnan@company.com,2019-03-21,Engineering Manager,HR,1325196,,H.No. 32 Dhaliwal Zila Tadipatri 289464,Jaipur,RJ,625863,2000-12-23,active
+5578,HEMANG,MUKHERJEE,Hemang.Mukherjee@company.com,2020-04-22,Technical Lead,IT,"₹1,228,436",,"46, Pant Street, Ramagundam-263558",Durg,TG,017646,1970-08-14,INACTIVE
+5579,ati,MANNAN,Ati.Mannan@COMPANY.COM,2024-10-01,Software Engineer,Data,2117102,5063,"15/388, Gokhale Circle Bathinda 790504",Jalna,DL,333538,2004-03-15,INACTIVE
+5580,aarini,MURTY,Aarini@company,2018-02-07,Software Engineer,Finance,1783876,5168,"H.No. 119, Vora Chowk Amravati-933913",Thrissur,MH,653060,1991-11-20,Active
+5581,faraj,CHACKO,Faraj.Chacko@COMPANY.COM,2026-06-08,Senior Software Engineer,Data,"₹2,044,576",5034,"17 Ray Circle, Hyderabad-300915",Gorakhpur,RJ,980365,1999-05-21,active
+5582,URMI,tank,Urmi.Tank@COMPANY.COM,2020-07-06,Senior Software Engineer,Analytics,2894650,,H.No. 936 Pal Path Howrah 491189,Moradabad,KA,336875,1984-04-30,INACTIVE
+5583,avi,dewan,Avi.Dewan@company.com,2022-12-14,HR Executive,HR,771832,5162,"998, Borah Street Bidhannagar-556114",Durg,WB,886050,1978-04-11,active
+5584,geetika,KHANNA,Geetika.Khanna@company.com,2024-05-26,Senior Software Engineer,Data,"₹663,881",,"08/112 Badami Marg, Nellore-835669",Indore,TG,271531,1991-12-10,Active
+5585,PARTH,kamdar,Parth.Kamdar@company.com,2020-05-06,Technical Lead,Platform,"₹2,412,675",5096,"88, Sarin Street, Shivpuri 682938",Ramagundam,MH,134808,1988-03-14,INACTIVE
+5586,SARA,hari,Sara@company,2021-11-07,Data Analyst,IT,1433925,,88/260 Kaur Ganj Srikakulam-015709,Guna,TN,991449,1985-05-02,INACTIVE
+5587,qabil,BABU,Qabil.Babu@COMPANY.COM,2023-09-25,Data Analyst,HR,1981202,5121,99/69 Prashad Suryapet-184285,Jehanabad,GJ,259140,1982-05-25,INACTIVE
+5588,XITI,MUKHERJEE,Xiti.Mukherjee@COMPANY.COM,2025-09-17,Senior Software Engineer,HR,"₹1,715,966",5013,"H.No. 234, Sani Street Phusro-690872",Kochi,DL,607234,1978-04-05,active
+5589,vedant,venkatesh,Vedant.Venkatesh@COMPANY.COM,2026-05-07,Software Engineer,Data,961591,5112,"38/280 Aggarwal Road, Vellore 299650",Machilipatnam,WB,826418,1980-01-10,Active
+5590,LAVANYA,radhakrishnan,Lavanya.Radhakrishnan@company.com,2021-11-20,Machine Learning Engineer,IT,"₹1,534,367",5115,"H.No. 876, Dhingra Zila Dehri 951434",Hosur,RJ,394840,1992-09-19,
+5591,AYUSHMAN,GALA,Ayushman.Gala@company.com,2024-02-29,Machine Learning Engineer,HR,569665,,"86/966, Bhakta Zila Munger 113950",Amritsar,WB,809414,1980-04-01,INACTIVE
+5592,ELIJAH,nagy,Elijah.Nagy@company.com,2016-12-12,Data Engineer,Data,2265703,5175,"83/976, Bedi Street, Muzaffarnagar-407779",Katni,UP,072662,1995-11-11,
+5593,LAKSH,PADMANABHAN,Laksh@company,2016-05-09,HR Executive,Platform,2106383,5132,76/029 Bhavsar Lucknow 884133,Malda,WB,125523,2002-10-29,
+5594,HEMANI,RATTAN,Hemani.Rattan@company.com,2017-11-15,HR Executive,HR,"₹2,104,820",,H.No. 321 Gade Zila Nadiad 363852,Shimla,GJ,613371,1996-10-26,active
+5595,CHAMAN,mohanty,Chaman.Mohanty@company.com,2020-07-11,Data Engineer,IT,1426837,5005,H.No. 264 Bassi Circle Chinsurah-403734,Sikar,KA,812778,1968-05-16,Active
+5596,ONKAR,GROVER,Onkar.Grover@COMPANY.COM,2017-04-21,Data Engineer,Data,2398500,,"98, Chaudry Street Bhilwara-298579",Muzaffarpur,KA,383182,1965-12-24,INACTIVE
+5597,EIRAVATI,rege,Eiravati.Rege@COMPANY.COM,2016-07-09,Data Engineer,Platform,"₹995,928",5136,07/986 Dani Marg Morena-673682,Bharatpur,UP,682122,1988-01-22,Active
+5598,udarsh,PALLA,Udarsh.Palla@COMPANY.COM,2021-08-08,HR Executive,HR,1305386,,50/587 Lanka Zila Jehanabad 182192,Tezpur,AP,790898,1975-11-11,active
+5599,AMRITA,keer,Amrita.Keer@company.com,2023-05-04,Engineering Manager,HR,2853651,,"205, Karpe Nagar, Khora  842495",Guwahati,RJ,578870,2001-11-24,active
+5600,RIDHI,CHAND,Ridhi.Chand@company.com,2022-02-04,Machine Learning Engineer,Analytics,2299192,5153,67 Zacharia Ganj Indore-461917,Phagwara,MH,682996,1977-03-18,INACTIVE
+5601,YASHASVI,TANK,Yashasvi.Tank@COMPANY.COM,2018-08-23,Software Engineer,Finance,1453422,5130,"08, Viswanathan Path, Silchar 350405",Eluru,DL,790012,1973-11-02,INACTIVE
+5602,ati,GODA,Ati.Goda@company.com,2021-11-08,Senior Software Engineer,Finance,2127840,5078,"867 Ramesh, Kolhapur 942328",Katni,MH,389156,1990-07-06,Active
+5603,nitesh,LAD,Nitesh.Lad@COMPANY.COM,2017-05-18,Engineering Manager,IT,1456144,5035,72/562 Garg Giridih-358951,Dibrugarh,WB,865507,1987-05-04,active
+5604,ZILMIL,LALL,Zilmil.Lall@company.com,2022-08-06,Technical Lead,Analytics,874772,,"57/44, Amble Ganj, Farrukhabad 891179",Dehradun,AP,385934,2003-01-17,active
+5605,baljiwan,chadha,Baljiwan.Chadha@company.com,2022-03-22,Data Engineer,Finance,2012368,5044,"H.No. 547 Narain Zila, Panihati-325936",Loni,KA,367500,1979-05-01,Active
+5606,AMAIRA,DOCTOR,Amaira.Doctor@company.com,2027-11-19,Data Engineer,Finance,"₹1,709,524",,"H.No. 527, Wadhwa Marg, Gudivada 809270",Karimnagar,DL,388856,1972-06-13,Active
+5607,NICHOLAS,devan,Nicholas.Devan@COMPANY.COM,2021-08-27,Machine Learning Engineer,Platform,524640,5147,"H.No. 598 Sengupta Marg, Parbhani-227585",Hosur,WB,965594,2002-12-16,
+5608,PRANAV,THAKKAR,Pranav.Thakkar@COMPANY.COM,2018-03-20,Software Engineer,HR,1122629,5015,"65/020, Basak Nagar Aizawl 393132",Anantapur,MH,130557,1985-10-01,active
+5609,bahadurjit,vig,Bahadurjit.Vig@COMPANY.COM,2019-07-01,Software Engineer,IT,1503241,5017,"H.No. 44, Vohra Circle Kharagpur-273677",Haridwar,UP,025825,1993-12-29,INACTIVE
+5610,bhavna,kadakia,Bhavna.Kadakia@COMPANY.COM,2017-03-17,Software Engineer,IT,496409,5143,"81/231, Iyengar Street Chennai-910601",Vijayanagaram,DL,723875,2000-10-22,
+5611,ARJUN,WALIA,Arjun.Walia@company.com,2018-10-31,Engineering Manager,HR,507826,,"72/257, Nagi Chowk, Mirzapur-726290",Ajmer,DL,876831,1997-02-14,
+5612,manya,BERA,Manya@company,2025-05-15,Engineering Manager,HR,"₹526,375",,"72/173, Savant Ganj, Buxar-052229",Bulandshahr,TG,165914,1977-05-21,active
+5613,WARINDER,DHAWAN,Warinder.Dhawan@COMPANY.COM,2020-01-18,HR Executive,Data,"₹1,108,806",5056,"39/835 Morar Circle, Erode 777326",Shahjahanpur,WB,954497,1976-05-11,active
+5614,JACKSON,GOLE,Jackson.Gole@COMPANY.COM,2023-08-17,Software Engineer,IT,1776595,,"927, Edwin Zila, Bathinda-978713",Khammam,UP,988322,2004-08-25,
+5615,ayaan,CHAUDHARI,Ayaan.Chaudhari@company.com,2018-04-26,Engineering Manager,Platform,"₹1,266,526",5155,"32/00, Suresh Road, Kadapa-535852",Deoghar,AP,003044,1989-10-25,INACTIVE
+5616,warinder,rama,Warinder.Rama@company.com,2027-01-02,Senior Software Engineer,Platform,1066007,,"15, Kade Street, Lucknow 929501",Davanagere,AP,483093,1970-08-10,INACTIVE
+5617,abdul,sagar,Abdul.Sagar@COMPANY.COM,2024-01-09,Data Engineer,HR,1501963,5137,H.No. 912 Bava Marg Saharanpur-321767,Meerut,UP,911166,1970-08-26,active
+5618,henry,dayal,Henry@company,2019-02-05,Data Engineer,Analytics,2541294,,"25, Sarma Circle Davanagere 049366",Dhule,UP,274812,1967-11-16,
+5619,baghyawati,goda,Baghyawati.Goda@COMPANY.COM,2017-09-25,Machine Learning Engineer,IT,"₹1,138,422",,"68/25, Narain Nagar, Jalgaon 620935",Nadiad,GJ,039952,1971-02-27,
+1010,WATIKA,badal,Watika@company,2017-09-04,Software Engineer,Data,"₹1,789,344",,"436, Narain Path, Munger-230412",Ajmer,TN,061592,1980-08-07,INACTIVE
+5621,varenya,kashyap,Varenya@company,2025-07-05,Senior Software Engineer,IT,"₹1,284,255",5075,"990, Chada Chowk, Purnia 632248",Tiruvottiyur,UP,420340,1998-09-13,
+5622,zaid,bhargava,Zaid.Bhargava@COMPANY.COM,2018-02-22,Senior Software Engineer,HR,"₹480,248",5073,"97 Sampath Path, Amritsar 795546",Shahjahanpur,TG,712476,1966-03-05,
+5623,AARNAV,choudhry,Aarnav.Choudhry@COMPANY.COM,2016-10-10,Senior Software Engineer,Platform,685999,5015,"10/30, Karpe Marg Hospet 417268",Tinsukia,WB,815712,2002-10-16,Active
+5624,azaan,CHOKSHI,Azaan@company,2021-11-08,Engineering Manager,Data,1812947,5164,"806, Chaudry Chowk, Meerut-351045",Pallavaram,GJ,362130,1969-03-01,Active
+5625,ANAY,SARAN,Anay.Saran@COMPANY.COM,2019-02-12,Technical Lead,Analytics,2122405,,"69 Taneja Road, Kurnool 805339",Sangli-Miraj & Kupwad,TN,466621,1988-10-08,
+1072,ira,bhatt,Ira.Bhatt@COMPANY.COM,2024-12-12,Data Analyst,Finance,1602565,,H.No. 004 Sachdeva Marg Salem-590110,Giridih,GJ,714004,1981-05-24,
+5627,WARINDER,BIR,Warinder.Bir@COMPANY.COM,2025-08-07,Data Analyst,Analytics,1735139,,152 Kumer Nagar Giridih 976987,Amritsar,RJ,797166,1983-05-15,active
+5628,BRINDA,CHAUDRY,Brinda.Chaudry@COMPANY.COM,2023-01-06,Engineering Manager,IT,"₹2,827,749",5164,"740, Srinivasan Chowk Kulti 256238",Ballia,DL,970142,1991-01-08,Active
+5629,raagini,dewan,Raagini.Dewan@company.com,2016-06-21,HR Executive,Finance,"₹2,881,296",5118,"78/21, Roy Zila, Kozhikode-418135",Siliguri,AP,170889,1979-08-12,Active
+5630,BIMALA,TRIVEDI,Bimala.Trivedi@COMPANY.COM,2016-07-17,Technical Lead,IT,615241,5049,"H.No. 82 Dara Street, Raurkela Industrial Township-978570",Ghaziabad,RJ,480675,1969-10-31,
+5631,URVASHI,chander,Urvashi.Chander@company.com,2019-01-31,Software Engineer,IT,2012311,,"H.No. 96, Chad Zila, Sasaram-942968",Madhyamgram,RJ,970409,1977-11-18,Active
+5632,isha,KARNIK,Isha.Karnik@COMPANY.COM,2018-01-11,Software Engineer,Analytics,2019013,,H.No. 560 Kothari Chowk Morbi 883565,Jaunpur,WB,240964,1982-08-17,Active
+5633,krisha,RAJAGOPAL,Krisha.Rajagopal@company.com,2025-04-29,HR Executive,Data,580635,,"H.No. 478 Doshi Road, Raiganj 285162",Raurkela Industrial Township,KA,648820,1981-12-12,INACTIVE
+5634,yadavi,kapadia,Yadavi.Kapadia@company.com,2020-07-19,HR Executive,HR,"₹876,568",5023,"06/24, Srinivasan Marg, Hajipur-991609",Hubli–Dharwad,TG,131935,2001-05-29,INACTIVE
+1003,nihal,jayaraman,Nihal.Jayaraman@company.com,2022-12-15,Software Engineer,Platform,1215513,5135,"60, Grover Path Varanasi-588165",Dehradun,DL,447241,1972-05-16,active
+5636,GUNBIR,SANGHVI,Gunbir.Sanghvi@company.com,2021-06-07,Machine Learning Engineer,IT,2757533,5130,H.No. 09 Ratti Marg Nandyal-182498,Bongaigaon,TN,678214,1967-03-05,active
+5637,fariq,savant,Fariq.Savant@company.com,2020-08-19,HR Executive,Finance,"₹1,617,639",,"H.No. 92, Puri Marg Bongaigaon 989396",Bijapur,UP,941559,1993-03-06,Active
+5638,ADVIKA,MURTHY,Advika.Murthy@COMPANY.COM,2027-04-02,HR Executive,HR,"₹409,095",,"29/20, Patel Chowk Eluru 511716",Ambattur,RJ,365362,1968-05-19,
+5639,harish,varma,Harish.Varma@COMPANY.COM,2025-11-17,Software Engineer,IT,"₹356,854",,"06/70 Bakshi Nagar, Bhavnagar 894204",Gandhinagar,UP,896676,1982-09-17,INACTIVE
+5640,CHANDRESH,NARAIN,Chandresh@company,2023-06-09,Software Engineer,Finance,"₹2,835,083",5023,"H.No. 56, Suri Path Mau-974533",Khandwa,GJ,354662,1982-11-12,active
+5641,qarin,SAHOTA,Qarin@company,2021-09-30,Machine Learning Engineer,Data,568954,,"59, Palan Meerut 622122",Bokaro,UP,677462,1984-09-14,INACTIVE
+5642,DIYA,bhavsar,Diya@company,2022-08-30,Software Engineer,IT,569880,,"411, Thakur Path Deoghar 008017",Ongole,MH,823129,1966-11-30,active
+5643,ISHITA,sawhney,Ishita.Sawhney@company.com,2016-04-03,Technical Lead,Finance,1418452,5127,"64/261, Choudhry Street, Meerut-843753",Sri Ganganagar,AP,807852,1983-08-14,
+5644,jyoti,LANKA,Jyoti@company,2024-10-08,Data Analyst,Finance,1981467,5096,"H.No. 838, Kulkarni Path, Agartala 064454",Sonipat,AP,311232,1976-12-03,INACTIVE
+1072,SARA,mangal,Sara.Mangal@COMPANY.COM,2025-03-01,Machine Learning Engineer,Platform,1675379,5061,63 Memon Ganj Unnao 038862,Fatehpur,AP,080196,1998-06-16,
+5646,yatin,BARMAN,Yatin.Barman@COMPANY.COM,2020-05-12,Data Engineer,IT,1188570,5174,"93, Thakur Path Shimoga-534001",Tenali,AP,784816,1987-05-31,active
+5647,hemani,GERA,Hemani@company,2020-10-07,Engineering Manager,Finance,1552957,,"H.No. 46 Wali Nagar, Deoghar 179937",Kanpur,AP,391287,1982-04-26,active
+5648,yadavi,vala,Yadavi.Vala@COMPANY.COM,2027-04-09,HR Executive,Platform,"₹2,334,027",5197,"88/29 Mohan Nagar, Ongole-714724",Muzaffarpur,WB,198642,1982-05-30,INACTIVE
+1027,AMRITA,deo,Amrita.Deo@COMPANY.COM,2019-06-28,HR Executive,Platform,"₹2,972,471",,833 Chauhan Gorakhpur-062932,Gangtok,TN,221010,2002-11-30,active
+5650,QASIM,KARPE,Qasim@company,2019-01-05,Data Engineer,Finance,"₹1,977,203",5072,"86/766, Bath Zila Danapur 610814",Serampore,UP,140384,1965-03-03,
+1005,eiravati,kohli,Eiravati.Kohli@COMPANY.COM,2026-12-06,Engineering Manager,HR,384694,5166,H.No. 68 Hayer Street Tirupati 951003,Berhampore,MH,205459,1970-10-24,
+5652,ladli,SARMA,Ladli.Sarma@company.com,2017-04-17,HR Executive,Finance,"₹1,042,043",5039,"66, Luthra Marg Srinagar 654113",Mumbai,MH,851699,1987-07-31,Active
+5653,AMRUTA,SINGH,Amruta.Singh@company.com,2016-09-26,Senior Software Engineer,HR,1574704,5062,36/68 Menon Ganj Burhanpur 269708,Panvel,UP,888917,2000-08-08,active
+1009,vedhika,bora,Vedhika.Bora@COMPANY.COM,2022-03-21,Data Analyst,HR,1734841,,"571 Sha, Lucknow 201265",Nagaon,TG,604180,1967-02-10,INACTIVE
+5655,JYOTI,DEWAN,Jyoti.Dewan@company.com,2017-04-06,Engineering Manager,HR,743377,5018,"51/77 Mannan Chowk, Durgapur 469211",Parbhani,WB,996264,1996-05-24,INACTIVE
+5656,peter,GABA,Peter.Gaba@company.com,2018-06-03,Senior Software Engineer,Finance,2550849,,"04, Lata Path, Vasai-Virar 457056",Delhi,WB,257090,1997-07-10,
+1057,CHANDRAN,bhatnagar,Chandran.Bhatnagar@COMPANY.COM,2026-10-11,Software Engineer,IT,2508020,5179,40 Garg Chowk Bhavnagar-728289,Parbhani,MH,017882,1992-03-13,
+5658,naveen,LALA,Naveen@company,2023-09-22,Software Engineer,Finance,2898176,5164,"16, Prakash Circle Ongole 058011",Mumbai,DL,711526,1981-05-20,
+5659,FARIS,BASSI,Faris.Bassi@COMPANY.COM,2022-03-12,Machine Learning Engineer,Analytics,1658213,,"23/00, Bobal Chowk, Guntakal-007418",Kishanganj,TG,432987,1980-07-02,Active
+5660,odika,KALA,Odika.Kala@company.com,2023-01-13,Senior Software Engineer,Analytics,605798,,H.No. 71 Chakrabarti Marg Bhalswa Jahangir Pur-481310,Thoothukudi,GJ,258963,1988-06-23,active
+5661,qadim,BISWAS,Qadim.Biswas@company.com,2023-12-28,Machine Learning Engineer,Platform,312648,5085,48 Nazareth Ganj Bidar-648606,Jammu,TG,448838,1985-03-22,Active
+5662,chavvi,GOEL,Chavvi.Goel@company.com,2021-06-07,Data Engineer,Analytics,"₹832,849",5186,"28 Narayanan Nagar, Meerut-740657",Nagercoil,TG,562392,1980-07-13,INACTIVE
+5663,ADITYA,bandi,Aditya.Bandi@COMPANY.COM,2025-03-23,Data Engineer,Analytics,2928190,5080,"H.No. 740, Chaudry, Salem 178619",Ajmer,RJ,476022,1987-09-16,active
+5664,arjun,ravi,Arjun.Ravi@company.com,2026-08-03,Machine Learning Engineer,IT,"₹332,218",5121,H.No. 12 Butala Nagar South Dumdum-595002,Dhanbad,MH,515325,1990-04-08,active
+5665,AASHI,sarraf,Aashi.Sarraf@COMPANY.COM,2026-10-21,Data Engineer,HR,"₹865,632",,H.No. 07 Savant Zila Bikaner 980595,Ahmednagar,RJ,006493,1988-02-24,INACTIVE
+5666,daksha,arora,Daksha@company,2019-06-26,Data Analyst,Analytics,2394082,,"H.No. 52, Kala Nagar Ranchi 118491",Naihati,RJ,855359,2004-06-04,INACTIVE
+5667,harini,DIN,Harini.Din@company.com,2016-10-19,Machine Learning Engineer,HR,916794,5179,"H.No. 067, Arya, Sikar-801867",Firozabad,UP,378423,1989-08-13,INACTIVE
+5668,rishi,mani,Rishi.Mani@company.com,2021-03-30,Technical Lead,Finance,2639217,,"H.No. 067, Purohit Chowk, Thanjavur 032501",Rajpur Sonarpur,RJ,542624,2004-07-26,Active
+1033,hitesh,sharaf,Hitesh.Sharaf@company.com,2025-03-01,Data Engineer,Platform,689956,5161,"29/233, Narayanan Road Coimbatore-090605",Kolkata,UP,843021,1982-05-13,INACTIVE
+1051,gaurang,rajagopalan,Gaurang.Rajagopalan@company.com,2022-09-14,HR Executive,Finance,2421514,,"04/57, Seshadri Path Buxar-129964",Tenali,UP,336202,1995-03-31,Active
+5671,TANVI,PINGLE,Tanvi.Pingle@COMPANY.COM,2022-01-15,Engineering Manager,Data,509353,,"H.No. 77, Date Nagar Raiganj-152380",Maheshtala,DL,219215,2000-06-16,
+5672,JEET,vig,Jeet.Vig@company.com,2025-10-08,Technical Lead,Data,2176288,5100,16/11 Sarkar Circle Jorhat 588195,Nandyal,WB,168800,1998-04-17,
+5673,HARINAKSHI,khalsa,Harinakshi.Khalsa@COMPANY.COM,2024-03-02,Machine Learning Engineer,IT,1747503,5102,"69/28, Srinivasan Danapur-540182",Morena,TG,002839,2001-06-06,INACTIVE
+5674,chaitaly,YADAV,Chaitaly.Yadav@COMPANY.COM,2018-03-12,Engineering Manager,Analytics,"₹2,848,386",,"H.No. 414, Sur Road Rajpur Sonarpur-811659",Hyderabad,WB,020304,1980-08-01,
+5675,manthan,kanda,Manthan.Kanda@company.com,2018-04-04,Technical Lead,Data,1786631,5124,"H.No. 21 Pradhan Ganj, Kalyan-Dombivli-816506",Tenali,KA,005937,1973-11-29,INACTIVE
+5676,tanmayi,sharaf,Tanmayi.Sharaf@COMPANY.COM,2022-01-29,Data Engineer,IT,"₹1,007,669",,"102, Chakraborty Srinagar 469029",Jamshedpur,DL,438419,1992-02-07,active
+5677,lila,ramanathan,Lila.Ramanathan@company.com,2018-10-13,Machine Learning Engineer,Analytics,"₹661,622",,"H.No. 670, Bhalla Circle Machilipatnam 667063",Jamnagar,MH,986550,1975-04-17,
+5678,chavvi,MANGAT,Chavvi.Mangat@company.com,2020-05-10,HR Executive,IT,1763263,5163,63 Gulati Road Tezpur 504962,Jhansi,RJ,262611,1985-06-23,Active
+5679,CHAKRIKA,DIN,Chakrika.Din@COMPANY.COM,2020-05-17,Data Engineer,Analytics,"₹2,146,477",5010,"58/542, Varma Zila, Deoghar-991962",Bijapur,AP,996433,1979-10-03,INACTIVE
+5680,HAMSINI,KHATRI,Hamsini.Khatri@COMPANY.COM,2018-04-21,Engineering Manager,IT,2742429,5092,"H.No. 05, Keer Circle, Sambalpur-303115",Machilipatnam,MH,545769,1984-03-13,active
+5681,amruta,tata,Amruta.Tata@COMPANY.COM,2021-08-26,HR Executive,Finance,2420927,,"53/536 Sodhi Path, Singrauli-986163",Cuttack,DL,254508,1995-11-21,
+1037,ABHIRAM,NATARAJAN,Abhiram@company,2026-07-18,Software Engineer,Platform,1727780,5189,692 Prabhu Path Sikar 721307,Bhavnagar,RJ,591426,1985-11-15,INACTIVE
+5683,JASON,MANGAL,Jason.Mangal@company.com,2016-12-02,Engineering Manager,Platform,"₹960,807",5131,"614, More Path Pimpri-Chinchwad-963731",Ludhiana,TG,785221,1983-01-16,INACTIVE
+5684,fariq,pillay,Fariq.Pillay@company.com,2025-05-13,HR Executive,Analytics,2247833,,H.No. 23 Mammen Path Bhiwani 447017,Ujjain,DL,865237,1995-06-03,INACTIVE
+5685,turvi,sethi,Turvi.Sethi@company.com,2018-04-09,Data Engineer,Finance,2069387,,"56/337 Choudhury Nagar, Ghaziabad-527810",Anantapur,AP,002722,2004-04-23,active
+5686,dominic,more,Dominic.More@COMPANY.COM,2019-03-12,Data Analyst,Finance,793984,,"H.No. 609, Karan Road, Bellary-817203",Davanagere,DL,955286,1986-10-15,active
+5687,PATRICK,bala,Patrick.Bala@COMPANY.COM,2026-04-01,Technical Lead,Analytics,2604037,5043,"H.No. 25, Pandey, Noida-227393",Mumbai,RJ,573532,1977-09-19,Active
+5688,utkarsh,SAMPATH,Utkarsh.Sampath@company.com,2023-04-15,Senior Software Engineer,Analytics,2761702,5143,"61, Sharaf Nagar, Sasaram 697182",Eluru,DL,107126,1970-12-15,INACTIVE
+5689,harish,pandya,Harish.Pandya@COMPANY.COM,2026-12-29,Machine Learning Engineer,HR,"₹1,035,369",,"17/648, Rau Road Kollam-742233",Ajmer,KA,801944,2002-09-13,active
+5690,mitesh,pal,Mitesh@company,2025-07-22,Senior Software Engineer,Platform,1455865,5180,"560, Goswami Marg Rajpur Sonarpur-063731",Katihar,WB,467413,2003-07-19,
+5691,abeer,SUNDER,Abeer@company,2027-05-29,Machine Learning Engineer,Platform,2974431,,H.No. 852 Bora Nagar Kharagpur-608463,Ambarnath,GJ,154705,1986-06-24,active
+5692,eiravati,KRISHNAMURTHY,Eiravati.Krishnamurthy@COMPANY.COM,2025-09-12,Machine Learning Engineer,Finance,932374,,"H.No. 16, Bora Road Buxar-564091",Guntakal,TN,957875,1969-12-22,active
+5693,qasim,bhasin,Qasim.Bhasin@company.com,2024-02-21,Data Engineer,Finance,"₹647,749",,"H.No. 26, Aurora Street Mehsana-212413",Chinsurah,KA,789760,1965-01-23,active
+5694,URVI,KALE,Urvi.Kale@COMPANY.COM,2017-04-15,Technical Lead,Finance,"₹1,747,079",,"31 Goyal, Bahraich-075988",Tinsukia,UP,533943,1976-04-02,active
+5695,JACK,CHAND,Jack.Chand@COMPANY.COM,2026-09-28,Engineering Manager,IT,1321291,,"089 Gopal Path, Amravati 021915",Karnal,GJ,644974,1991-01-14,INACTIVE
+5696,VARSHA,AMBLE,Varsha.Amble@company.com,2016-11-15,HR Executive,Finance,"₹2,520,373",5001,76/44 Saran Circle Rewa-979741,Panihati,GJ,560450,1965-02-08,INACTIVE
+5697,arin,ray,Arin@company,2020-03-06,Data Analyst,Finance,"₹1,423,557",,"30, Raju, Buxar 927711",Durgapur,DL,353059,1989-01-17,active
+5698,unnati,anand,Unnati@company,2019-01-27,Engineering Manager,HR,915881,5011,"827, Jhaveri Marg, Dewas 159489",Pudukkottai,AP,546634,1990-01-25,active
+1031,ganga,LALA,Ganga.Lala@company.com,2020-12-29,HR Executive,Analytics,"₹1,867,925",,"H.No. 491 Konda Marg, Rampur 974394",Bilaspur,AP,882230,1980-02-04,active
+5700,FALGUNI,TELLA,Falguni.Tella@COMPANY.COM,2023-03-04,Machine Learning Engineer,Analytics,2596995,5011,"88/94, Krish Zila, Vasai-Virar-972021",Varanasi,TN,548534,1973-10-04,active
+5701,NITARA,PRABHAKAR,Nitara.Prabhakar@company.com,2021-10-02,Technical Lead,IT,1778368,,"H.No. 300, Mall Road Avadi-129390",Ajmer,KA,121375,1997-03-09,Active
+5702,MAYA,parekh,Maya.Parekh@company.com,2025-01-07,Senior Software Engineer,HR,1820529,5020,57/08 Brar Marg Coimbatore-584345,Munger,TG,113885,1991-09-04,
+5703,chanakya,JAYARAMAN,Chanakya.Jayaraman@company.com,2021-01-26,Data Analyst,Analytics,"₹994,715",5170,203 Mukherjee Ganj Jalna-463104,Hospet,MH,868008,1977-07-08,active
+5704,DIPTA,dhaliwal,Dipta.Dhaliwal@company.com,2025-09-15,Technical Lead,Finance,"₹1,380,774",,"177, Bhatt Road, Firozabad-043502",Jorhat,WB,022894,1984-02-13,Active
+5705,PAHAL,raman,Pahal.Raman@company.com,2021-10-12,Software Engineer,Finance,1421145,,"23/328 Kaur Street, Bhavnagar-256913",Hyderabad,RJ,033467,1977-05-10,
+5706,RIDHI,bir,Ridhi.Bir@COMPANY.COM,2027-10-20,HR Executive,HR,"₹1,648,875",,"H.No. 07 Dhar Marg, Phagwara-530245",Pimpri-Chinchwad,MH,239847,1973-05-21,Active
+5707,onkar,KEER,Onkar.Keer@company.com,2016-07-08,Data Analyst,Finance,"₹788,352",,"H.No. 284, Bir Chowk, Mysore 222405",Bahraich,MH,487177,1979-10-12,Active
+5708,ekani,LAD,Ekani.Lad@COMPANY.COM,2023-01-25,Software Engineer,Data,2066738,5088,H.No. 658 Yadav Ganj Jamnagar-258122,Khora ,GJ,956684,1972-03-25,active
+5709,AACHAL,TRIPATHI,Aachal.Tripathi@COMPANY.COM,2018-07-14,Technical Lead,Platform,373054,5088,"37/912, De Zila, Chandigarh-187803",Begusarai,WB,901707,1981-11-11,
+5710,bishakha,BANIK,Bishakha.Banik@company.com,2026-09-24,Data Engineer,Data,"₹2,118,222",,H.No. 999 Pant Road Khora -171222,Munger,AP,338722,1980-05-16,Active
+5711,ANSH,PATEL,Ansh.Patel@company.com,2020-12-11,HR Executive,Data,1262966,5084,"26, Lad Path Nellore-083344",Mango,TN,488789,1975-03-18,Active
+5712,GANGA,ARORA,Ganga.Arora@COMPANY.COM,2020-08-19,Senior Software Engineer,IT,1054589,5144,"H.No. 596, Palla Circle Pudukkottai 377492",Purnia,DL,295634,1996-08-23,
+5713,QASIM,sethi,Qasim.Sethi@COMPANY.COM,2024-06-30,Machine Learning Engineer,Data,368342,5039,"592, Sahota Nagar, Silchar 812920",Chapra,TG,294115,1997-04-17,INACTIVE
+5714,NIRJA,kamdar,Nirja.Kamdar@COMPANY.COM,2016-09-27,Engineering Manager,HR,"₹2,617,525",,"96/363 Dube Chowk, Malegaon 206615",Kottayam,UP,851331,1975-05-06,Active
+5715,udant,YOHANNAN,Udant.Yohannan@COMPANY.COM,2016-09-17,Machine Learning Engineer,Data,1086532,,"21/122, Ghose Zila, Serampore 815826",Jorhat,AP,640191,1967-12-29,
+5716,eta,LALA,Eta.Lala@COMPANY.COM,2025-06-27,Software Engineer,Finance,"₹1,009,674",5130,H.No. 42 Basak Nagar Belgaum 787358,Munger,AP,464196,2001-08-02,
+5717,kai,KALLA,Kai.Kalla@company.com,2021-01-23,Data Engineer,Analytics,2494964,,"62/213, Badal Street Rajkot 429483",Ichalkaranji,AP,891179,1977-04-18,
+1076,sanya,dube,Sanya.Dube@company.com,2022-12-08,Software Engineer,Data,"₹635,243",5062,"31/80, Kanda Nagar Bhusawal 020005",Nanded,AP,386310,1983-12-03,
+5719,ekanta,BATRA,Ekanta.Batra@company.com,2021-07-31,Senior Software Engineer,Analytics,1842735,5060,"38/05, Edwin Circle, Tadepalligudem 990076",Ujjain,RJ,633283,1977-03-28,active
+5720,YACHANA,RAJAN,Yachana.Rajan@company.com,2027-06-23,HR Executive,HR,2810991,5193,18 Comar Path Belgaum-713684,Mumbai,MH,328233,1978-11-24,INACTIVE
+5721,michael,CHAUDHARY,Michael.Chaudhary@company.com,2027-06-23,Engineering Manager,Finance,"₹2,646,051",5013,791 Sood Circle Jaipur-776106,Amaravati,GJ,088143,2001-10-23,Active
+5722,falan,datta,Falan.Datta@COMPANY.COM,2023-12-21,Data Analyst,Finance,1447031,,"81, Saini Path, Hosur-572026",Arrah,RJ,862959,1995-04-13,active
+5723,GIRINDRA,devi,Girindra.Devi@company.com,2021-07-13,Senior Software Engineer,IT,1646947,5010,89/92 Nanda Path Madanapalle-607429,Raiganj,KA,729669,1995-07-12,active
+5724,daksha,BHATNAGAR,Daksha.Bhatnagar@company.com,2023-06-22,Technical Lead,Finance,2666016,,"H.No. 808 Shankar, Mehsana-859946",Aurangabad,KA,984167,2004-02-04,Active
+5725,xavier,MANI,Xavier.Mani@company.com,2023-10-27,Senior Software Engineer,Finance,"₹1,745,648",5067,"98, Chhabra Circle, Jalna 445092",Hyderabad,KA,210262,2000-05-05,INACTIVE
+5726,tara,baral,Tara.Baral@COMPANY.COM,2022-10-10,Senior Software Engineer,IT,2589491,5027,"H.No. 824, Krishnan Circle, Saharsa 308898",Kalyan-Dombivli,WB,748839,1992-04-05,INACTIVE
+5727,urvi,LALA,Urvi.Lala@company.com,2017-10-29,Data Engineer,Platform,"₹2,182,529",,"027 Arya Path, Mumbai 056619",Kurnool,UP,564184,2002-09-06,
+5728,rehaan,SARMA,Rehaan.Sarma@COMPANY.COM,2025-03-26,Data Analyst,Platform,"₹960,210",5090,"08/70 Wali Zila, Nanded-001365",Nashik,TN,444429,1985-01-17,
+5729,caleb,RAMASWAMY,Caleb.Ramaswamy@COMPANY.COM,2024-04-04,Senior Software Engineer,Finance,1503508,5068,"65/24 Purohit Nagar, Cuttack 559967",Satna,MH,222190,1983-09-09,Active
+5730,GARIMA,keer,Garima@company,2019-09-09,Data Analyst,HR,2856457,,"H.No. 74, Ramachandran Chowk, Hosur-559396",Tirunelveli,DL,383507,1985-02-03,Active
+5731,finn,DEVAN,Finn.Devan@company.com,2020-11-30,Technical Lead,Finance,2864686,5127,"H.No. 290, Krish Nagar, Warangal 117327",Sangli-Miraj & Kupwad,UP,488395,1987-09-09,
+5732,EKANI,NAGI,Ekani.Nagi@company.com,2025-06-14,Machine Learning Engineer,HR,"₹2,526,611",5013,"42/52, Chaudhuri Path Bhiwandi-759171",Naihati,UP,805491,1987-02-15,
+5733,AARNA,SEM,Aarna@company,2023-10-01,Data Engineer,HR,"₹1,997,563",5104,"535 Mishra Street, Dehri 171594",Kollam,UP,493053,1985-12-07,
+5734,vrinda,UPPAL,Vrinda.Uppal@company.com,2025-02-11,Machine Learning Engineer,IT,"₹451,168",,"H.No. 836, Biswas Zila Mathura-608788",Proddatur,DL,527873,1967-02-01,INACTIVE
+5735,ADITYA,MANGAL,Aditya.Mangal@COMPANY.COM,2025-06-18,Senior Software Engineer,HR,825054,,15/217 Rege Road Rajpur Sonarpur-378018,Raurkela Industrial Township,UP,734467,1994-08-12,active
+5736,gagan,srinivas,Gagan@company,2023-07-22,Senior Software Engineer,Finance,581940,,14/33 Deshpande Marg Gandhinagar-450999,Vadodara,AP,089857,1990-10-23,INACTIVE
+1056,vedant,BADAL,Vedant.Badal@COMPANY.COM,2025-01-23,Data Analyst,HR,2347791,,"H.No. 189, Vig Marg, Tumkur 464884",Ballia,RJ,728575,1980-12-11,INACTIVE
+5738,ijaya,VENKATESH,Ijaya.Venkatesh@COMPANY.COM,2018-03-05,Senior Software Engineer,HR,849336,,"217, Shere Durgapur 883971",Kanpur,RJ,984451,2000-04-18,Active
+5739,AMAIRA,jhaveri,Amaira.Jhaveri@COMPANY.COM,2023-04-06,Engineering Manager,Analytics,2101677,5108,11/23 Kadakia Nagar Raebareli-193978,Panipat,AP,900992,1998-10-20,active
+5740,henry,saxena,Henry.Saxena@COMPANY.COM,2023-12-27,Engineering Manager,Finance,900038,,H.No. 28 Sampath Marg Korba 158807,Imphal,KA,260119,2004-04-18,
+5741,wridesh,buch,Wridesh.Buch@COMPANY.COM,2016-03-14,Data Engineer,IT,"₹2,174,143",,H.No. 25 Dara Path Purnia-908581,Kalyan-Dombivli,AP,502437,1981-12-11,Active
+5742,SAMUEL,RATTAN,Samuel.Rattan@company.com,2017-03-17,Senior Software Engineer,Platform,1296176,5034,"62, Brar Chowk, Karnal-933539",Chennai,MH,856154,1988-05-20,INACTIVE
+5743,SHRAVYA,koshy,Shravya.Koshy@COMPANY.COM,2017-06-27,Engineering Manager,IT,"₹1,786,463",5085,"979 Parikh Street, Bhiwandi-643690",Danapur,RJ,772702,1987-10-11,active
+5744,OVIYA,radhakrishnan,Oviya.Radhakrishnan@company.com,2022-12-30,HR Executive,Finance,"₹2,352,941",,"H.No. 28, Purohit Zila, Bardhaman 610197",Kurnool,TN,846405,1965-05-06,INACTIVE
+5745,jeet,BARAD,Jeet.Barad@COMPANY.COM,2019-03-28,Senior Software Engineer,Platform,"₹2,089,698",5170,"30, Dhar Road Gurgaon 628144",Malda,AP,893953,2003-02-24,Active
+5746,anthony,sabharwal,Anthony.Sabharwal@COMPANY.COM,2025-10-22,Technical Lead,Data,1752037,,"49 Ghose Nagar, Dibrugarh-987455",Patiala,RJ,872717,1968-01-31,Active
+5747,AMAIRA,HEGDE,Amaira.Hegde@COMPANY.COM,2016-05-21,Machine Learning Engineer,HR,"₹2,292,003",,"40, Mody Ganj Gudivada 873877",Anand,GJ,336477,1993-12-07,active
+5748,AKSHAY,KRISHNAMURTHY,Akshay.Krishnamurthy@company.com,2017-08-17,HR Executive,Finance,1869676,5193,"15/38, Bajaj Marg Bongaigaon 625420",Jabalpur,WB,319057,1980-11-07,active
+5749,TRIYA,DESAI,Triya.Desai@company.com,2016-02-24,Machine Learning Engineer,IT,733253,5020,"H.No. 079, Chaudhry Road, Kozhikode 538109",Tadepalligudem,MH,122487,1983-04-20,INACTIVE
+5750,ayaan,soman,Ayaan.Soman@company.com,2018-08-05,Senior Software Engineer,Platform,"₹988,616",5143,"225 Tandon Zila, Asansol 404326",Moradabad,GJ,034686,1991-07-20,active
+5751,hardik,RAJ,Hardik.Raj@company.com,2019-09-07,Software Engineer,HR,"₹1,477,374",,"867, Bhalla Street, Visakhapatnam-953662",Aurangabad,RJ,368900,1968-06-12,
+5752,HARINAKSHI,shroff,Harinakshi.Shroff@COMPANY.COM,2024-02-13,Senior Software Engineer,IT,"₹500,421",5185,"H.No. 732, Arora Path Surendranagar Dudhrej 971307",Nanded,WB,138690,1986-04-29,Active
+5753,YASHODHARA,sodhi,Yashodhara@company,2017-04-23,Data Analyst,IT,"₹1,765,695",,"104, Mammen Path, Gorakhpur-192817",Malda,MH,436023,1991-07-22,active
+1081,CHARVI,MEMON,Charvi.Memon@company.com,2018-04-07,Senior Software Engineer,Analytics,"₹1,367,137",,"H.No. 602, Golla Path, Dharmavaram 120944",Bhalswa Jahangir Pur,AP,690326,1977-07-11,active
+5755,IRA,MUTTI,Ira.Mutti@COMPANY.COM,2017-08-18,Data Analyst,Data,"₹1,603,287",,17 Mital Guntur-559851,Vadodara,GJ,119158,1980-04-24,
+5756,GAVIN,GARDE,Gavin@company,2023-05-04,Data Analyst,IT,1483044,5119,"98/647 Sangha Circle, Cuttack-760088",Bijapur,UP,408378,2001-10-22,
+5757,GAURANG,choudhary,Gaurang.Choudhary@COMPANY.COM,2025-10-02,Technical Lead,Data,1901609,,"92/16 Bassi Road, Sambhal-692353",Panvel,AP,864708,1967-03-29,active
+5758,NAKUL,DALAL,Nakul.Dalal@COMPANY.COM,2019-11-01,Technical Lead,IT,"₹412,030",5094,"H.No. 62 Andra Street, Amritsar-372055",Dhule,DL,000088,2004-02-03,
+5759,KRISHA,KOTHARI,Krisha.Kothari@company.com,2020-12-26,Data Engineer,Platform,1852705,5051,"19/00, Verma Circle, Bhilai-160091",Tezpur,GJ,327379,1992-06-21,
+5760,tripti,BASU,Tripti.Basu@COMPANY.COM,2022-08-18,Engineering Manager,Finance,1656561,,"18/67 Rama Road, Thane 099843",Raebareli,TG,137118,1965-08-19,Active
+5761,FREDERICK,nadkarni,Frederick@company,2017-08-06,Senior Software Engineer,Analytics,2889499,,"H.No. 82 More, Surat 401535",Alwar,TN,607569,2002-10-24,active
+5762,ZASHIL,MANDER,Zashil.Mander@company.com,2025-12-04,Software Engineer,HR,549053,,"20 Bhardwaj Zila, Shimoga-281822",Anand,WB,940262,1983-08-17,INACTIVE
+5763,bahadurjit,wali,Bahadurjit.Wali@COMPANY.COM,2021-12-03,Senior Software Engineer,Platform,"₹2,830,686",,H.No. 52 Karan Chowk Nellore 423570,Durg,MH,291828,1999-02-08,active
+5764,garima,CHHABRA,Garima.Chhabra@COMPANY.COM,2025-05-13,Data Engineer,Platform,2086986,,"25/590, Rao Road, Patna-792304",Alappuzha,MH,012838,1972-12-07,INACTIVE
+5765,LUKE,shanker,Luke.Shanker@COMPANY.COM,2017-07-01,Technical Lead,Analytics,2386688,5054,"296, Panchal Zila Cuttack 485076",Anantapur,GJ,446042,1967-01-16,
+5766,maanas,sarraf,Maanas.Sarraf@company.com,2023-02-25,HR Executive,Finance,2530742,,"H.No. 191 Khalsa Path, Ambarnath 347243",Proddatur,WB,176822,1979-11-30,Active
+5767,EESHA,CHAUDHURI,Eesha.Chaudhuri@COMPANY.COM,2027-08-01,HR Executive,Analytics,2341823,,"70, Ramanathan Circle, Munger-622419",Alappuzha,AP,849477,1973-08-13,Active
+5768,FARIS,DUTTA,Faris.Dutta@COMPANY.COM,2025-11-10,Engineering Manager,Data,969856,5193,H.No. 061 Mitter Circle Barasat-235434,Aizawl,KA,682121,1969-02-11,Active
+5769,gayathri,SANT,Gayathri.Sant@company.com,2020-04-28,Engineering Manager,Data,1943056,5112,H.No. 92 Ratta Nagar Ichalkaranji-119738,Bettiah,MH,730634,1989-04-09,
+1079,umang,NAZARETH,Umang.Nazareth@COMPANY.COM,2027-07-18,Data Engineer,Finance,"₹824,689",,"18/849, Yadav Marg, Machilipatnam 405110",Mysore,RJ,543412,2004-12-14,
+5771,YUG,balan,Yug@company,2018-01-15,Machine Learning Engineer,IT,"₹1,571,186",,86/03 Dhar Chowk Dibrugarh 003203,Hindupur,RJ,899901,1992-05-06,active
+5772,GAURAV,MAJUMDAR,Gaurav.Majumdar@COMPANY.COM,2016-07-29,Technical Lead,Platform,"₹358,731",5091,13 Taneja Zila Giridih-860162,Tadepalligudem,DL,841947,1965-12-04,INACTIVE
+5773,FALGUNI,patla,Falguni.Patla@company.com,2016-03-08,Data Engineer,IT,"₹872,074",,"53, Wagle Path Jamshedpur 728878",Chittoor,TN,790371,1973-03-23,INACTIVE
+5774,OJASVI,CHERIAN,Ojasvi.Cherian@COMPANY.COM,2023-04-14,Data Analyst,IT,654279,5195,239 Rajagopalan Ongole 183753,Sultan Pur Majra,TG,810248,1966-11-24,INACTIVE
+5775,alexander,PERI,Alexander.Peri@COMPANY.COM,2022-01-04,Data Analyst,Finance,1078017,,"443, Kala Street Gaya 169069",Suryapet,UP,746706,1996-09-14,Active
+1096,saanvi,parikh,Saanvi@company,2017-02-24,Data Analyst,IT,489913,,"52/15, D’Alia Nagar Bihar Sharif 610703",Bharatpur,DL,842431,1994-10-04,
+5777,tristan,devan,Tristan.Devan@company.com,2020-12-07,Software Engineer,Data,1035412,5022,"004, Sandal Zila, Kanpur 302151",Fatehpur,DL,864633,2001-11-24,
+5778,FORUM,KAUL,Forum.Kaul@company.com,2021-04-18,Data Analyst,Platform,"₹1,751,941",5188,"H.No. 501, Tara Road Rampur 789615",Shahjahanpur,GJ,512817,2002-06-14,INACTIVE
+1032,waida,narayan,Waida.Narayan@COMPANY.COM,2017-09-12,HR Executive,Data,"₹605,065",,78/15 Lad Path Gandhinagar-972360,Sagar,WB,654677,1974-02-22,INACTIVE
+5780,LOHIT,bansal,Lohit.Bansal@COMPANY.COM,2022-02-12,Software Engineer,Platform,"₹917,927",,"H.No. 730, Sheth Circle, Mirzapur-478370",Navi Mumbai,WB,543802,1969-06-05,active
+5781,riya,minhas,Riya.Minhas@company.com,2017-04-06,Senior Software Engineer,Finance,2686185,,"26/029 Natarajan Street, Singrauli 272884",Sultan Pur Majra,UP,642076,1985-07-23,INACTIVE
+5782,SAMUEL,DHAWAN,Samuel.Dhawan@company.com,2024-02-28,Software Engineer,HR,"₹2,536,025",5185,867 Devi Marg Mahbubnagar-386879,Vellore,AP,488693,1969-08-17,Active
+5783,PATRICK,BHANDARI,Patrick.Bhandari@company.com,2027-10-30,Software Engineer,Platform,351346,5161,"H.No. 05, Vohra Nagar, Bhalswa Jahangir Pur 961597",Bardhaman,KA,535670,1987-10-18,Active
+5784,URVI,tella,Urvi.Tella@company.com,2026-02-25,Data Engineer,Data,"₹2,523,704",5121,"H.No. 42 Bose Marg, New Delhi-227362",Tiruppur,MH,022271,1996-07-23,Active
+5785,hitesh,BORDE,Hitesh.Borde@company.com,2023-12-07,Senior Software Engineer,Platform,"₹2,862,141",,"17/16 Bhandari Street, Sangli-Miraj & Kupwad-144869",Patna,KA,216903,1990-04-10,
+5786,praneel,grover,Praneel.Grover@company.com,2016-07-11,Senior Software Engineer,Analytics,686402,,"H.No. 426, Tandon Road, Ghaziabad-801770",Jodhpur,TG,370500,1977-04-15,INACTIVE
+5787,bishakha,ISSAC,Bishakha.Issac@COMPANY.COM,2019-07-29,HR Executive,Platform,1297318,5105,"446 Kapur, Gandhidham-947638",Panvel,WB,906540,1977-08-06,Active
+5788,naksh,palla,Naksh@company,2026-07-02,Senior Software Engineer,Data,"₹2,522,234",5025,"93/932, Dugar Chowk, Bokaro 291635",Bihar Sharif,MH,026676,2002-06-16,Active
+1092,GARIMA,garg,Garima@company,2023-09-28,HR Executive,Data,"₹1,285,239",5157,"974 Prakash, Bidhannagar 886406",Bharatpur,DL,020801,1976-05-03,INACTIVE
+5790,onveer,batra,Onveer@company,2018-11-05,Machine Learning Engineer,IT,"₹2,353,167",,H.No. 39 Mammen Nagar Hosur 932253,Tiruppur,KA,023510,1977-09-11,active
+5791,mitesh,prasad,Mitesh@company,2027-02-12,Machine Learning Engineer,Analytics,838674,5086,"H.No. 935, Narasimhan Road, Kamarhati 988843",Sambalpur,UP,243629,1987-07-30,
+1026,pooja,deo,Pooja.Deo@company.com,2016-02-24,Data Analyst,Data,"₹406,173",5043,83/12 Madan Road Nanded 759659,Pimpri-Chinchwad,MH,237631,2001-08-06,Active
+5793,VASANA,sharaf,Vasana.Sharaf@company.com,2021-04-12,Technical Lead,Data,2014533,,"H.No. 062, Loyal, Buxar 759192",Tenali,UP,131753,1990-04-27,active
+5794,nandini,DAVE,Nandini.Dave@COMPANY.COM,2023-03-25,Data Engineer,Analytics,"₹2,001,503",,"864 Chauhan Marg, Indore-173009",Katihar,KA,524032,1983-09-05,
+5795,hitesh,BHATNAGAR,Hitesh.Bhatnagar@company.com,2022-01-16,Data Engineer,HR,672593,,"H.No. 514 Dewan Ganj, Amaravati 430877",Kolhapur,UP,792542,1980-09-11,
+1039,MITESH,CHANDER,Mitesh.Chander@company.com,2024-07-23,Machine Learning Engineer,Analytics,1047166,5079,58/192 Mittal Nagar Kumbakonam-676933,Tirunelveli,WB,515902,2002-02-17,Active
+5797,HARINI,sibal,Harini.Sibal@company.com,2025-04-05,Senior Software Engineer,IT,2880875,5164,"H.No. 858 Vyas Path, Hosur-567262",Danapur,DL,672925,1984-09-30,Active
+5798,DALAJA,kalita,Dalaja.Kalita@COMPANY.COM,2026-11-15,Data Engineer,Data,1276730,5095,"62/82, Goswami Street, Bangalore 825624",Malegaon,WB,394201,1986-09-22,Active
+5799,omkaar,GABA,Omkaar.Gaba@company.com,2020-03-15,Engineering Manager,IT,"₹542,783",,92/90 Sahni Nagar Tirunelveli 026604,Faridabad,TG,632174,1983-08-22,
+5800,BALVEER,BAHL,Balveer.Bahl@company.com,2019-12-19,Software Engineer,Data,1935722,5109,"33/53, Goel Circle Nanded 711936",Ranchi,WB,082770,1970-02-13,INACTIVE
+5801,ekani,RATTA,Ekani.Ratta@company.com,2020-10-20,Senior Software Engineer,Finance,"₹2,489,683",,H.No. 762 Manda Marg Hajipur 009537,Kollam,TN,617623,1992-04-05,active
+1049,INDRAJIT,jha,Indrajit.Jha@company.com,2019-05-25,HR Executive,Analytics,533289,5094,"94/416, Devan Road Navi Mumbai 544137",Madhyamgram,TN,685760,1992-12-13,Active
+5803,pahal,joshi,Pahal.Joshi@company.com,2020-04-17,Data Engineer,IT,2720596,,"H.No. 61, Narang Chowk Salem-017999",Malegaon,AP,202483,1984-12-01,Active
+5804,sai,MORAR,Sai.Morar@company.com,2020-07-23,Engineering Manager,HR,2909816,5128,345 Nayak Marg Orai 947902,Durg,RJ,362689,1983-03-21,Active
+5805,BENJAMIN,MAND,Benjamin.Mand@COMPANY.COM,2027-09-25,HR Executive,Data,552649,5147,"64/10, Nori Nagar Orai-574216",Noida,KA,990093,1996-11-05,INACTIVE
+5806,VANSHA,WALLA,Vansha.Walla@COMPANY.COM,2017-05-06,Technical Lead,Analytics,1653040,,"H.No. 76, Memon Zila, Sirsa-437066",Hosur,TG,564672,1982-11-05,Active
+5807,LIPIKA,kaur,Lipika.Kaur@company.com,2022-11-25,Data Engineer,Platform,"₹569,844",,41/858 Bandi Jalgaon 729108,Thanjavur,AP,786043,2002-09-09,INACTIVE
+5808,januja,SABHARWAL,Januja.Sabharwal@COMPANY.COM,2023-04-25,Data Engineer,Platform,873245,,"374, Upadhyay Marg, Rajpur Sonarpur 677306",Jamshedpur,RJ,226679,1967-04-16,INACTIVE
+5809,avni,bumb,Avni.Bumb@COMPANY.COM,2026-06-23,Technical Lead,Finance,"₹1,341,572",,"H.No. 38 Batra Path, Chittoor-963428",Silchar,GJ,550492,1966-02-15,Active
+5810,liam,dalal,Liam.Dalal@COMPANY.COM,2027-11-03,Technical Lead,Finance,364616,,86/186 Balan Chowk Katni 201629,Bhalswa Jahangir Pur,MH,992891,1996-01-07,active
+5811,NATHANIEL,swaminathan,Nathaniel.Swaminathan@COMPANY.COM,2018-01-24,Technical Lead,Platform,"₹988,505",,53/371 Ahuja Chowk Aizawl-269420,Gudivada,RJ,135490,2003-04-05,INACTIVE
+5812,ISAIAH,MANDAL,Isaiah.Mandal@COMPANY.COM,2022-02-16,Data Engineer,HR,"₹1,011,117",,"H.No. 692 Oak Zila, Jhansi-549824",Kishanganj,UP,302178,2003-07-07,
+5813,isaac,SACHDEVA,Isaac.Sachdeva@company.com,2024-01-17,Engineering Manager,IT,"₹1,444,890",5069,64/315 Ben Circle Nadiad 928150,Sultan Pur Majra,WB,170926,1999-03-10,
+5814,chanchal,basak,Chanchal.Basak@company.com,2023-08-14,Technical Lead,Finance,1768226,5059,"80/81, Dutta Chowk Jalgaon-968244",Ludhiana,KA,728895,1968-04-15,active
+5815,qarin,SIBAL,Qarin.Sibal@company.com,2026-10-07,Data Analyst,Data,"₹1,414,673",,"80, Chowdhury Marg Bhubaneswar 766208",Bettiah,UP,039170,1983-10-13,active
+5816,PARTH,sama,Parth.Sama@COMPANY.COM,2019-05-03,Software Engineer,Platform,1262959,5100,"596 Kulkarni Street, Nagaon 012042",Ujjain,AP,369091,1983-01-11,active
+5817,nachiket,KAPOOR,Nachiket.Kapoor@COMPANY.COM,2023-10-29,Senior Software Engineer,IT,1786492,5075,"849, Ravel Chowk Kulti-702436",Guntur,GJ,055364,1989-10-24,Active
+5818,YACHANA,buch,Yachana.Buch@COMPANY.COM,2027-12-07,Machine Learning Engineer,HR,2298266,5083,"H.No. 03 Magar Marg, Kochi-977385",Silchar,AP,232360,2001-04-13,active
+5819,lakshmi,RAU,Lakshmi.Rau@company.com,2023-11-29,HR Executive,Finance,1584852,5121,"12/59 Sundaram Road, Bhavnagar-429862",Bulandshahr,DL,066617,2001-01-07,Active
+5820,nikita,GOEL,Nikita.Goel@COMPANY.COM,2019-03-30,Data Analyst,HR,2703494,5061,"98/33, Sood Path, Miryalaguda-779256",Barasat,TG,348208,1988-06-26,active
+5821,ZAYAN,KOSHY,Zayan.Koshy@company.com,2017-08-26,Data Analyst,Finance,"₹2,767,803",,"12/26, Balan Nagar Jabalpur-407629",Farrukhabad,TG,049134,1987-04-21,active
+5822,JAGAT,badal,Jagat@company,2019-07-01,Data Engineer,Analytics,1714259,,"872 Zachariah Nagar, Khammam-422405",Pimpri-Chinchwad,WB,353097,2000-03-06,active
+5823,pooja,sangha,Pooja.Sangha@company.com,2026-05-18,Machine Learning Engineer,HR,"₹338,663",,"980 Ratti Path, Kolkata 753079",Alappuzha,WB,869572,1971-12-27,active
+5824,bina,ahuja,Bina.Ahuja@COMPANY.COM,2021-04-16,Engineering Manager,Finance,2054104,5046,"H.No. 12 Kar Path, Jammu 956100",Unnao,KA,321750,1981-11-23,
+5825,UPKAAR,SAINI,Upkaar.Saini@COMPANY.COM,2017-06-28,Technical Lead,Data,911407,,"599, Bobal Hazaribagh-337034",Durg,RJ,474890,2004-03-12,
+5826,ANIKA,tak,Anika.Tak@company.com,2023-05-12,HR Executive,Platform,"₹766,772",5172,"351 Singhal Nagar, Pondicherry-917085",Karawal Nagar,MH,289514,1966-10-10,active
+5827,INDIRA,rajagopal,Indira.Rajagopal@company.com,2019-04-20,Engineering Manager,HR,542107,5016,"58/05, Brar Path Pondicherry 449653",Sikar,DL,770040,1982-06-07,INACTIVE
+5828,YATAN,ARORA,Yatan@company,2021-04-28,Engineering Manager,Platform,"₹324,859",,"40/39, Doctor Circle, Jodhpur 396620",Kottayam,WB,886407,1986-09-24,active
+5829,advik,doshi,Advik.Doshi@COMPANY.COM,2022-09-09,HR Executive,Analytics,2473152,5156,H.No. 646 Jhaveri Patiala-623039,Dewas,RJ,088067,1986-12-01,
+5830,BRIJESH,tiwari,Brijesh.Tiwari@company.com,2026-04-27,Data Engineer,HR,"₹2,707,341",,"20/19, Chanda, Korba-132661",Thanjavur,TN,858052,2003-01-09,INACTIVE
+5831,MOHINI,khosla,Mohini@company,2019-03-13,Data Analyst,IT,"₹1,768,875",,H.No. 472 Badami Street Kamarhati 077454,Nangloi Jat,TG,823171,1973-02-22,Active
+1031,BIMALA,ramakrishnan,Bimala.Ramakrishnan@COMPANY.COM,2017-04-10,Machine Learning Engineer,HR,2646407,,"46/76, Deo Marg, Bokaro 596053",Durgapur,RJ,184025,2003-12-21,active
+5833,vedika,SEN,Vedika.Sen@COMPANY.COM,2016-02-15,Senior Software Engineer,Data,2210426,5011,"H.No. 506 Barman Ganj, Tenali-605028",Haldia,WB,098910,1979-09-24,
+5834,tarak,BASSI,Tarak.Bassi@COMPANY.COM,2026-02-06,Data Engineer,IT,2832882,,"30/252, Lala Nagar Sangli-Miraj & Kupwad-759795",Gorakhpur,TN,600986,1973-01-27,active
+5835,caleb,DEOL,Caleb.Deol@COMPANY.COM,2023-11-28,Senior Software Engineer,Analytics,2334673,5168,"54/492 Nagar Nagar, Proddatur-453811",Kishanganj,RJ,896558,1988-10-05,active
+5836,siddharth,mander,Siddharth.Mander@company.com,2020-11-02,Software Engineer,IT,"₹2,305,648",5038,"295 Dasgupta Street, Tadepalligudem-056603",Kota,UP,248607,1987-06-30,INACTIVE
+1054,ADVAITH,minhas,Advaith.Minhas@company.com,2023-08-30,Data Engineer,Analytics,"₹2,335,602",5073,"H.No. 235 Pau Zila, Indore-530173",Bhusawal,MH,156058,1975-07-11,active
+5838,ria,BHATIA,Ria@company,2022-05-18,HR Executive,IT,2335097,5176,H.No. 13 Narain Ganj Mango-064531,Bhind,WB,571918,1973-10-20,Active
+5839,MITALI,SARAN,Mitali.Saran@COMPANY.COM,2021-02-18,HR Executive,IT,"₹2,500,152",5147,H.No. 61 Keer Circle North Dumdum-487680,Bhind,AP,237718,1992-07-23,Active
+5840,ALKA,KONDA,Alka.Konda@company.com,2016-02-16,Senior Software Engineer,HR,2110542,,"H.No. 956, Khurana Chowk Jhansi-973239",Ramagundam,GJ,028253,1971-11-07,INACTIVE
+5841,nihal,RANA,Nihal@company,2023-11-08,Machine Learning Engineer,Platform,523927,5172,773 Dutta Deoghar-202320,Chandrapur,RJ,169332,1990-08-14,Active
+5842,zaitra,mallick,Zaitra.Mallick@COMPANY.COM,2021-01-05,Engineering Manager,Platform,"₹1,638,343",,19 Vohra Narasaraopet-755154,Cuttack,AP,075699,1974-06-09,active
+5843,ekaraj,jaggi,Ekaraj.Jaggi@company.com,2025-05-26,Senior Software Engineer,HR,"₹399,824",5022,"H.No. 643, Dubey Ganj Bhiwani 277773",Aurangabad,UP,806647,1980-01-28,
+5844,ayaan,SAVANT,Ayaan.Savant@company.com,2016-01-31,Engineering Manager,IT,"₹542,578",,"605, Munshi, Ambala 241074",Mira-Bhayandar,KA,406758,1979-02-19,INACTIVE
+5845,OLIVER,sangha,Oliver.Sangha@COMPANY.COM,2023-09-27,Data Engineer,Platform,2615061,,06/20 Konda Nagar Jhansi-646149,Shimoga,MH,979318,1993-08-16,INACTIVE
+5846,TEERTH,SUNDARAM,Teerth@company,2025-10-17,Data Analyst,IT,651045,,"H.No. 98, Banerjee Marg, Satara 493266",Thrissur,KA,239461,2001-11-20,
+5847,kalpit,CHAUDHURI,Kalpit@company,2018-09-11,Data Analyst,IT,2979544,5119,"H.No. 94, Nori Circle Chandrapur 012762",Nellore,DL,742256,2002-04-27,active
+5848,triya,thaman,Triya.Thaman@COMPANY.COM,2027-11-13,Data Analyst,Data,776149,,"378, Subramanian Circle Ozhukarai 168061",Rohtak,TN,647998,1998-06-27,Active
+5849,ANIKA,RAMAN,Anika.Raman@COMPANY.COM,2016-06-10,HR Executive,Platform,2551385,5165,"49/63 Khurana Circle, Udupi-236108",Chapra,MH,616620,1987-02-11,Active
+5850,hardik,sahota,Hardik.Sahota@COMPANY.COM,2021-07-06,Data Analyst,Platform,"₹1,668,589",5178,"86/457 Rastogi Circle, Khammam 751247",Panipat,RJ,006875,1989-04-10,
+5851,OESHI,WALI,Oeshi.Wali@COMPANY.COM,2018-04-14,Data Analyst,Data,490521,,H.No. 665 Nair Road Jamnagar 444189,Sagar,RJ,233868,1984-11-03,
+5852,pooja,BADAL,Pooja.Badal@company.com,2024-09-28,Engineering Manager,Platform,1603405,5133,"H.No. 170 Rege Ganj, Ranchi 423860",Ranchi,RJ,089830,1980-11-27,INACTIVE
+1089,arunima,BISWAS,Arunima.Biswas@company.com,2019-08-22,Engineering Manager,Data,2563348,5167,19/797 Sur Darbhanga 284135,Phagwara,UP,804507,1983-05-04,active
+5854,SAMARTH,pandya,Samarth.Pandya@COMPANY.COM,2022-06-13,Machine Learning Engineer,HR,2362427,,"57/39, Bahl Road, Bhimavaram 260294",Siliguri,KA,315892,1998-07-08,
+5855,GAURANGI,VERMA,Gaurangi.Verma@COMPANY.COM,2020-10-17,HR Executive,Analytics,"₹2,066,893",5121,"H.No. 20, Char Ganj, Jaunpur-486759",Raipur,AP,186482,1966-03-22,
+5856,saksham,aggarwal,Saksham.Aggarwal@company.com,2024-07-18,Machine Learning Engineer,Analytics,"₹1,168,173",5065,86/841 Salvi Sambalpur-260586,Dehradun,KA,674831,2000-07-18,Active
+5857,SACHI,hans,Sachi.Hans@COMPANY.COM,2027-12-06,Data Engineer,Analytics,649467,5198,"931 Chanda Path, Bhind-426559",Vijayanagaram,AP,623272,1965-03-12,active
+5858,thomas,som,Thomas.Som@COMPANY.COM,2018-01-18,Engineering Manager,Platform,410774,,"379, Banik Nagar Satna 870847",Amaravati,TG,417675,1995-09-02,Active
+5859,DIPTA,jain,Dipta.Jain@company.com,2026-02-12,Data Engineer,Analytics,"₹2,846,100",,"37, Bhatti Circle Ballia 579089",Uluberia,DL,268384,2000-09-27,INACTIVE
+1075,YAUVANI,SAVANT,Yauvani.Savant@COMPANY.COM,2023-01-07,HR Executive,Analytics,872882,5093,"H.No. 761, Khanna Street Moradabad 190518",Bhatpara,WB,182070,1979-01-01,active
+5861,NEELIMA,rama,Neelima.Rama@company.com,2026-03-01,Senior Software Engineer,Data,2186323,5107,"92, Srivastava Ganj Giridih 689334",Avadi,WB,035067,1967-07-09,active
+5862,FALAK,sharma,Falak.Sharma@COMPANY.COM,2024-09-19,Machine Learning Engineer,HR,"₹976,251",5137,"H.No. 57, Sur Nagar Noida-231555",Ratlam,MH,052187,1993-03-08,Active
+5863,tristan,varty,Tristan.Varty@COMPANY.COM,2020-09-06,Engineering Manager,Finance,"₹2,350,990",,"H.No. 58, Kadakia Circle, Solapur 147012",North Dumdum,DL,368715,1984-02-03,
+5864,maya,walla,Maya.Walla@COMPANY.COM,2026-04-06,HR Executive,Analytics,1107704,,97 Bera Circle Ahmednagar 456844,Bhalswa Jahangir Pur,TG,036640,1970-02-08,Active
+1096,DOMINIC,SANKARAN,Dominic.Sankaran@company.com,2019-09-25,Machine Learning Engineer,IT,"₹424,355",,"783 Pant Zila, Ambarnath 292731",Karaikudi,AP,029158,1974-03-12,Active
+5866,JYOTI,modi,Jyoti.Modi@COMPANY.COM,2026-12-15,Software Engineer,Analytics,2813232,,"416, Biswas Path Rohtak-966073",Jalna,GJ,746215,1976-03-01,
+5867,ishanvi,MANDER,Ishanvi.Mander@company.com,2027-02-01,Data Analyst,Platform,"₹344,723",5095,"91/617 Nayar Nagar, Nanded-181698",Baranagar,RJ,344760,1970-08-18,INACTIVE
+5868,aadhya,jani,Aadhya.Jani@COMPANY.COM,2027-10-31,Technical Lead,IT,2863980,5064,"H.No. 292 Ravel Circle, New Delhi-026509",Gaya,GJ,836677,1998-02-26,active
+5869,JATIN,purohit,Jatin.Purohit@COMPANY.COM,2023-02-03,Data Engineer,Platform,990297,5032,"H.No. 256, Mall Ganj, Patna-223499",Srinagar,DL,768367,1993-03-10,INACTIVE
+1075,ISHITA,BABU,Ishita.Babu@company.com,2017-08-14,Engineering Manager,Platform,355471,5102,"H.No. 24, Raval Road, Panipat-092335",Berhampore,UP,656426,1997-04-22,
+5871,CHARLES,CHOUDHARY,Charles@company,2025-05-17,HR Executive,Data,2271121,5033,631 Parikh Pudukkottai-592277,Firozabad,TN,490038,1991-02-20,active
+5872,EKIYA,AGATE,Ekiya.Agate@COMPANY.COM,2019-01-25,Data Analyst,IT,"₹2,849,321",5051,"34/448, Srivastava Marg, Bokaro 904733",Nizamabad,GJ,461574,1987-10-16,Active
+5873,rudra,DIXIT,Rudra.Dixit@company.com,2022-02-09,Machine Learning Engineer,HR,569824,,97/887 Nadig Rajkot 040954,Gandhidham,MH,661830,1971-05-05,INACTIVE
+5874,kashvi,thakkar,Kashvi@company,2016-11-25,Software Engineer,IT,1200205,,143 Chad Tiruchirappalli 436786,Vasai-Virar,KA,781871,1969-02-03,INACTIVE
+5875,CHAKRADEV,RAVI,Chakradev.Ravi@COMPANY.COM,2026-10-04,Software Engineer,IT,1014929,5100,"H.No. 25 Bera Chowk, Motihari 269331",Firozabad,RJ,306002,2000-09-19,active
+1014,ROBERT,BHAGAT,Robert.Bhagat@COMPANY.COM,2019-03-04,Data Analyst,Analytics,2350386,5099,"50/522 Chandran Road, Ramagundam-066701",Aurangabad,TN,599201,1999-03-15,active
+1021,neelima,SAMRA,Neelima.Samra@company.com,2020-04-10,Senior Software Engineer,Finance,1621819,5185,"240, Nagarajan Nagar Dharmavaram-220562",Bareilly,TN,113484,1979-01-12,Active
+5878,shaurya,kapoor,Shaurya.Kapoor@COMPANY.COM,2025-10-27,Data Engineer,Analytics,1428388,,"25/286, Kala Zila Latur-564523",Gaya,DL,449760,1971-11-26,
+5879,oscar,lalla,Oscar.Lalla@company.com,2025-12-14,Data Engineer,Analytics,"₹1,158,501",5157,"420 Parikh, Junagadh-734985",Chittoor,AP,561526,1999-11-13,
+5880,NETRA,PRABHAKAR,Netra@company,2021-09-06,Technical Lead,Finance,"₹1,312,591",5191,62 Koshy Path Udupi 641475,Kulti,GJ,952474,2003-04-27,
+5881,meera,saraf,Meera.Saraf@COMPANY.COM,2021-06-06,Senior Software Engineer,Platform,"₹402,154",5007,"96/29, Nori Circle, Jamnagar 367924",Sonipat,DL,127638,1980-11-26,INACTIVE
+5882,udarsh,NAIK,Udarsh.Naik@COMPANY.COM,2020-08-22,Engineering Manager,Finance,2366385,,"58/63 Bal, Salem 824979",Tadepalligudem,GJ,615381,1979-06-27,active
+5883,HARRISON,ramesh,Harrison.Ramesh@company.com,2024-10-15,Software Engineer,Platform,1034625,,"H.No. 307, Som Ganj, Nadiad-720148",Ongole,GJ,826493,1978-05-31,
+5884,JACOB,DEEP,Jacob.Deep@COMPANY.COM,2018-02-09,Data Analyst,Data,1422087,5051,"47/62, Mall Path, Adoni-645633",Jaunpur,TN,994036,1984-06-14,Active
+5885,ADWETA,tiwari,Adweta.Tiwari@COMPANY.COM,2027-05-03,Technical Lead,IT,765707,,"66/497, Rout Zila Indore 833539",Patna,TN,612590,1970-06-19,INACTIVE
+5886,ISHAAN,RATTAN,Ishaan.Rattan@COMPANY.COM,2020-03-23,Data Engineer,HR,2142846,,"H.No. 333, Magar Road, Fatehpur 734814",Phusro,UP,101679,2003-08-28,INACTIVE
+5887,TARAK,BARAD,Tarak.Barad@COMPANY.COM,2017-04-13,Software Engineer,Analytics,"₹1,482,096",,"04, Chacko Nashik 202886",Kochi,GJ,801990,1982-02-09,Active
+1088,yatin,manne,Yatin@company,2018-06-25,Software Engineer,Analytics,"₹859,473",,54/84 Bhasin Street Imphal-160791,Gudivada,UP,386015,1973-04-30,Active
+5889,VASANA,CHAUDHARY,Vasana.Chaudhary@COMPANY.COM,2027-12-19,Software Engineer,HR,1712468,5195,"219, Babu Road, Avadi-028814",Jamshedpur,MH,874527,1970-11-27,INACTIVE
+5890,falan,kala,Falan.Kala@COMPANY.COM,2023-06-12,Technical Lead,Data,2344839,,"46 Bora Ganj, Begusarai 074916",Gangtok,MH,232154,1997-06-12,INACTIVE
+1013,CHANAKYA,BORRA,Chanakya.Borra@COMPANY.COM,2020-01-24,Software Engineer,Platform,532742,5184,"H.No. 06, Sant, Munger 684552",Akola,TN,410254,1970-08-20,Active
+5892,vidhi,BHATTACHARYYA,Vidhi.Bhattacharyya@COMPANY.COM,2023-12-18,Engineering Manager,HR,1723778,5082,"69 Toor Road, Howrah 519567",Rewa,MH,558422,2004-10-01,Active
+5893,saumya,CHADHA,Saumya.Chadha@COMPANY.COM,2023-10-11,Senior Software Engineer,Analytics,641940,,"565 Lad Nagar, Bangalore-001441",Kolkata,WB,862408,1975-08-24,Active
+5894,SAI,CHAUHAN,Sai@company,2016-02-10,Technical Lead,Platform,"₹1,055,894",5199,"90/41 Deshmukh Chowk, Chennai-623811",Nanded,DL,328222,1965-04-05,INACTIVE
+5895,mohammed,mander,Mohammed.Mander@COMPANY.COM,2016-03-31,Engineering Manager,Platform,1239855,,"H.No. 28 Parmar Ganj, Patna 410847",Ambattur,RJ,113505,2001-07-03,
+5896,RISHI,nagar,Rishi.Nagar@COMPANY.COM,2023-07-24,Engineering Manager,Platform,"₹1,303,675",5127,"H.No. 641, Suri Path Khora -830280",Nagpur,TN,194534,1974-12-08,INACTIVE
+5897,FARAS,natarajan,Faras@company,2018-03-04,HR Executive,Data,1660425,5128,H.No. 78 Sha Marg Warangal 218893,Kharagpur,MH,578037,1999-10-08,active
+5898,jack,DHINGRA,Jack.Dhingra@COMPANY.COM,2017-09-05,Machine Learning Engineer,Finance,"₹2,840,215",,"699 Nagar Nagar, Suryapet-575994",Tinsukia,KA,290696,1980-02-16,Active
+1032,chandran,MISRA,Chandran.Misra@COMPANY.COM,2022-02-19,Technical Lead,Analytics,2590557,5180,"10, Narula Marg, Jaunpur-374570",Silchar,WB,276136,1975-06-15,active
+5900,ekapad,MISTRY,Ekapad.Mistry@COMPANY.COM,2026-01-09,Data Analyst,Analytics,"₹1,257,657",5015,"H.No. 30, Mand Circle Nangloi Jat 992964",Barasat,DL,725084,2002-07-30,
+5901,QARIN,KHOSLA,Qarin.Khosla@company.com,2018-06-03,Software Engineer,Analytics,302597,,"H.No. 80, Mahal Nagar Malda-415536",Khammam,GJ,574906,1982-01-28,active
+1046,owen,TARA,Owen.Tara@COMPANY.COM,2025-08-08,Data Engineer,Analytics,2101008,,"H.No. 25, Bhat Chowk Kakinada 295945",Korba,MH,582863,1990-10-21,Active
+1063,CHAKRADHAR,mammen,Chakradhar.Mammen@company.com,2016-05-14,Software Engineer,HR,710477,5064,"991 Dugar Chowk, Shivpuri-292204",Vellore,MH,821539,1974-07-17,active
+5904,PATRICK,RAVI,Patrick.Ravi@company.com,2022-07-13,Software Engineer,Platform,1907352,,"32, Bali Path, Bhilai-928048",Chennai,WB,206190,1979-04-24,active
+5905,hitesh,khatri,Hitesh.Khatri@COMPANY.COM,2026-12-18,HR Executive,Finance,"₹821,122",5012,37/97 Bhatia Zila Howrah-295616,Udaipur,MH,647185,1981-08-06,active
+5906,irya,more,Irya.More@company.com,2016-01-25,Software Engineer,Finance,"₹2,658,738",,"H.No. 453, Kaur Street Kharagpur-781456",Gandhidham,RJ,370194,1995-08-13,Active
+5907,ira,HAYRE,Ira.Hayre@COMPANY.COM,2027-07-21,HR Executive,HR,1090904,,66 Oak Marg Hapur 761209,Begusarai,TN,578061,1972-02-18,INACTIVE
+5908,DARPAN,dugal,Darpan.Dugal@COMPANY.COM,2018-04-09,Data Engineer,Finance,"₹2,349,880",,"78, Bajwa Chowk Morena 353223",Amravati,TG,921268,1981-10-05,
+5909,BHAVANI,vala,Bhavani.Vala@company.com,2022-04-12,Senior Software Engineer,HR,"₹2,614,527",5199,H.No. 142 Muni Lucknow-037539,Latur,GJ,324659,1993-03-16,
+5910,YADAVI,rai,Yadavi.Rai@COMPANY.COM,2022-06-28,Technical Lead,Platform,2221179,,41/78 Taneja Ganj Tiruvottiyur-538201,Panipat,RJ,652664,1979-03-25,
+5911,qarin,sankar,Qarin.Sankar@company.com,2023-08-06,Engineering Manager,IT,1734984,5011,"724, Pai Path, Kulti 565697",Bhilwara,MH,849622,1980-01-08,
+5912,ARYA,MANI,Arya@company,2022-04-12,Machine Learning Engineer,IT,"₹834,392",,25 Sachdev Nagar Tezpur 568512,Bidar,KA,767293,1973-03-19,active
+5913,EKAJA,bains,Ekaja.Bains@company.com,2026-06-20,HR Executive,Analytics,2299391,,42/129 Mitra Zila Serampore-223477,Baranagar,WB,797251,1995-01-10,INACTIVE
+5914,ZINAL,manne,Zinal.Manne@COMPANY.COM,2027-11-25,Senior Software Engineer,HR,"₹2,720,933",5060,"398, Chander Street, Bidhannagar-337209",Ratlam,KA,676706,1968-07-23,INACTIVE
+5915,ronith,RAY,Ronith.Ray@COMPANY.COM,2026-09-29,Data Engineer,IT,"₹2,096,277",,011 Doshi Street Dhanbad-842648,Kurnool,TN,679608,1979-12-23,
+5916,OJAS,ZACHARIAH,Ojas.Zachariah@COMPANY.COM,2026-04-27,Software Engineer,Data,857770,5010,"36/054, Mangal, Khora -085649",Raipur,MH,249519,1992-08-14,INACTIVE
+5917,tanveer,PRASAD,Tanveer.Prasad@company.com,2016-11-15,Data Analyst,Platform,1094910,5160,"H.No. 46, Soman Zila Bettiah 803889",Baranagar,WB,104043,1965-02-01,INACTIVE
+5918,DEVANSH,pall,Devansh.Pall@COMPANY.COM,2022-12-04,HR Executive,Finance,707446,5005,"35/381, Varma Road, Morena 755803",Ahmedabad,TG,685647,1991-03-23,
+5919,imaran,sur,Imaran@company,2023-09-11,Data Engineer,Analytics,419887,,"H.No. 902, Chauhan Chowk, Medininagar 716115",Khandwa,WB,119976,2002-05-19,active
+5920,REVA,parekh,Reva@company,2025-11-16,Technical Lead,Data,"₹1,634,919",,"617, Nagi Nagar Thoothukudi-534581",Bhusawal,MH,728535,2000-07-02,
+5921,WRIDDHISH,KOTA,Wriddhish.Kota@COMPANY.COM,2025-11-12,Engineering Manager,Data,"₹2,248,790",,662 Sidhu Zila Thanjavur-158466,Mahbubnagar,AP,030285,1999-09-04,INACTIVE
+5922,samarth,DUGAR,Samarth.Dugar@COMPANY.COM,2023-11-19,Data Engineer,Platform,2938602,,"98 Kumer Ganj, Coimbatore-025285",Purnia,GJ,308730,1977-03-11,active
+5923,urmi,dass,Urmi@company,2016-02-28,HR Executive,HR,592637,,"77, D’Alia Chowk Orai-252786",Mumbai,TN,071210,1996-02-07,Active
+5924,LOHIT,mallick,Lohit@company,2018-06-02,Software Engineer,Finance,"₹2,740,506",,"30 Sule Path, Nandyal 961997",Gandhinagar,KA,965667,1978-03-11,active
+5925,niharika,minhas,Niharika.Minhas@company.com,2016-09-18,Data Analyst,IT,"₹775,207",,"H.No. 40, Peri Nagar Nanded-265379",South Dumdum,AP,191439,1990-09-21,Active
+5926,AGASTYA,SHANKER,Agastya.Shanker@company.com,2016-05-21,Software Engineer,Analytics,1749872,,"36/015 Contractor Chowk, Ozhukarai 101626",Ludhiana,KA,265893,1989-08-25,Active
+5927,ADVIKA,SIDHU,Advika.Sidhu@company.com,2021-09-29,Data Analyst,IT,463523,,"H.No. 48, Jhaveri Circle Pallavaram-921496",Jehanabad,GJ,463866,1996-01-14,INACTIVE
+1089,BHANUMATI,KHATRI,Bhanumati.Khatri@COMPANY.COM,2018-09-03,Machine Learning Engineer,Platform,797619,5136,"26, Patla Marg Kadapa-468549",Panchkula,GJ,400020,1966-08-03,INACTIVE
+5929,mahika,BAWA,Mahika.Bawa@COMPANY.COM,2017-06-29,Machine Learning Engineer,Data,1982185,5006,"H.No. 19, Nigam Nagar, Dhule-716303",Imphal,TG,369301,1985-09-22,
+5930,dalbir,bhandari,Dalbir.Bhandari@company.com,2016-08-31,Senior Software Engineer,Finance,2926020,,"78/10, Wali Road Malegaon-541589",Dhanbad,UP,043766,1968-08-04,Active
+5931,gaurang,KIBE,Gaurang.Kibe@company.com,2023-02-16,Data Analyst,Analytics,"₹423,293",,"12/26, Bhavsar Circle Aurangabad-747053",Hubli–Dharwad,TG,583309,1991-10-31,
+5932,RACHITA,tank,Rachita@company,2019-06-23,HR Executive,Finance,664778,5022,"H.No. 891, Dey Road, Medininagar 765016",Purnia,GJ,187762,1995-07-03,
+5933,TARAK,REGE,Tarak.Rege@COMPANY.COM,2020-01-16,Software Engineer,Analytics,1275456,,"H.No. 627, Gera Marg, Udaipur 667880",Sultan Pur Majra,RJ,165228,1994-06-15,Active
+5934,aadi,SHETH,Aadi.Sheth@company.com,2020-12-24,Technical Lead,Data,641096,5161,81/25 Sood Path Kirari Suleman Nagar-659764,Jamalpur,DL,858050,2004-07-19,INACTIVE
+5935,ELIJAH,mannan,Elijah.Mannan@company.com,2018-02-23,Data Analyst,HR,"₹1,033,182",5105,H.No. 78 Guha Kolhapur 651887,Raipur,TG,860050,1995-01-09,
+5936,AAYUSH,gour,Aayush.Gour@COMPANY.COM,2020-06-24,HR Executive,HR,988485,,75/70 Badal Ganj Giridih-011250,Guna,WB,074290,1983-05-21,INACTIVE
+5937,NEELIMA,padmanabhan,Neelima.Padmanabhan@COMPANY.COM,2018-07-25,Software Engineer,Platform,"₹1,027,261",,"693, Babu Zila Gulbarga-073024",Kharagpur,AP,249753,1977-05-09,Active
+5938,UPASNA,MANI,Upasna.Mani@COMPANY.COM,2016-06-12,Engineering Manager,Platform,2840865,5039,"44/695, Tandon Marg, Dhanbad-873544",Muzaffarnagar,GJ,514668,1987-04-03,
+5939,omya,PANDYA,Omya.Pandya@COMPANY.COM,2024-10-08,Software Engineer,Analytics,"₹2,042,352",,"H.No. 83, Sanghvi Path, Erode 366485",Jamnagar,KA,775870,1978-07-17,Active
+5940,YASHODA,mannan,Yashoda.Mannan@COMPANY.COM,2020-03-03,Software Engineer,Finance,2666866,,"44/369, Wason Path, Raurkela Industrial Township-450509",Katihar,WB,672007,1975-11-07,INACTIVE
+5941,ronith,MAND,Ronith.Mand@COMPANY.COM,2018-12-15,Data Analyst,IT,1663276,,37 Murty Street Hapur 380162,Karaikudi,WB,150204,1978-05-17,
+5942,hemal,bajaj,Hemal.Bajaj@company.com,2027-03-21,Senior Software Engineer,Platform,"₹1,884,645",5109,531 Shetty Street Muzaffarpur 795311,Ajmer,MH,590426,1977-08-12,active
+5943,ishita,goyal,Ishita.Goyal@COMPANY.COM,2023-11-11,Technical Lead,Platform,1741526,,62/510 Patla Circle Rajahmundry-855451,Chinsurah,AP,919351,1983-01-02,INACTIVE
+5944,farhan,SOOD,Farhan.Sood@company.com,2027-05-07,HR Executive,Finance,"₹2,698,803",5195,"H.No. 37 Sahni Nagar, Bhalswa Jahangir Pur 816733",Chandrapur,DL,121575,1985-09-28,Active
+5945,PALLAVI,GANESAN,Pallavi@company,2023-04-06,Software Engineer,Data,1213547,,"08, Vora Road Sasaram 620990",Aurangabad,TN,196303,1982-07-15,Active
+5946,gayathri,borah,Gayathri.Borah@company.com,2023-06-10,Senior Software Engineer,HR,1433832,5175,H.No. 05 Zacharia Cuttack 731234,Bettiah,KA,485142,1998-08-25,
+5947,dakshesh,DHILLON,Dakshesh.Dhillon@COMPANY.COM,2022-04-22,HR Executive,IT,"₹759,123",,"H.No. 02 Gill Circle, Aligarh-427557",Kirari Suleman Nagar,TN,991154,1981-07-07,
+5948,ARJUN,mangal,Arjun.Mangal@company.com,2026-09-20,Software Engineer,Analytics,1450163,5002,"34/36, Pradhan Guwahati-297711",Pune,GJ,291792,1982-08-20,
+5949,madhavi,NORI,Madhavi.Nori@company.com,2017-02-12,Data Engineer,Data,1676029,5101,"16/29, Bera Zila Berhampur-219836",Pondicherry,RJ,376710,1995-10-12,active
+5950,JAGRATI,devan,Jagrati.Devan@COMPANY.COM,2025-08-20,Technical Lead,Platform,2282767,,"H.No. 745 Buch, Thiruvananthapuram-445002",Mira-Bhayandar,DL,838789,1999-12-29,Active
+5951,BAKHSHI,KALA,Bakhshi.Kala@COMPANY.COM,2021-04-17,Engineering Manager,Analytics,"₹1,456,570",5189,"58/67, Batta Marg Nashik 093467",Bihar Sharif,WB,823688,1988-08-02,Active
+5952,gopal,BASU,Gopal.Basu@company.com,2017-04-23,Data Engineer,Data,665361,5121,105 Kohli Zila Parbhani-018422,Navi Mumbai,WB,882532,1981-08-08,active
+5953,azad,hegde,Azad.Hegde@company.com,2027-09-06,Data Engineer,Data,"₹1,456,122",5164,"63/603, Chadha Circle, Sambalpur-907894",Haldia,GJ,200052,1970-04-02,Active
+5954,faris,KURIAN,Faris.Kurian@company.com,2027-11-29,HR Executive,Finance,2291133,5050,H.No. 716 Luthra Ganj Bhopal 123708,Jodhpur,TN,919445,1971-10-24,Active
+5955,AASHI,patla,Aashi.Patla@company.com,2023-03-05,HR Executive,Data,1361225,5002,H.No. 56 Grewal Zila Haldia-137718,Ajmer,DL,395612,1997-03-09,INACTIVE
+5956,neelima,raj,Neelima.Raj@company.com,2023-07-09,Engineering Manager,HR,"₹966,530",,"H.No. 57, Shanker Ganj Thiruvananthapuram-402234",Coimbatore,WB,466276,2002-01-14,active
+5957,samarth,kamdar,Samarth.Kamdar@company.com,2016-01-15,Data Analyst,Analytics,"₹1,916,277",,"61, Ghosh Road Dindigul 483196",Dhule,WB,470465,1985-03-24,active
+5958,krishna,yohannan,Krishna.Yohannan@company.com,2025-08-23,Engineering Manager,Analytics,"₹314,287",,"688, Aggarwal Ganj, Alwar-793631",Gangtok,KA,291270,1991-05-25,Active
+5959,leela,narayan,Leela.Narayan@company.com,2026-03-15,Engineering Manager,IT,"₹1,739,891",5049,"H.No. 406, Chandra Street, Tinsukia 228247",Kadapa,TG,018179,1980-03-16,Active
+1082,NANDINI,BERA,Nandini.Bera@COMPANY.COM,2024-03-13,Machine Learning Engineer,Analytics,1392520,5060,"74/99 Bhandari Chowk, Nanded-171148",Thanjavur,AP,581898,1987-10-20,
+5961,HARSH,andra,Harsh.Andra@COMPANY.COM,2023-05-21,Engineering Manager,Platform,"₹1,929,556",,"56/316, Chandra Ganj, Kavali-557261",Kavali,TN,963788,1970-04-07,
+5962,EKAVIR,chakrabarti,Ekavir@company,2025-10-15,Engineering Manager,Platform,"₹2,418,871",,20/13 Tata Nagar Purnia 532163,Bidar,TN,317985,1979-05-27,
+5963,amrita,bansal,Amrita@company,2016-10-18,Data Engineer,IT,598050,,"29, Merchant Path Hazaribagh 835639",Jamnagar,KA,439225,1986-02-25,INACTIVE
+5964,HEMA,cherian,Hema.Cherian@COMPANY.COM,2023-06-23,Data Analyst,Data,"₹2,443,048",5020,"H.No. 81, Tak Road Mangalore 236018",Muzaffarpur,WB,541384,1983-07-23,Active
+5965,EESHA,KAUR,Eesha.Kaur@COMPANY.COM,2017-08-14,Technical Lead,IT,"₹506,055",5118,"H.No. 930, Ratta Chowk, Ranchi-459872",Patna,TG,177351,1986-05-23,Active
+5966,omya,RATTAN,Omya.Rattan@COMPANY.COM,2024-09-01,Engineering Manager,Analytics,1850823,,"973, Sethi Marg Morena 173402",Mira-Bhayandar,MH,241983,1969-05-28,
+5967,DARSH,sabharwal,Darsh.Sabharwal@COMPANY.COM,2027-06-27,Senior Software Engineer,IT,"₹2,925,430",5170,"54, Chandra Nagar Tirupati-424842",Sangli-Miraj & Kupwad,KA,350947,1981-09-28,INACTIVE
+1017,NISHA,PANCHAL,Nisha.Panchal@company.com,2027-12-17,Data Analyst,Data,2917285,,15/640 Mane Tirupati 539891,Bhind,TN,542451,1971-03-18,INACTIVE
+5969,DAKSH,TRIVEDI,Daksh.Trivedi@COMPANY.COM,2019-01-26,Machine Learning Engineer,IT,496228,5021,"H.No. 356, Loke Path Gangtok 023766",Ballia,MH,922953,1991-04-06,INACTIVE
+5970,VINCENT,YOGI,Vincent.Yogi@company.com,2022-07-21,Senior Software Engineer,Finance,1337168,5003,"H.No. 839, Kashyap Nagar, Cuttack 240662",Gopalpur,AP,334889,1971-05-17,INACTIVE
+5971,VICTOR,KHANNA,Victor.Khanna@company.com,2020-05-27,Data Analyst,Data,375167,,"H.No. 866 Kumar, Guna-542438",Yamunanagar,KA,855074,1979-03-24,INACTIVE
+5972,samarth,OAK,Samarth@company,2016-05-23,Software Engineer,IT,708004,5023,"89/59, Srinivasan Road, Kulti 964535",Nandyal,GJ,504718,2004-05-01,
+5973,saksham,agrawal,Saksham.Agrawal@company.com,2016-08-30,Software Engineer,Data,2084015,,"87/34, Ratti Road, Hazaribagh 679899",Sirsa,WB,617069,1988-03-06,Active
+5974,CHARAN,CHADA,Charan.Chada@company.com,2020-06-17,Machine Learning Engineer,Platform,1387055,5132,"H.No. 384, Chauhan Chowk Katni 566505",Hosur,KA,016744,1994-12-28,
+1078,pratyush,JAYARAMAN,Pratyush@company,2020-11-09,Senior Software Engineer,Platform,2054671,,"85/04 Badal Path, Alappuzha 937540",Bilaspur,MH,861789,1979-02-23,
+5976,oliver,narula,Oliver.Narula@COMPANY.COM,2023-08-10,HR Executive,Finance,"₹2,063,876",5195,"503, Naik Circle, Haldia 648163",Chapra,MH,680635,1973-06-28,Active
+1083,YAUVANI,PANCHAL,Yauvani.Panchal@COMPANY.COM,2019-10-12,Data Engineer,Data,515587,,"H.No. 278, Purohit Guwahati 048527",Etawah,TG,703656,1966-04-25,Active
+5978,manan,BEHL,Manan.Behl@company.com,2019-05-01,Data Engineer,IT,"₹2,977,837",,H.No. 43 Kuruvilla Danapur-331812,Korba,RJ,761707,1993-10-10,active
+5979,THOMAS,DASH,Thomas.Dash@company.com,2023-08-15,Senior Software Engineer,IT,"₹2,468,728",,"76 Sachdev Street, Munger 678508",Shimla,TN,759443,1985-07-16,active
+5980,BHAVIKA,THAKKAR,Bhavika.Thakkar@COMPANY.COM,2021-09-17,Data Analyst,Finance,1001673,,"74, Khatri Nagar, Pali 687404",Lucknow,AP,675149,1974-06-10,active
+5981,sai,panchal,Sai.Panchal@company.com,2019-06-04,Engineering Manager,Platform,"₹2,202,085",5195,"H.No. 73, Bhargava Ganj Patna 940656",Guna,TG,344538,1985-04-23,INACTIVE
+5982,gauri,sami,Gauri.Sami@company.com,2022-03-29,Senior Software Engineer,HR,421895,,"266, Arya Nagar, Bhilwara 091103",Bhimavaram,RJ,611998,1981-10-07,INACTIVE
+1008,mohini,MURTHY,Mohini@company,2017-05-23,Technical Lead,Analytics,2048944,,37/46 Bose Marg Farrukhabad 761868,Mumbai,DL,796668,1970-12-06,INACTIVE
+1013,manan,babu,Manan.Babu@company.com,2022-05-14,Machine Learning Engineer,Data,"₹2,081,564",,"H.No. 99 Badal Path, Bally 330292",Bhusawal,MH,054739,1974-02-01,Active
+5985,PAHAL,ghosh,Pahal.Ghosh@COMPANY.COM,2018-09-02,Technical Lead,Finance,"₹1,616,602",5162,"H.No. 13, Wali Zila, Gandhinagar 474733",Nizamabad,RJ,852474,1969-08-04,
+5986,chasmum,DAVE,Chasmum.Dave@company.com,2016-01-26,Technical Lead,Analytics,"₹1,184,294",5102,"H.No. 10 Kara Street, Kamarhati 186647",Barasat,GJ,313518,1977-10-26,active
+5987,RAGHAV,ANAND,Raghav.Anand@COMPANY.COM,2018-06-06,Machine Learning Engineer,IT,2604908,5054,"H.No. 65, Brar Circle, Bhagalpur 217895",Udupi,KA,984128,1989-03-17,INACTIVE
+5988,KEYA,NARAYANAN,Keya.Narayanan@COMPANY.COM,2022-03-02,Data Engineer,IT,401354,,59 Kale Street Jalandhar 489180,Thiruvananthapuram,WB,463429,2000-05-01,INACTIVE
+1070,oscar,muni,Oscar.Muni@COMPANY.COM,2018-09-11,Engineering Manager,Finance,2271415,,"30/912 Varma Zila, Bhatpara 341146",Thiruvananthapuram,RJ,155530,1972-01-09,Active
+5990,DEV,NAGI,Dev@company,2019-10-29,HR Executive,Platform,1895975,5167,"H.No. 40, Sastry Chowk Salem-965984",Imphal,AP,663454,1967-09-06,active
+5991,jagdish,gour,Jagdish.Gour@company.com,2026-03-11,Engineering Manager,HR,"₹704,179",5079,94/52 Saha Nagar Gwalior-061669,Pune,TN,822421,1971-09-18,INACTIVE
+5992,NIDHI,wason,Nidhi.Wason@COMPANY.COM,2018-06-06,Data Analyst,Finance,"₹1,967,292",,"17/562, Raj Marg Ludhiana-479100",Jehanabad,WB,257228,1993-06-06,Active
+5993,TAMANNA,BAWA,Tamanna.Bawa@company.com,2027-12-29,Senior Software Engineer,IT,2097567,5154,"H.No. 074, Nori Circle Warangal-387129",Hubli–Dharwad,AP,520580,1978-09-20,
+1092,manan,varty,Manan.Varty@company.com,2022-10-26,Engineering Manager,Data,1798926,5186,"H.No. 80, Gopal Street, Ahmedabad-547476",Kalyan-Dombivli,RJ,418985,1966-02-10,
+5995,rajata,ramanathan,Rajata.Ramanathan@COMPANY.COM,2027-09-22,Data Engineer,Platform,766435,,"H.No. 655, Desai Marg Kottayam-888765",Srikakulam,DL,136062,1982-09-10,
+5996,LAKSHIT,BAJAJ,Lakshit.Bajaj@company.com,2017-07-10,Data Engineer,HR,"₹1,809,465",,H.No. 479 Sekhon Road Gangtok-380351,Saharsa,GJ,382944,1971-09-04,INACTIVE
+5997,ethan,DARA,Ethan.Dara@company.com,2020-06-10,Technical Lead,HR,"₹1,104,966",,472 Khatri Circle Tiruchirappalli 730953,Singrauli,TG,084886,1996-04-20,active
+5998,ODIKA,NARULA,Odika.Narula@COMPANY.COM,2022-06-28,Machine Learning Engineer,IT,1805265,5118,82/282 Agarwal Circle Hajipur-235306,Purnia,WB,676780,1975-03-08,Active
+5999,MOHINI,MALLICK,Mohini@company,2021-07-14,Senior Software Engineer,Analytics,"₹2,282,338",,H.No. 49 Soman Path Siliguri-353175,Ozhukarai,DL,897487,2002-07-26,INACTIVE
+6000,ARADHANA,chahal,Aradhana.Chahal@COMPANY.COM,2027-09-10,Data Engineer,Data,"₹1,923,658",5166,"26/751 Tailor Zila, Bardhaman 349655",Secunderabad,DL,419678,1969-05-28,INACTIVE
+6001,PRISHA,khanna,Prisha.Khanna@company.com,2016-02-28,HR Executive,Finance,2546130,5122,82/016 Barad Ganj Khammam-224228,Hosur,KA,492766,1968-06-01,Active
+6002,CHANAKYA,venkatesh,Chanakya.Venkatesh@COMPANY.COM,2020-05-06,Data Engineer,Finance,"₹2,665,985",,"80/403, Mital Ganj Madurai 373586",Shivpuri,TN,554460,1994-09-09,Active
+6003,hemani,KONDA,Hemani.Konda@COMPANY.COM,2025-12-27,HR Executive,Analytics,2922657,,"67/46, Tandon Street, Nashik-364991",Khora ,TN,856728,1975-07-10,active
+6004,JANYA,BASAK,Janya.Basak@company.com,2018-12-05,Data Engineer,HR,726352,,"38/307 Oak Chowk, Jamalpur 126264",Medininagar,UP,678446,1970-11-04,Active
+6005,aarnav,sehgal,Aarnav.Sehgal@company.com,2025-07-28,Machine Learning Engineer,IT,"₹1,950,665",5127,"H.No. 991 Thaman, Sirsa-551294",Jalandhar,GJ,925316,1966-07-20,Active
+6006,ANYA,gokhale,Anya.Gokhale@company.com,2024-11-14,Data Analyst,Data,"₹1,599,698",5164,"H.No. 77 Palla Marg, Imphal 705549",Bhagalpur,TG,368771,1981-09-01,active
+6007,GAYATHRI,ROY,Gayathri.Roy@COMPANY.COM,2025-08-12,Data Analyst,Platform,"₹330,072",5132,"49/07, Khosla Marg Gorakhpur-359771",Nashik,GJ,154773,1976-11-30,INACTIVE
+6008,bhavna,lall,Bhavna.Lall@COMPANY.COM,2020-02-11,Data Analyst,HR,2967613,,"255 Tella Chowk, Rewa 135474",Singrauli,AP,573952,1969-11-28,INACTIVE
+6009,WAZIR,DHILLON,Wazir.Dhillon@company.com,2025-02-24,Engineering Manager,HR,"₹1,248,933",5187,"09/57 Mitra, Mirzapur 660284",Jammu,TN,233470,1989-12-24,Active
+6010,CHARITA,badami,Charita.Badami@company.com,2023-12-08,HR Executive,Finance,2628194,,"71/47 Suresh, Ramagundam 855950",Panchkula,WB,560170,1971-12-14,
+6011,rayaan,RAMA,Rayaan.Rama@COMPANY.COM,2017-09-27,Technical Lead,Platform,"₹1,270,594",5196,H.No. 90 Cheema Nagar Vadodara 794907,Kavali,DL,855162,1966-05-04,Active
+6012,IMARAN,PATLA,Imaran.Patla@company.com,2025-11-11,Senior Software Engineer,Data,"₹2,166,954",,"35 Sangha Ganj, Mathura-589607",Malda,TG,288341,1981-02-09,
+6013,TANAY,KASHYAP,Tanay@company,2021-11-25,Engineering Manager,IT,"₹2,287,213",5116,"H.No. 430, Sidhu Dehradun-493663",Nangloi Jat,KA,714803,1972-04-09,Active
+6014,advay,BEHL,Advay.Behl@company.com,2023-10-15,Senior Software Engineer,IT,1459006,,"H.No. 82 Bakshi Marg, Tiruvottiyur 637941",Guna,TG,691122,1980-07-25,
+6015,ROHAN,ganesan,Rohan.Ganesan@company.com,2017-04-23,Software Engineer,Data,"₹1,054,516",,611 Suresh Thoothukudi-657446,Kakinada,KA,554411,1982-12-25,active
+6016,GUNBIR,walia,Gunbir.Walia@COMPANY.COM,2027-05-08,Software Engineer,Data,365527,5172,"73, Badami Circle Asansol 388193",Haldia,TN,184714,1988-05-04,Active
+6017,lavanya,DESAI,Lavanya.Desai@COMPANY.COM,2018-11-05,Data Engineer,Finance,1246380,5193,83/335 Bhasin Road Bhubaneswar 728360,Mumbai,GJ,647709,1966-12-04,Active
+6018,ADVAITH,SAMA,Advaith.Sama@COMPANY.COM,2027-04-11,Data Engineer,HR,1773648,5122,"37/62, Prakash, Karawal Nagar-716217",Kalyan-Dombivli,DL,888680,1997-11-27,
+6019,chandani,CHAUHAN,Chandani.Chauhan@company.com,2024-07-19,Engineering Manager,Data,"₹1,065,621",,"264, Rattan Path Srikakulam-741991",Vadodara,TG,390649,1991-07-24,active
+6020,BACHITTAR,SUR,Bachittar.Sur@company.com,2026-12-31,Data Analyst,Platform,"₹2,555,830",,519 Bera Chowk Suryapet-589136,Adoni,MH,707421,1966-01-29,INACTIVE
+6021,gaurangi,KOSHY,Gaurangi.Koshy@COMPANY.COM,2017-03-01,Data Analyst,HR,1560386,,"H.No. 26, Dey Nagar, Gorakhpur-908875",Kottayam,TG,293358,1981-12-20,Active
+6022,VIHAAN,THAKUR,Vihaan.Thakur@company.com,2021-02-03,Senior Software Engineer,Platform,2854650,,"57, Narain Ganj Nangloi Jat 546935",Indore,TG,140128,1978-02-06,Active
+6023,YASH,GULATI,Yash.Gulati@company.com,2017-07-02,Data Analyst,Platform,2862712,,"97/99 Kannan Nagar, Madanapalle 177170",Patna,GJ,687094,2003-11-28,Active
+6024,ETHAN,dayal,Ethan.Dayal@company.com,2020-05-04,HR Executive,HR,"₹401,222",,H.No. 648 Nagi Ganj Mathura 684187,Berhampore,DL,600643,1991-01-08,INACTIVE
+6025,DAYITA,nair,Dayita.Nair@company.com,2027-03-09,Senior Software Engineer,Finance,"₹2,009,329",,"H.No. 730, Kara Ganj, Bilaspur-757451",Barasat,TN,809473,2004-12-24,INACTIVE
+6026,jackson,chanda,Jackson.Chanda@COMPANY.COM,2021-11-19,Machine Learning Engineer,Finance,2801298,5124,H.No. 27 Sha Nagar Adoni 761110,Ramgarh,AP,647545,1991-05-13,Active
+6027,OMYA,om,Omya.Om@COMPANY.COM,2023-11-15,Engineering Manager,Data,"₹2,813,865",5105,"693, Tripathi Road, Agartala-390984",Dehri,WB,606699,1975-03-23,Active
+6028,qabil,reddy,Qabil@company,2017-03-05,Senior Software Engineer,Analytics,"₹2,446,267",5048,70/97 Shan Chowk Kavali-703996,Gandhinagar,KA,779271,1979-11-23,Active
+6029,FREDERICK,bhakta,Frederick.Bhakta@COMPANY.COM,2023-06-22,Machine Learning Engineer,Data,2170729,,"896, Grover Street, Vellore 432333",Asansol,DL,993446,1981-03-31,Active
+6030,arin,rattan,Arin@company,2016-06-29,Machine Learning Engineer,Platform,1023398,5112,"06/952, Om Ganj, Siwan 529412",Latur,MH,006448,1990-09-27,INACTIVE
+6031,GAYATHRI,mani,Gayathri.Mani@COMPANY.COM,2025-01-25,HR Executive,Finance,1448319,,"H.No. 198, Kunda Nagar, Mirzapur 428053",Bulandshahr,MH,255078,1997-08-12,
+6032,panini,WAGLE,Panini.Wagle@COMPANY.COM,2026-11-14,Senior Software Engineer,IT,1932801,,"20/392, Das Street, Aurangabad-019586",Dhule,TN,879872,1995-06-03,INACTIVE
+6033,zilmil,TANEJA,Zilmil.Taneja@company.com,2019-06-24,Technical Lead,Analytics,"₹2,595,116",5032,"H.No. 95, Ghose Marg, Bhalswa Jahangir Pur 441603",South Dumdum,AP,700510,1970-03-21,active
+6034,praneel,vyas,Praneel.Vyas@company.com,2024-04-27,Senior Software Engineer,Analytics,2246964,,"022, Butala Nagar, Karimnagar 541648",Udupi,UP,104662,1986-04-10,active
+6035,unnati,NAGARAJAN,Unnati.Nagarajan@COMPANY.COM,2027-02-01,Senior Software Engineer,Data,2414893,,697 Majumdar Road Faridabad 607854,Panihati,RJ,958723,1966-03-31,
+6036,tarak,rao,Tarak.Rao@COMPANY.COM,2025-02-14,Senior Software Engineer,IT,"₹1,575,070",,"H.No. 457, Dube, Guntur-714858",Udupi,DL,015019,1965-09-27,
+6037,rachana,TANEJA,Rachana.Taneja@company.com,2026-05-23,Software Engineer,Platform,"₹1,109,771",,"25/19, Batra Street Kishanganj-852332",Delhi,TG,937958,1997-12-02,Active
+6038,NEEL,CHAUHAN,Neel.Chauhan@company.com,2021-11-14,Data Engineer,Data,2972651,5091,"H.No. 163 Sawhney, Ichalkaranji 075741",South Dumdum,AP,873962,2001-06-20,INACTIVE
+6039,LEKHA,DE,Lekha.De@company.com,2021-11-27,Data Engineer,Analytics,1265736,,"497, Keer Chowk Surendranagar Dudhrej-244343",Avadi,AP,872965,1970-06-14,active
+1029,vamakshi,choudhary,Vamakshi.Choudhary@COMPANY.COM,2021-10-07,HR Executive,IT,"₹564,111",5060,"02/99, Kara Nagar, Deoghar 424796",Ludhiana,UP,940916,1992-08-29,INACTIVE
+6041,IRYA,SUBRAMANIAN,Irya.Subramanian@COMPANY.COM,2019-11-27,Data Analyst,Data,2979026,,"H.No. 26, Devi Marg, Ambarnath-920369",Meerut,KA,401527,1997-07-18,INACTIVE
+6042,wyatt,chopra,Wyatt.Chopra@COMPANY.COM,2017-12-16,Senior Software Engineer,Platform,1996800,,"41, Swamy Road Bidar-018429",Bellary,AP,984742,1996-05-03,active
+6043,nakul,yohannan,Nakul.Yohannan@company.com,2026-11-13,Software Engineer,Data,"₹2,890,584",,"67/715 Bahri Ganj, Rourkela 247365",Kalyan-Dombivli,WB,299090,1981-07-08,
+6044,CHRISTOPHER,SANKARAN,Christopher.Sankaran@company.com,2021-02-19,Machine Learning Engineer,IT,743408,,"44/278, Krish Chowk, Ratlam-042316",Khora ,TN,067549,1995-11-15,
+6045,umang,hegde,Umang.Hegde@COMPANY.COM,2021-03-24,Engineering Manager,Finance,371250,,"H.No. 53, Goswami, Akola-835733",Korba,UP,073453,1980-10-04,
+6046,SATHVIK,bedi,Sathvik.Bedi@COMPANY.COM,2019-02-06,Engineering Manager,Platform,835449,,"H.No. 224 Kulkarni Chowk, Jehanabad-372033",Varanasi,TN,160232,1980-09-04,INACTIVE
+6047,ETA,CHAR,Eta@company,2016-07-04,Machine Learning Engineer,HR,2923613,,H.No. 58 Bhagat Chowk Faridabad 224564,Vijayawada,AP,551253,1998-03-14,active
+6048,yashvi,banik,Yashvi@company,2024-04-18,Senior Software Engineer,Analytics,"₹2,488,067",,"505, Mukherjee Ganj Coimbatore 157557",Katni,UP,328246,2000-03-13,active
+6049,YATAN,BADAL,Yatan.Badal@COMPANY.COM,2023-05-08,Engineering Manager,Analytics,2926445,,"H.No. 856, Mutti Ganj, Bangalore-761504",Pimpri-Chinchwad,KA,986856,1973-03-19,Active
+6050,sanaya,sharma,Sanaya.Sharma@company.com,2017-05-04,Data Analyst,Analytics,1175071,5200,"60/809, Chopra Nagar Vijayawada-610392",Anand,DL,893046,1985-11-08,INACTIVE
+6051,ishwar,raju,Ishwar.Raju@COMPANY.COM,2020-02-28,Senior Software Engineer,HR,2719675,5189,78/51 Pandit Circle Kavali 509656,Nadiad,RJ,280072,2002-10-14,
+6052,VINAYA,DUGAR,Vinaya.Dugar@COMPANY.COM,2016-01-21,Software Engineer,Platform,"₹561,751",,23 Kade Chowk Bidar 078308,Dhanbad,WB,978999,2002-09-22,Active
+6053,KAMYA,CHAUHAN,Kamya.Chauhan@COMPANY.COM,2026-12-09,Senior Software Engineer,Data,"₹881,532",5125,"83/67 Lad Zila, Ongole 906688",Hospet,WB,185711,1982-05-26,
+6054,pavani,MODI,Pavani.Modi@company.com,2022-01-19,HR Executive,HR,2034542,,95/634 Chakraborty Ganj Bahraich 920025,Haldia,KA,337773,1994-05-13,INACTIVE
+6055,ANDREW,IYENGAR,Andrew.Iyengar@COMPANY.COM,2017-09-18,HR Executive,Data,2883340,5147,"H.No. 926 Prabhu Zila, Motihari-201240",Dindigul,DL,550054,1990-10-14,Active
+6056,AZAD,TRIPATHI,Azad.Tripathi@company.com,2016-08-23,Data Analyst,IT,"₹2,078,823",,73 Uppal Circle Bhavnagar-616303,Kulti,TG,000914,2003-05-18,INACTIVE
+6057,UDANT,MUNSHI,Udant.Munshi@company.com,2018-09-13,Senior Software Engineer,Analytics,"₹1,965,976",5021,"41, Sachar Chowk Gopalpur-628973",Salem,WB,225275,1985-12-06,
+6058,NETRA,BHALLA,Netra@company,2016-02-04,Senior Software Engineer,Platform,911198,,"H.No. 234, Pradhan Nagar Bhind-125158",Firozabad,WB,828051,1976-04-26,Active
+6059,NITARA,RAU,Nitara.Rau@COMPANY.COM,2023-05-13,HR Executive,Analytics,2185822,5058,"927, Memon Circle Shivpuri 986361",Kolhapur,DL,695844,1967-12-25,active
+6060,chavvi,dugal,Chavvi@company,2016-04-11,Data Analyst,Finance,"₹405,500",5134,82/488 Halder Marg Sambalpur-371450,Srinagar,TG,802669,1974-11-16,Active
+6061,jairaj,LALL,Jairaj@company,2018-02-03,HR Executive,Analytics,1177126,5087,"10, Sha Road, Orai-199256",Avadi,TN,688341,1981-12-09,active
+6062,CHAKRADEV,kannan,Chakradev.Kannan@company.com,2020-06-23,Data Analyst,Data,793499,5076,"181, Chawla Zila, Bangalore 132517",Tirupati,WB,708560,1970-05-14,
+6063,ANVI,BATTA,Anvi.Batta@company.com,2022-08-06,Engineering Manager,IT,"₹2,444,592",,87/831 Hora Nagar Firozabad 645722,Khammam,TN,940740,1995-11-14,Active
+1040,TRISTAN,kala,Tristan.Kala@COMPANY.COM,2023-09-04,Technical Lead,Finance,"₹2,204,316",,"H.No. 933 Chhabra, Singrauli 126410",Pune,TN,267531,1983-02-04,
+6065,CHAKRADEV,PALL,Chakradev.Pall@company.com,2024-05-04,Software Engineer,Data,2077255,5012,"01/089, Natarajan Marg Vellore-253606",Jaipur,TN,474867,1992-01-05,active
+6066,charita,radhakrishnan,Charita.Radhakrishnan@company.com,2026-11-02,Data Engineer,Data,991798,,"17/03 Chhabra Marg, Meerut 701773",Satara,DL,933078,2004-10-04,
+6067,harshil,choudhry,Harshil.Choudhry@company.com,2017-04-13,Senior Software Engineer,Finance,"₹1,208,653",5075,H.No. 049 Garde Nagar Agartala 415596,Parbhani,TG,338496,1995-02-16,INACTIVE
+6068,hema,PRASAD,Hema.Prasad@COMPANY.COM,2018-10-11,Senior Software Engineer,HR,1972811,5061,03/353 Bhakta Nagar Tadipatri 665361,Sirsa,KA,173946,1980-08-06,Active
+6069,mohammed,MAHAJAN,Mohammed.Mahajan@company.com,2024-08-22,Technical Lead,HR,1038681,5112,"85/865, Dube Ganj Munger-141349",Amravati,DL,967060,1998-09-24,active
+6070,JASMIT,patla,Jasmit.Patla@company.com,2025-07-15,Senior Software Engineer,IT,480429,,"H.No. 79, Dani Street, Munger-506989",Uluberia,MH,646398,1971-12-02,active
+6071,SARA,AURORA,Sara.Aurora@COMPANY.COM,2017-10-02,Engineering Manager,Data,"₹1,075,934",,"03 Khanna, Mira-Bhayandar 186692",Pondicherry,KA,905092,1985-03-02,Active
+6072,lopa,bera,Lopa.Bera@COMPANY.COM,2016-02-23,Software Engineer,HR,"₹1,932,225",,"01/561, Bobal Marg Nellore 498121",Mumbai,KA,882384,1968-04-14,INACTIVE
+6073,KEYA,BEHL,Keya.Behl@COMPANY.COM,2027-08-07,Engineering Manager,IT,"₹2,533,988",5042,"331 Lalla Nagar, Dehri-773655",Coimbatore,AP,218822,2003-03-07,INACTIVE
+6074,ANSH,roy,Ansh.Roy@company.com,2019-08-27,Data Analyst,Data,1243575,5169,"H.No. 761 Balakrishnan Ganj, Jhansi-416936",Ratlam,TG,676403,1970-07-31,Active
+6075,manan,KAR,Manan.Kar@company.com,2025-11-05,Technical Lead,HR,1580979,,"H.No. 28, Ratti Street Kota-693794",Dehradun,RJ,529644,1969-08-20,
+6076,CHARVI,VENKATESH,Charvi.Venkatesh@company.com,2020-10-05,Data Analyst,Platform,2039006,,"11/14 Kant Ganj, Purnia-098058",Nangloi Jat,DL,555906,1981-12-03,Active
+6077,OJAS,subramaniam,Ojas.Subramaniam@COMPANY.COM,2025-01-19,Engineering Manager,Analytics,824795,,"H.No. 91, Babu Street Pali 721626",Lucknow,WB,235841,1997-08-13,Active
+1058,abeer,GILL,Abeer.Gill@COMPANY.COM,2026-08-13,Technical Lead,HR,736545,5091,"37 Hayre, Unnao 519247",Guwahati,TG,173670,1986-10-07,active
+6079,tejas,WABLE,Tejas.Wable@company.com,2023-04-08,Machine Learning Engineer,IT,483475,,"76/112 Manne Path, Tiruppur 008056",Patna,WB,924828,1975-02-15,
+6080,unnati,KAPOOR,Unnati.Kapoor@COMPANY.COM,2018-12-09,Technical Lead,IT,2115368,,88/312 Karpe Chowk Nagercoil 852207,Chennai,AP,970842,1972-07-21,active
+6081,UPMA,kulkarni,Upma.Kulkarni@COMPANY.COM,2027-06-25,Engineering Manager,Finance,2323351,5132,"96, Randhawa Ganj, Amritsar-955510",Bharatpur,WB,081948,1969-09-29,Active
+6082,AAHANA,DAVE,Aahana.Dave@COMPANY.COM,2018-03-20,Technical Lead,IT,1072109,,"00/360, Desai Chowk New Delhi-028303",Ajmer,UP,375391,1994-03-28,active
+6083,radhika,DHALIWAL,Radhika.Dhaliwal@COMPANY.COM,2025-07-22,Engineering Manager,Analytics,2851480,,63/166 Rajan Farrukhabad 330454,Rajkot,DL,616649,1967-01-29,INACTIVE
+6084,ucchal,agrawal,Ucchal.Agrawal@company.com,2016-07-18,Machine Learning Engineer,Data,1395861,,"58/015 Suri Zila, Dewas 962809",Sagar,MH,150509,2002-03-22,INACTIVE
+6085,nikita,SAGAR,Nikita.Sagar@COMPANY.COM,2017-09-14,Engineering Manager,Platform,1815376,5085,552 Gaba Ganj Suryapet 588377,Noida,KA,404762,1978-04-22,Active
+6086,harini,ISSAC,Harini.Issac@company.com,2026-02-28,Senior Software Engineer,Data,"₹2,456,107",,"H.No. 152, Nagarajan Path Bokaro 788826",Korba,TN,748903,1989-10-21,INACTIVE
+6087,anmol,KUMAR,Anmol.Kumar@COMPANY.COM,2022-02-16,Software Engineer,Platform,480796,,H.No. 861 Deep Road Narasaraopet 554592,Anantapur,TG,967577,2001-05-04,Active
+6088,GAURANG,chhabra,Gaurang.Chhabra@COMPANY.COM,2027-08-09,HR Executive,HR,2028311,,"H.No. 457, Dhar Marg, Chandrapur-116089",Bettiah,GJ,015221,1977-11-04,INACTIVE
+6089,samesh,JAGGI,Samesh.Jaggi@COMPANY.COM,2022-06-21,Software Engineer,IT,"₹314,559",5121,"H.No. 834, Sant Chowk, Bikaner-074611",Aurangabad,DL,992715,2000-07-11,
+6090,meera,BAVA,Meera.Bava@company.com,2019-10-10,Engineering Manager,Data,1576174,,"858 Vala, Anand-843976",Faridabad,KA,073794,1979-05-27,
+6091,chameli,MALHOTRA,Chameli.Malhotra@COMPANY.COM,2021-05-05,Technical Lead,HR,"₹1,954,828",5145,"H.No. 10 Rau Chowk, Purnia 654347",Tezpur,DL,604359,1996-07-02,INACTIVE
+6092,YUTIKA,kadakia,Yutika.Kadakia@company.com,2026-06-04,Machine Learning Engineer,Data,"₹1,968,735",,"99, Patla Marg, Hospet 756816",Hajipur,TG,340730,2000-02-14,INACTIVE
+6093,saanvi,CHAUDHARI,Saanvi.Chaudhari@COMPANY.COM,2027-09-16,Software Engineer,Finance,2591048,5016,"H.No. 350 Swamy Nagar, Munger-233854",Noida,UP,699952,1996-09-25,INACTIVE
+6094,gauri,bassi,Gauri.Bassi@company.com,2019-03-18,Software Engineer,Data,1528547,5161,"65/327, Murthy Ganj Kochi 972490",Kolhapur,KA,347714,1980-04-13,Active
+6095,PANINI,NARAYAN,Panini.Narayan@COMPANY.COM,2016-08-04,Engineering Manager,Data,2802319,5138,H.No. 55 Barman Chowk Vadodara-617413,Tirupati,KA,594761,2004-11-05,
+6096,NATHANIEL,chokshi,Nathaniel@company,2025-05-25,Data Analyst,Finance,1196195,5001,"27/065, Sarma Nagar Kota-228305",Sagar,TG,685304,2003-05-22,Active
+6097,KAMALA,PINGLE,Kamala.Pingle@COMPANY.COM,2021-07-14,Data Engineer,Analytics,"₹1,998,431",5164,"635, Ahuja Marg, Panchkula 894332",Alappuzha,TN,990460,1988-03-03,Active
+6098,AYUSH,venkatesh,Ayush.Venkatesh@COMPANY.COM,2019-01-19,HR Executive,Data,1405616,,"26/902 Doctor Street, Phusro-550617",Bhiwani,TG,015120,1981-08-23,
+6099,DAKSH,johal,Daksh.Johal@company.com,2025-12-16,Data Engineer,Platform,2952570,,"07/69 Gade Chowk, Eluru 183339",Kavali,AP,969210,1979-03-27,
+6100,geetika,KAPUR,Geetika.Kapur@company.com,2016-06-12,Technical Lead,IT,338806,,"600, Dass Circle Sasaram 774270",Baranagar,AP,788728,1997-09-19,
+6101,MAANAV,bhatia,Maanav.Bhatia@COMPANY.COM,2022-10-31,Data Analyst,Analytics,320407,5075,"80/126, Bera Rampur-658952",Pallavaram,TN,096064,1978-03-12,active
+6102,RIA,DUGAL,Ria.Dugal@company.com,2027-11-05,Engineering Manager,Data,"₹562,990",,"H.No. 73, Shroff Chowk, Nandyal 884070",Erode,MH,777061,1982-07-09,active
+6103,LUCKY,varkey,Lucky.Varkey@COMPANY.COM,2024-07-13,Technical Lead,Finance,2242853,,680 Deshpande Rewa-641700,Thiruvananthapuram,TG,186056,1995-11-27,
+6104,mitali,varma,Mitali.Varma@company.com,2016-03-15,Software Engineer,HR,765223,,47 Pillai Asansol 983124,Proddatur,DL,354160,1978-09-21,Active
+6105,frado,CHADA,Frado.Chada@COMPANY.COM,2026-07-08,HR Executive,Platform,2381660,5049,"70/17, Varkey Nagar, Shivpuri 520771",Chittoor,TG,043368,2002-11-20,active
+6106,KASHISH,savant,Kashish.Savant@COMPANY.COM,2026-03-08,HR Executive,Data,"₹621,697",,"46/105, Chand Zila, Aurangabad-070178",Bhopal,KA,050254,1990-11-02,Active
+6107,URVASHI,gade,Urvashi@company,2027-09-12,Data Engineer,Finance,495897,,"H.No. 029, Patla Chowk Agartala-539659",Tirupati,TG,252694,1980-08-26,INACTIVE
+6108,noah,BHALLA,Noah.Bhalla@company.com,2020-10-22,Data Engineer,IT,843266,5172,"H.No. 537 Baral Road, Tiruchirappalli-379376",Chapra,GJ,681608,1970-09-13,INACTIVE
+6109,ekaja,OZA,Ekaja.Oza@company.com,2024-06-20,Senior Software Engineer,IT,1539832,,"05/84 Raman, Panipat-990803",Ambala,TN,240574,1971-01-16,INACTIVE
+6110,ALKA,NARAYANAN,Alka.Narayanan@COMPANY.COM,2016-06-24,Technical Lead,Platform,"₹1,874,182",5024,"453, Dhillon Path, Gudivada-111085",Deoghar,GJ,668985,2003-06-21,active
+6111,TRISTAN,gandhi,Tristan.Gandhi@company.com,2017-04-28,Data Engineer,IT,"₹1,754,716",5010,"H.No. 830 Issac Chowk, Katihar 022642",Tadepalligudem,UP,205548,1981-07-18,Active
+6112,nihal,varughese,Nihal.Varughese@COMPANY.COM,2024-04-06,Data Analyst,Data,2951838,5042,"H.No. 474, Zacharia Amroha 604293",Vasai-Virar,TN,847214,2002-04-28,active
+6113,QUSHI,BRAR,Qushi.Brar@company.com,2023-10-25,Machine Learning Engineer,HR,2799800,5137,"04/52 Golla, Amroha-988979",Nandyal,UP,445847,1977-06-28,active
+6114,chaitaly,BISWAS,Chaitaly.Biswas@COMPANY.COM,2020-01-12,Engineering Manager,Finance,916437,5046,"29/36, Narasimhan Nagar South Dumdum 519346",Hazaribagh,UP,124844,1983-12-02,
+6115,varenya,kibe,Varenya.Kibe@company.com,2023-03-15,Engineering Manager,Finance,1998287,,"H.No. 568, Deshpande Marg, Mathura-706594",Satna,GJ,160227,1988-10-22,
+6116,chandani,KHURANA,Chandani.Khurana@COMPANY.COM,2020-03-30,Data Engineer,Analytics,751758,5089,27/186 Mane Street Sirsa-631121,Tinsukia,TG,782878,1968-08-15,INACTIVE
+6117,CHAMPAK,rana,Champak@company,2023-02-08,Data Engineer,HR,1534548,,"H.No. 98 Varghese Path, Gandhinagar 565418",Dehradun,TG,521288,1970-04-22,active
+6118,LAKSHMI,sant,Lakshmi.Sant@COMPANY.COM,2025-12-16,Senior Software Engineer,HR,"₹948,991",5006,"99 Mukherjee Circle, Jorhat 847052",Latur,KA,329887,1967-11-07,Active
+6119,GAVIN,GANESH,Gavin.Ganesh@company.com,2019-08-04,Technical Lead,Analytics,"₹750,459",,"68, Memon Marg Mango 862685",Chittoor,KA,876032,1975-11-14,active
+6120,ABEER,tiwari,Abeer.Tiwari@COMPANY.COM,2024-03-29,Technical Lead,Data,"₹2,626,145",5013,10 Gopal Marg Korba-557356,Nellore,DL,770045,1995-07-27,Active
+6121,TANAY,NORI,Tanay.Nori@company.com,2025-01-19,Engineering Manager,Analytics,802392,5125,"H.No. 273, Garde Street, Sultan Pur Majra-424025",Naihati,RJ,689397,1989-04-13,Active
+6122,tara,barad,Tara.Barad@COMPANY.COM,2021-01-04,Data Analyst,Platform,"₹2,400,296",,88 Parsa Zila Baranagar 738656,Bihar Sharif,WB,846733,1972-02-14,INACTIVE
+6123,rachit,GOKHALE,Rachit.Gokhale@company.com,2026-08-19,HR Executive,Data,"₹1,804,718",5123,95/58 Sarma Chowk Hyderabad-239459,Kozhikode,KA,407608,1969-10-29,Active
+6124,EKANTIKA,jhaveri,Ekantika.Jhaveri@COMPANY.COM,2017-01-11,Software Engineer,IT,"₹1,825,794",,"398, Dalal Nagar Dibrugarh-162833",Khandwa,TG,581080,1970-10-27,INACTIVE
+6125,JACKSON,pau,Jackson.Pau@COMPANY.COM,2019-09-28,Machine Learning Engineer,Platform,2502395,5173,"567 Dayal Nagar, Pallavaram-871565",Udupi,TN,794575,1979-02-03,active
+6126,HEMAL,PRABHAKAR,Hemal.Prabhakar@company.com,2022-04-13,Data Engineer,Analytics,2928245,5138,"36/291 Contractor Chowk, Kottayam 418395",Satara,WB,520788,1966-10-03,INACTIVE
+6127,NIHAL,borde,Nihal.Borde@COMPANY.COM,2022-09-25,Technical Lead,Analytics,"₹368,572",5044,"21/45, Merchant Chowk Imphal 030276",Madhyamgram,DL,088240,1986-05-07,active
+6128,ranbir,PATIL,Ranbir.Patil@COMPANY.COM,2027-08-25,Machine Learning Engineer,Platform,2325612,5072,"440, Iyer Street Muzaffarpur-094121",Mirzapur,RJ,579599,1981-06-29,
+6129,darsh,BALA,Darsh.Bala@COMPANY.COM,2020-10-29,Engineering Manager,Platform,2300911,,"325, Ray Road, Chandigarh 134348",Bhalswa Jahangir Pur,UP,339962,1997-08-02,Active
+6130,triya,SANE,Triya.Sane@COMPANY.COM,2025-04-30,Engineering Manager,Analytics,2877627,5190,"34, D’Alia Street Saharanpur 291381",Thane,AP,494802,1993-05-03,INACTIVE
+1047,CHANDRESH,WABLE,Chandresh.Wable@company.com,2017-03-21,HR Executive,IT,"₹2,250,749",,"H.No. 52 Dada Ganj, Ramgarh-821335",Kishanganj,TG,172366,2004-05-21,Active
+6132,VRINDA,bhagat,Vrinda.Bhagat@COMPANY.COM,2021-02-18,Data Engineer,Platform,"₹2,537,276",5199,"H.No. 389, Contractor Zila, Ramagundam-501332",Kulti,TN,495607,1969-09-26,Active
+1021,faraj,KUNDA,Faraj.Kunda@COMPANY.COM,2024-11-09,Machine Learning Engineer,Platform,"₹1,679,626",5124,"H.No. 775 Parmar Street, Saharanpur-163160",Mehsana,AP,105703,1997-05-01,Active
+6134,ladli,jha,Ladli.Jha@company.com,2017-01-19,Data Engineer,Data,"₹1,951,153",,"H.No. 059 Mand, Kavali-693233",Allahabad,WB,715800,1993-11-30,
+6135,WARHI,bhatti,Warhi.Bhatti@COMPANY.COM,2020-09-09,Software Engineer,IT,1252345,5105,"234, Balasubramanian Ganj, Naihati-448883",Latur,RJ,590972,1968-04-30,
+6136,LUCKY,vohra,Lucky.Vohra@company.com,2021-07-21,Data Analyst,IT,2815845,,54/55 Kakar Zila Ramgarh-034823,Shimla,UP,873693,2001-11-22,Active
+6137,maanav,khosla,Maanav.Khosla@company.com,2025-01-27,HR Executive,Finance,2930082,,36/475 Mukhopadhyay Circle Bidar 867416,Pallavaram,WB,206317,1966-03-08,Active
+1010,GAURANGI,pai,Gaurangi.Pai@company.com,2018-11-22,Data Analyst,IT,"₹2,981,523",,"01 Parmar Road, Kolkata-144157",Tinsukia,WB,436116,2004-02-28,Active
+6139,lakshmi,dani,Lakshmi.Dani@COMPANY.COM,2017-10-04,Data Analyst,Platform,"₹2,844,325",5189,"611, Ganesan Circle, Lucknow-554654",Sikar,KA,684377,1985-11-29,INACTIVE
+6140,gaurav,LOKE,Gaurav@company,2016-06-27,Data Engineer,Platform,"₹2,324,158",5178,"54/595 Samra Marg, Bangalore 011962",Mehsana,TN,386974,1978-07-12,INACTIVE
+6141,jeremiah,CHAUDHARY,Jeremiah.Chaudhary@company.com,2027-02-10,HR Executive,Finance,"₹2,391,511",5008,38/50 Nair Jaipur-409916,Patna,UP,136403,1995-04-24,Active
+6142,ANVI,WABLE,Anvi.Wable@company.com,2026-09-18,Data Engineer,Data,"₹2,029,070",,"77/006, Sur Street, Gangtok 142954",Pudukkottai,TG,695421,1982-03-02,
+6143,VAMAKSHI,PANDYA,Vamakshi.Pandya@company.com,2023-06-05,HR Executive,Platform,1975242,,"800 Sachdeva Zila, Amroha-447945",Muzaffarpur,MH,163832,1973-11-25,Active
+1028,PAHAL,MALLICK,Pahal.Mallick@company.com,2024-10-10,Data Analyst,IT,2391028,5028,"H.No. 170, Chauhan Chowk Anantapuram 761304",Karaikudi,TN,142355,1998-02-15,INACTIVE
+6145,MASON,JAGGI,Mason.Jaggi@COMPANY.COM,2026-11-29,HR Executive,HR,2373787,5124,"87/567, Dash, Nashik-656477",Gwalior,KA,882187,1979-07-16,active
+1033,baljiwan,vig,Baljiwan.Vig@company.com,2026-02-20,Machine Learning Engineer,Data,"₹2,804,152",5069,"91, Saha Zila Aurangabad 644611",Allahabad,AP,542473,1983-12-01,Active
+6147,zaitra,nayar,Zaitra.Nayar@company.com,2019-03-02,Technical Lead,Finance,1534711,5018,"H.No. 87 Agrawal Chowk, Nandyal-253251",Chandigarh,AP,822679,1981-06-09,
+6148,DARPAN,REGE,Darpan.Rege@company.com,2027-05-09,Data Engineer,Data,"₹1,266,234",5080,"865, Kale Ganj, Jaunpur-646821",Kanpur,GJ,709070,1992-08-23,
+6149,yatan,SURA,Yatan@company,2024-11-15,Machine Learning Engineer,IT,1314428,5105,"32/07 Varma Nagar, Darbhanga-926748",Alappuzha,AP,965074,1969-02-28,Active
+6150,amruta,oak,Amruta.Oak@company.com,2022-09-29,Machine Learning Engineer,IT,1111434,5031,"76, Majumdar Path, Khora -817947",Gangtok,KA,003452,1986-07-29,INACTIVE
+6151,manthan,bhat,Manthan.Bhat@COMPANY.COM,2019-03-10,Senior Software Engineer,HR,"₹861,304",,30/32 Kumer Marg Tirunelveli-733090,Rampur,KA,635168,1994-10-18,Active
+1078,HEMAL,DIN,Hemal@company,2027-01-14,Data Analyst,HR,"₹1,422,631",,"75 Dass Zila, Proddatur 799005",Silchar,MH,933276,1975-02-17,Active
+6153,VIHAAN,KALLA,Vihaan.Kalla@COMPANY.COM,2020-05-30,HR Executive,Finance,"₹2,114,070",5155,62/837 Kanda Street Belgaum-593103,Chittoor,MH,089423,1973-11-03,Active
+6154,zayan,BANDI,Zayan.Bandi@COMPANY.COM,2019-07-03,Machine Learning Engineer,IT,"₹1,087,359",,333 Yogi Zila Deoghar 561257,Agartala,GJ,371985,1995-05-12,INACTIVE
+6155,ishaan,SOOD,Ishaan.Sood@company.com,2023-03-09,Data Analyst,Analytics,"₹2,245,996",5110,"64/554, Dhawan Road, Arrah-837926",Ludhiana,DL,327396,2003-11-28,INACTIVE
+6156,janani,JAYARAMAN,Janani.Jayaraman@company.com,2020-07-01,Engineering Manager,IT,"₹1,762,311",,"979, Sidhu Rajpur Sonarpur-503219",Amaravati,GJ,551025,1974-01-23,active
+6157,advay,randhawa,Advay.Randhawa@company.com,2023-06-10,Machine Learning Engineer,IT,2449227,,"73, Talwar Road, Chittoor-499863",Karaikudi,TG,910385,1994-08-03,active
+6158,QASIM,MUKHERJEE,Qasim.Mukherjee@COMPANY.COM,2018-07-09,Engineering Manager,Data,2117462,,"155, Rattan, Mango-396399",Srikakulam,TG,940389,1996-12-27,INACTIVE
+6159,ijaya,nagi,Ijaya.Nagi@COMPANY.COM,2020-11-21,HR Executive,Analytics,"₹2,421,728",5080,"53/170 Swaminathan Circle, Patna 210273",Gandhinagar,GJ,256732,1993-04-01,INACTIVE
+6160,ONKAR,JAYARAMAN,Onkar.Jayaraman@company.com,2020-11-15,Technical Lead,HR,"₹1,271,280",5183,"39/16 Ahluwalia Marg, Amaravati-090488",Tenali,WB,732644,1999-05-23,Active
+1033,sara,hora,Sara.Hora@COMPANY.COM,2027-04-30,Senior Software Engineer,Analytics,2784378,,"41/760 Bajaj, Shimla 645810",Etawah,WB,346694,1996-12-10,INACTIVE
+6162,AADHYA,TAK,Aadhya.Tak@COMPANY.COM,2019-08-28,Senior Software Engineer,Platform,318035,5183,"52/890, Ramachandran Path, Hapur-837847",Mysore,KA,743450,1980-12-08,
+6163,neha,TRIVEDI,Neha.Trivedi@company.com,2021-06-13,Machine Learning Engineer,Data,2594724,5130,502 Bath Ganj Parbhani 924343,Chandrapur,WB,952121,1979-08-11,
+6164,ISHANI,RAMACHANDRAN,Ishani@company,2016-07-28,Machine Learning Engineer,Analytics,652315,,"H.No. 880, Narayanan Ganj, Gurgaon-660490",Morena,AP,474769,1981-01-10,INACTIVE
+6165,jason,BUMB,Jason.Bumb@company.com,2023-04-10,Senior Software Engineer,Platform,"₹2,530,578",,"H.No. 503, Ravel Etawah-819004",Satara,RJ,335286,1970-07-17,Active
+6166,nandini,agarwal,Nandini.Agarwal@COMPANY.COM,2017-09-24,Software Engineer,HR,2053746,5032,"00/295 Hans Chowk, Aligarh 124571",Dindigul,RJ,619499,1980-03-25,active
+6167,jack,GUPTA,Jack@company,2022-11-06,Senior Software Engineer,HR,2894032,5063,H.No. 19 Kapadia Zila Katihar 186717,Jorhat,GJ,492932,1990-06-15,INACTIVE
+6168,jasmit,badal,Jasmit.Badal@company.com,2024-05-14,Data Engineer,Data,1661781,5164,"933, Borde Street, Parbhani-220940",Kakinada,TG,177588,1971-12-05,
+6169,ikshita,RAJAN,Ikshita.Rajan@COMPANY.COM,2018-08-27,Senior Software Engineer,IT,1412208,,"61, Golla Zila, Mira-Bhayandar 306951",Ratlam,KA,121186,1995-07-31,
+6170,CHANAKYA,BHATNAGAR,Chanakya.Bhatnagar@COMPANY.COM,2025-03-31,Data Analyst,HR,1129712,,"39/933, Gopal Nagar Raurkela Industrial Township 920623",Anantapuram,WB,968891,1970-08-06,INACTIVE
+6171,anmol,ram,Anmol.Ram@COMPANY.COM,2026-10-18,Senior Software Engineer,Analytics,2928238,5126,"H.No. 50, Gade Path, Amritsar-036081",Panipat,UP,804460,1972-05-10,INACTIVE
+6172,FAQID,TATA,Faqid.Tata@company.com,2017-10-06,Data Analyst,Finance,2510537,5063,"H.No. 69, Lall Path Buxar 060958",Haridwar,RJ,745669,1982-06-29,active
+1000,thomas,PALL,Thomas.Pall@COMPANY.COM,2025-09-30,Senior Software Engineer,Analytics,"₹1,203,282",5022,"941 Dhar Road, Ramagundam-776253",Malda,GJ,691953,1967-10-16,INACTIVE
+6174,CHAITANYA,CHAR,Chaitanya.Char@COMPANY.COM,2022-09-03,Engineering Manager,Finance,1976975,5142,"61/74, Venkataraman Marg, Ballia-262976",Jamshedpur,AP,628660,1984-06-19,INACTIVE
+1064,RANVEER,MORAR,Ranveer.Morar@company.com,2026-03-06,HR Executive,Platform,"₹2,937,139",5061,89 Subramanian Marg Amravati-562774,Sangli-Miraj & Kupwad,TN,572312,2000-07-21,INACTIVE
+6176,ekantika,divan,Ekantika.Divan@COMPANY.COM,2020-09-04,Data Analyst,IT,"₹1,628,523",,560 Verma Nagar Nagaon-961721,Pimpri-Chinchwad,RJ,205353,1977-03-24,INACTIVE
+6177,gagan,GUHA,Gagan@company,2018-01-18,Machine Learning Engineer,Analytics,"₹1,799,078",,"05 Karpe, Jalgaon 221091",Adoni,DL,431414,2000-01-28,active
+6178,AZAAN,yohannan,Azaan.Yohannan@COMPANY.COM,2024-04-13,Machine Learning Engineer,Data,"₹1,228,927",5076,37/798 Modi Street Jalgaon-168231,Pallavaram,AP,810096,1999-11-13,active
+6179,MATTHEW,mukhopadhyay,Matthew.Mukhopadhyay@COMPANY.COM,2018-10-16,HR Executive,IT,"₹2,393,165",,"96/35 Thaman Path, Bidhannagar 526348",Thiruvananthapuram,TN,254422,1992-10-25,Active
+6180,ekanta,jain,Ekanta.Jain@COMPANY.COM,2021-08-02,HR Executive,Analytics,1080617,,82/80 Batra Path Chandrapur 538828,Kozhikode,RJ,476766,1972-12-20,Active
+6181,kritika,basu,Kritika.Basu@COMPANY.COM,2025-01-29,Technical Lead,IT,1650416,5197,"H.No. 87 Dayal Zila, Chittoor-313685",Kota,DL,262107,1973-10-08,Active
+6182,chakrika,butala,Chakrika.Butala@company.com,2020-05-24,Senior Software Engineer,Platform,822286,5016,"10/614, Parekh Road Gudivada-457443",Coimbatore,UP,115333,1982-12-12,
+6183,aradhana,seshadri,Aradhana@company,2018-10-28,Data Engineer,Finance,"₹2,760,221",,"H.No. 003, Kara Road, Barasat-585861",Fatehpur,WB,021599,1994-06-07,active
+6184,MITESH,TATA,Mitesh.Tata@company.com,2026-05-08,Technical Lead,IT,2663132,5111,38 Swaminathan Street Ballia-331222,Madanapalle,MH,480704,1982-05-22,INACTIVE
+6185,shravya,JHAVERI,Shravya.Jhaveri@company.com,2027-09-10,Software Engineer,IT,"₹1,266,676",,"87, Sharaf Road, Mehsana 070366",Nagercoil,DL,007622,1973-01-12,INACTIVE
+6186,MOHAMMED,DARA,Mohammed.Dara@company.com,2019-02-07,Software Engineer,Data,"₹768,174",5161,"38/68, Srivastava Street Gandhidham-643933",Dewas,MH,969206,2001-09-09,active
+6187,NANDINI,RANGANATHAN,Nandini.Ranganathan@company.com,2016-07-29,Data Analyst,IT,"₹1,384,825",,"H.No. 234, Jha Road, Saharsa 981184",Etawah,TG,242106,1983-08-13,INACTIVE
+6188,wahab,SIBAL,Wahab@company,2025-07-04,Software Engineer,IT,"₹1,639,294",,"H.No. 83, Krishnan Marg, Gwalior-595585",Rourkela,KA,937931,1971-01-14,active
+6189,SATHVIK,ROUT,Sathvik.Rout@COMPANY.COM,2019-04-25,Data Analyst,Analytics,1371516,,"767 Venkatesh Marg, Fatehpur 593586",Dhule,AP,174919,1991-10-30,active
+6190,HIRAL,KANNAN,Hiral.Kannan@company.com,2025-06-22,HR Executive,HR,2388666,,"72, Iyer Ganj, Unnao 150011",Rajahmundry,KA,548044,1966-08-16,
+6191,QADIM,ISSAC,Qadim.Issac@company.com,2023-01-17,Data Analyst,HR,2413030,5124,"H.No. 499, Chahal Nagar, Loni-164790",Madanapalle,UP,573806,1982-02-11,INACTIVE
+6192,SUHANI,RAJ,Suhani.Raj@company.com,2023-11-18,Machine Learning Engineer,HR,"₹831,827",,"096 Bath Zila, Jammu-264320",Danapur,KA,997245,1980-10-03,Active
+6193,UPASNA,CHAWLA,Upasna@company,2027-05-01,Software Engineer,HR,"₹1,961,490",,"32/77 Dani Nagar, Thanjavur 917732",Kolkata,TN,856888,1989-10-19,INACTIVE
+1093,OSHA,bhatnagar,Osha.Bhatnagar@COMPANY.COM,2016-08-14,Machine Learning Engineer,Data,874875,,"586 Memon Chowk, Jammu 447026",Jalgaon,RJ,676596,2000-08-31,
+6195,AISHANI,natt,Aishani@company,2024-11-03,Data Analyst,HR,1242759,,"49/47 Palla Zila, Mathura-745024",Bharatpur,RJ,772908,1995-04-09,INACTIVE
+6196,anjali,viswanathan,Anjali@company,2026-06-03,HR Executive,IT,1426082,,"94/503, Palla Chowk, Begusarai 780538",Davanagere,KA,693291,1992-02-19,active
+6197,YUG,ray,Yug.Ray@COMPANY.COM,2026-03-31,Engineering Manager,IT,"₹792,845",,"40/737, Bhakta Ganj, Chandigarh 063240",Kota,DL,265838,1990-11-14,Active
+6198,siya,sankaran,Siya.Sankaran@COMPANY.COM,2019-07-12,Machine Learning Engineer,Data,2487704,5149,"46 Ramesh Road, Agra 327399",Bilaspur,RJ,592094,1978-10-11,INACTIVE
+1028,ekaraj,bera,Ekaraj@company,2017-07-14,Software Engineer,IT,"₹1,160,068",,07 Choudhary Circle Raipur-484977,Panihati,KA,306144,1966-06-19,active

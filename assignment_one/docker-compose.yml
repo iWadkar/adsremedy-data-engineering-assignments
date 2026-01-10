@@ -1,0 +1,41 @@
+services:
+  postgres:
+    image: postgres:15
+    container_name: postgres_db
+    env_file:
+      - .env
+    environment:
+      POSTGRES_USER: ${DB_USER}
+      POSTGRES_PASSWORD: ${DB_PASSWORD}
+      POSTGRES_DB: ${DB_NAME}
+    ports:
+      - "5432:5432"
+    volumes:
+      - employees_pg_data:/var/lib/postgresql/data
+      - ./sql/init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - de_net
+
+  spark:
+    image: apache/spark:3.5.0
+    container_name: spark
+    depends_on:
+      - postgres
+    env_file:
+      - .env
+    environment:
+      SPARK_MODE: client
+    volumes:
+      - ./spark:/opt/spark-apps
+      - ./data:/opt/data
+      - ./jars:/opt/jars
+    networks:
+      - de_net
+    command: bash -c "sleep infinity"
+
+volumes:
+  employees_pg_data:
+
+networks:
+  de_net:
+    driver: bridge

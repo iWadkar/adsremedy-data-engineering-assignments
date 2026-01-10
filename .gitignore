@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Spark / logs
+*.log
+__pycache__/
+*.pyc
+
+# JDBC jars
+jars/
+
+# Docker metadata
+**/pg_data/
