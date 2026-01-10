@@ -35,7 +35,7 @@ assignment_one/
 │   └── postgresql-42.7.3.jar
 │
 ├── scripts/
-│   └── generate_employees.py
+│   └── generate_employees_data.py
 │
 ├── spark/
 │   └── employee_etl.py
@@ -55,7 +55,7 @@ Included issues:
 • null values in non-critical fields
 
 Script:
-`python scripts/generate_employees.py`
+`python scripts/generate_employees_data.py`
 
 Output:
 `data/employees_raw.csv`
