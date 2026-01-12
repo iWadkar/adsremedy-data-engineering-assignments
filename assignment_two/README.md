@@ -151,6 +151,7 @@ assignment_two/
     ```
 
 8. Design Decisions Summary:
+```markdown
 | Decision         | Reason                                     |
 | ---------------- | ------------------------------------------ |
 | Delta Lake       | ACID guarantees, schema enforcement        |
@@ -158,6 +159,7 @@ assignment_two/
 | No Spark cluster | Dataset size + simplicity                  |
 | Docker           | Reproducibility                            |
 | No Airflow       | Environment instability + time constraints |
+```
 
 9. Final Notes:
     • The pipeline is fully functional end-to-end
