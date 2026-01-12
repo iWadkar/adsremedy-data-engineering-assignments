@@ -22,26 +22,20 @@ Tech Stack:
 • Python (Faker for data generation)
 
 Project Structure:
-assignment_one/
-│
-├── docker-compose.yml
-├── .env.example
-├── README.md
-│
-├── data/
-│   └── employees_raw.csv
-│
-├── jars/
-│   └── postgresql-42.7.3.jar
-│
-├── scripts/
-│   └── generate_employees_data.py
-│
-├── spark/
-│   └── employee_etl.py
-│
-└── sql/
-    └── init.sql
+📁 assignment_one/
+    • docker-compose.yml
+    • .env.example
+    • README.md
+📁 data/
+    • employees_raw.csv
+📁 jars/
+    • postgresql-42.7.3.jar
+📁 scripts/
+    • generate_employees_data.py
+📁 spark/
+    • employee_etl.py
+📁 sql/
+    • init.sql
 
 Data Generation:
 • A Python script generates 1200+ employee records with intentional data quality issues:
