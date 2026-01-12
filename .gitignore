@@ -1,13 +1,54 @@
-# Environment variables
+# Python virtual environments
+**/airflow_venv/
+
+# ======================
+# Global / Common
+# ======================
 .env
-
-# Spark / logs
 *.log
-__pycache__/
 *.pyc
+__pycache__/
+.DS_Store
+.vscode/
+.idea/
 
-# JDBC jars
+# ======================
+# Assignment One
+# ======================
+assignment_one/venv/
+assignment_one/.env
+assignment_one/__pycache__/
+
+# ======================
+# Assignment Two
+# ======================
+
+# Spark / Delta
+assignment_two/app/
+assignment_two/data/
+assignment_two/spark-warehouse/
+assignment_two/_checkpoint/
+assignment_two/_spark_metadata/
+assignment_two/delta-lake/
+assignment_two/_raw/
+
+# Airflow (local or docker)
+assignment_two/airflow_home/
+assignment_two/airflow_logs/
+assignment_two/airflow.db
+assignment_two/webserver_config.py
+
+# Docker / Volumes
+assignment_two/pg_data/
+assignment_two/scylla-data/
+assignment_two/docker-data/
+**/scylla-data/
+
+# Python
+assignment_two/__pycache__/
+assignment_two/*.log
+
+# ======================
+# JDBC / Spark Jars
+# ======================
 jars/
-
-# Docker metadata
-**/pg_data/
